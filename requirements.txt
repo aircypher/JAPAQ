@@ -1,0 +1,16 @@
+# Versions used to build the JAPAQ release (Python 3.12)
+duckdb==1.4.4
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==20.0.0
+holidays==0.82
+pykakasi==2.3.0
+openpyxl==3.1.5
+neo4j==6.0.2
+# station geocoding only (stations/00_geocode_station_list.py)
+geopy==2.4.1
+tqdm==4.66.5
+# figures only (validation/make_figures.py)
+matplotlib==3.9.2
+geopandas==1.1.1
+shapely==2.1.2

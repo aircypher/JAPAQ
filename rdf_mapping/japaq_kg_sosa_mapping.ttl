@@ -1,0 +1,101 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sosa:   <http://www.w3.org/ns/sosa/> .
+@prefix ssn:    <http://www.w3.org/ns/ssn/> .
+@prefix time:   <http://www.w3.org/2006/time#> .
+@prefix geo:    <http://www.opengis.net/ont/geosparql#> .
+@prefix wgs84:  <http://www.w3.org/2003/01/geo/wgs84_pos#> .
+@prefix qudt:   <http://qudt.org/schema/qudt/> .
+@prefix unit:   <http://qudt.org/vocab/unit/> .
+@prefix japaq:  <https://w3id.org/japaq/schema#> .
+
+# JAPAQ-KG -> W3C SOSA/SSN mapping
+#
+# This file maps the labels, relationship types and properties of the JAPAQ-KG property graph
+# (Neo4j) to SOSA/SSN, OWL-Time and GeoSPARQL terms. It is a schema-level mapping: it states
+# what each graph element means in these vocabularies so that exported RDF can be interpreted
+# by SOSA/SSN-aware tools. It does not contain the data. To export data as RDF, see
+# neosemantics_export.cypher in this folder.
+#
+# Modelling note. In JAPAQ-KG one ObservedPollutant node holds the five pollutant measurements
+# and three meteorological measurements of one station-hour. In SOSA each measurement is a
+# separate sosa:Observation. The node is therefore mapped to a sosa:ObservationCollection, and
+# each measurement property to an observable property; neosemantics_export.cypher expands one
+# node into one sosa:Observation per non-null measurement.
+
+japaq: a owl:Ontology ;
+    rdfs:label "JAPAQ-KG schema mapping to SOSA/SSN" ;
+    owl:versionInfo "1.0.0" ;
+    owl:imports <http://www.w3.org/ns/sosa/> , <http://www.w3.org/ns/ssn/> .
+
+# ── Node labels ──────────────────────────────────────────────────────────────────────────────
+japaq:Station a owl:Class ;
+    rdfs:subClassOf sosa:Platform ;
+    rdfs:comment "Neo4j label Station: a regulatory monitoring station hosting the sensors. Key: sid (8-digit MOE station code)." .
+
+japaq:Location a owl:Class ;
+    rdfs:subClassOf geo:Feature ;
+    rdfs:comment "Neo4j label Location: administrative location of a station (prefecture, municipality, street) with WGS84 coordinates. Key: sid." .
+
+japaq:ObservationTime a owl:Class ;
+    rdfs:subClassOf time:Instant ;
+    rdfs:comment "Neo4j label ObservationTime: the hour of one record (obsdate, local time JST) with derived calendar attributes. Key: tid." .
+
+japaq:ObservedPollutant a owl:Class ;
+    rdfs:subClassOf sosa:ObservationCollection ;
+    rdfs:comment "Neo4j label ObservedPollutant: all measurements of one station-hour. Each non-null measurement property corresponds to one sosa:Observation. Key: tid." .
+
+# ── Relationship types ───────────────────────────────────────────────────────────────────────
+japaq:RECORDED_BY a owl:ObjectProperty ;
+    rdfs:domain japaq:ObservedPollutant ; rdfs:range japaq:Station ;
+    rdfs:comment "Neo4j (ObservedPollutant)-[:RECORDED_BY]->(Station). Equivalent to sosa:madeBySensor via the station's hosted sensors (sosa:hosts); exported as sosa:madeBySensor to a per-station, per-variable sensor IRI." .
+
+japaq:OBSERVED_AT a owl:ObjectProperty ;
+    rdfs:subPropertyOf sosa:phenomenonTime ;
+    rdfs:domain japaq:ObservedPollutant ; rdfs:range japaq:ObservationTime ;
+    rdfs:comment "Neo4j (ObservedPollutant)-[:OBSERVED_AT]->(ObservationTime)." .
+
+japaq:AT_LOCATION a owl:ObjectProperty ;
+    rdfs:domain japaq:ObservationTime ; rdfs:range japaq:Location ;
+    rdfs:comment "Neo4j (ObservationTime)-[:AT_LOCATION]->(Location). Places the observed hour at the station location; in SOSA terms the feature of interest of the observations is the air at this location." .
+
+japaq:LOCATED_AT a owl:ObjectProperty ;
+    rdfs:subPropertyOf geo:hasGeometry ;
+    rdfs:domain japaq:Station ; rdfs:range japaq:Location ;
+    rdfs:comment "Neo4j (Station)-[:LOCATED_AT]->(Location)." .
+
+# ── Observable properties (one per measurement property of ObservedPollutant) ────────────────
+japaq:PM25 a sosa:ObservableProperty ; rdfs:label "PM2.5 mass concentration" ;
+    japaq:graphProperty "pm25" ; japaq:labelProperty "pm25_level" ; qudt:unit unit:MicroGM-PER-M3 .
+japaq:SO2  a sosa:ObservableProperty ; rdfs:label "SO2 volume mixing ratio" ;
+    japaq:graphProperty "so2" ; japaq:labelProperty "so2_level" ; qudt:unit unit:PPM .
+japaq:NO   a sosa:ObservableProperty ; rdfs:label "NO volume mixing ratio" ;
+    japaq:graphProperty "no" ; japaq:labelProperty "no_level" ; qudt:unit unit:PPM .
+japaq:SPM  a sosa:ObservableProperty ; rdfs:label "Suspended particulate matter mass concentration" ;
+    japaq:graphProperty "spm" ; japaq:labelProperty "spm_level" ; qudt:unit unit:MilliGM-PER-M3 .
+japaq:Ox   a sosa:ObservableProperty ; rdfs:label "Photochemical oxidants volume mixing ratio" ;
+    japaq:graphProperty "ox" ; japaq:labelProperty "ox_level" ; qudt:unit unit:PPM .
+japaq:WindSpeed a sosa:ObservableProperty ; rdfs:label "Wind speed (hourly mean)" ;
+    japaq:graphProperty "ws" ; japaq:labelProperty "ws_level" ; qudt:unit unit:M-PER-SEC .
+japaq:Temperature a sosa:ObservableProperty ; rdfs:label "Air temperature" ;
+    japaq:graphProperty "temp" ; qudt:unit unit:DEG_C .
+japaq:RelativeHumidity a sosa:ObservableProperty ; rdfs:label "Relative humidity" ;
+    japaq:graphProperty "hum" ; qudt:unit unit:PERCENT .
+
+japaq:graphProperty a owl:AnnotationProperty ; rdfs:comment "Name of the Neo4j property holding the value." .
+japaq:labelProperty a owl:AnnotationProperty ; rdfs:comment "Name of the Neo4j property holding the severity or Beaufort label." .
+
+# ── Data properties (node attributes) ────────────────────────────────────────────────────────
+japaq:qualityFlag a owl:DatatypeProperty ; rdfs:range xsd:string ;
+    rdfs:comment "Stage 4 quality flag (name of the rule) of a measurement, from the Neo4j properties pm25_flag, no_flag, spm_flag, ox_flag, ws_flag, temp_flag, hum_flag; attached to the sosa:Observation of that measurement. Flagged values are implausible and should be excluded for most analyses." .
+japaq:severityLevel a owl:DatatypeProperty ; rdfs:range xsd:string ;
+    rdfs:comment "PSR severity label (Safe, Moderate, Slightly Unhealthy, Unhealthy, Very Unhealthy) or Beaufort class name; attached to the sosa:Observation of the corresponding measurement." .
+japaq:prefecture a owl:DatatypeProperty ; rdfs:domain japaq:Location ; rdfs:comment "Neo4j Location.prefecture_en" .
+japaq:city       a owl:DatatypeProperty ; rdfs:domain japaq:Location ; rdfs:comment "Neo4j Location.city_en" .
+japaq:stationType a owl:DatatypeProperty ; rdfs:domain japaq:Station ; rdfs:comment "Neo4j Station.stationtype_en (General, Roadside)" .
+japaq:dayType    a owl:DatatypeProperty ; rdfs:domain japaq:ObservationTime ; rdfs:comment "Neo4j ObservationTime.dayType" .
+japaq:season     a owl:DatatypeProperty ; rdfs:domain japaq:ObservationTime ; rdfs:comment "Neo4j ObservationTime.season" .
+japaq:timeCategory a owl:DatatypeProperty ; rdfs:domain japaq:ObservationTime ; rdfs:comment "Neo4j ObservationTime.timeCategory" .
+# Coordinates: Location.lat / Location.lon -> wgs84:lat / wgs84:long ; obsdate -> time:inXSDDateTimeStamp (+09:00).

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or the JAPAQ data, please cite the dataset and the article below."
+title: "JAPAQ: code to build and validate the hourly air quality dataset and knowledge graph for Japan"
+type: software
+license: MIT
+authors:
+  - family-names: Pogaku
+    given-names: Arjun Chakravarthi
+    affiliation: The University of Aizu
+  - family-names: Rage
+    given-names: Uday Kiran
+    affiliation: The University of Aizu
+repository-code: "https://github.com/aircypher/JAPAQ"
+references:
+  - type: dataset
+    title: "JAPAQ: hourly air quality observations and knowledge graph for Japan, 2018-2025"
+    version: 1.0.0
+    doi: 10.5281/zenodo.21458239
+    authors:
+      - family-names: Pogaku
+        given-names: Arjun Chakravarthi
+      - family-names: Rage
+        given-names: Uday Kiran
+    publisher:
+      name: Zenodo
+    year: 2026

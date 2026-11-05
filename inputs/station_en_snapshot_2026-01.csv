@@ -1,0 +1,1683 @@
+sid,stationname_en,stationtype_en,prefecture_en,city_en,street_en,pincode,lat,lon
+01101010,Sentaa,General,Hokkaido,Sapporo,Kita 1-jo･Kariki-dori Avenue,060-8610,43.06225480000001,141.3532777
+01101020,Yamahana,General,Hokkaido,Sapporo,Minami 23-jo Nishi 14-chome,064-8516,43.028129,141.3388489
+01101520,Kita 1 Jou,Roadside,Hokkaido,Sapporo,Kita 1-jo･Kariki-dori Avenue,060-8610,43.06225480000001,141.3532777
+01101540,Minami 14 Jou,Roadside,Hokkaido,Sapporo,Yonesato gyokei dori,064-0915,43.0409769,141.3445286
+01102010,Shinoro,General,Hokkaido,Sapporo,Shinoro 4-jo 9-chome,002-8024,43.1453261,141.3711567
+01102020,Kokusetsu Sapporo Taiki Kankyou Sokutei Tokoro,General,Hokkaido,Sapporo,環状通,060-0818,43.0820313,141.3331052
+01102510,Kita 19 Jou,Roadside,Hokkaido,Sapporo,Shinkawa 3-jo 19-chome,001-0930,43.1163803,141.2900796
+01103520,Higashi 18 Choume,Roadside,Hokkaido,Sapporo,Kita 33-jo Higashi 9-chome,065-0033,43.1025891,141.3621569
+01104030,Kita Shiroishi,General,Hokkaido,Sapporo,Kikusui-Motomachi 8-jo 3-chome,003-0828,43.0691627,141.4156654
+01105520,Tsukisamu Chuuou,Roadside,Hokkaido,Sapporo,Tsukisamu Dori,062-0020,43.03045300000001,141.396111
+01107020,Hassamu,General,Hokkaido,Sapporo,Hassamu 5-jo 5-chome,063-0826,43.0877638,141.2890968
+01107030,Teine,General,Hokkaido,Sapporo,Teine-eki Kita Dōri,006-0812,43.123878,141.2455849
+01108010,Atsubetsu,General,Hokkaido,Sapporo,Atsubetsunishi dori,004-0052,43.04212950000001,141.4630875
+01110010,Kiyoda,General,Hokkaido,Sapporo,Hiraoka 1-jo 1-chome,004-8613,42.999538,141.443781
+01202080,Kita Mihara Shougakkou,General,Hokkaido,Hakodate,美原学園通,041-0807,41.8259946,140.749197
+01202100,Chuubu Shougakkou,General,Hokkaido,Hakodate,,040-0032,41.7780373,140.7365501
+01202120,Fukahori Chuugakkou,General,Hokkaido,Hakodate,Fukaboridori,042-0941,41.7868295,140.781283
+01202560,Mihara,Roadside,Hokkaido,Hakodate,函館上磯線,041-0806,41.81853599999999,140.7469268
+01203090,Zenibako,General,Hokkaido,Otaru,,047-0261,43.1397055,141.1564377
+01203100,Kachi Nou,General,Hokkaido,Otaru,National Highway Route 5,047-0008,43.1816007,141.0219656
+01203520,Ekimae Kousaten,Roadside,Hokkaido,Otaru,National Highway Route 5,047-0032,43.19675549999999,140.9947059
+01204010,Chuuou,General,Hokkaido,Asahikawa,6-jo Dori,070-0035,43.7702998,142.3645743
+01204011,Chuuou,Roadside,Hokkaido,Asahikawa,6-jo Dori,070-0035,43.7702998,142.3645743
+01204050,Kitamon,General,Hokkaido,Asahikawa,錦町二十一丁目,070-0824,43.7940457,142.3294024
+01204150,Toukou,General,Hokkaido,Asahikawa,東光十六条八丁目,078-8344,43.7393644,142.4125865
+01204160,Nagayama,General,Hokkaido,Asahikawa,Taisetsu Dori,079-8501,43.8107633,142.4360185
+01205020,Omae Mizu,General,Hokkaido,Muroran,三笠山神社通,051-0002,42.3223606,140.9984815
+01205060,Hakuchoudai,General,Hokkaido,Muroran,Hakuchodai 5-chome,050-0054,42.3783205,140.9418307
+01205310,Wanishi,General,Hokkaido,Muroran,中央東線,050-0084,42.33715369999999,141.0171638
+01205320,Higashi,General,Hokkaido,Muroran,Muroran Kanjo Line,050-0082,42.347713,141.0313448
+01205540,Shiomi,Roadside,Hokkaido,Muroran,,050-0083,42.3417795,141.0267697
+01206280,Kushirokousen,General,Hokkaido,Kushiro,,084-0916,43.0173372,144.2606979
+01206290,Shouwa Shougakkou,General,Hokkaido,Kushiro,Kushiro Kanjo Line,084-0910,43.02087840000001,144.3633033
+01207090,Obihiro Shiyakusho,General,Hokkaido,Obihiro,西八条南六丁目,080-8670,42.9243517,143.1978955
+01208510,Kitami Shi Jouban Machi Taiki Sokutei Kyokusha,Roadside,Hokkaido,Kitami,Tokiwa Avenue,090-8701,43.7987008,143.8907182
+01213020,Futaba,General,Hokkaido,Tomakomai,Futabacho 3-chome,053-0045,42.6503481,141.6071581
+01213050,Akeno Kouen,General,Hokkaido,Tomakomai,明野南二条通,053-0052,42.6576551,141.6309688
+01213070,Yuufutsu,General,Hokkaido,Tomakomai,Tomakomai kanjo line,059-1372,42.627221,141.7297099
+01213220,Numa No Haji Kouen,General,Hokkaido,Tomakomai,Tomakomai kanjo line,059-1305,42.6698527,141.6892571
+01213510,Itoi,Roadside,Hokkaido,Tomakomai,Shirakabacho 5-chome,053-0821,42.627265,141.5414423
+01213610,Shiyakusho,Roadside,Hokkaido,Tomakomai,Asahimachi 4-chome,053-8722,42.6340685,141.6055413
+01224010,Hinode,General,Hokkaido,Chitose,Hinode 2-chome,066-0017,42.8299585,141.6722923
+01224020,Tomioka,General,Hokkaido,Chitose,Tomioka 4-chome,066-0034,42.8395695,141.6430061
+01224050,Koma Sato,General,Hokkaido,Chitose,,066-8655,42.7975827,141.7340671
+01224060,Wakakusa,General,Hokkaido,Chitose,Wakakusa 5-chome,066-0057,42.7898536,141.5988457
+01226010,Shokugyoukunren Kou,General,Hokkaido,Sunagawa,東六条北十一丁目,073-0121,43.5092302,141.9187704
+01302010,Tarukawa,General,Hokkaido,Ishikari,樽川四条三丁目,061-3253,43.1581549,141.2835892
+01424010,Naie,General,Hokkaido,Naie,Ebetsu Naie Line,079-0305,43.4252332,141.8791082
+01518950,Kokusetsu Rishiri Sanseiu,General,Hokkaido,Rishiri,,,45.1530013,141.2269035
+01578010,Shiraoi,General,Hokkaido,Shiraoi,大町１番通り,059-0905,42.5505664,141.3559622
+01578030,Kita Yoshihara,General,Hokkaido,Shiraoi,,059-0923,42.5096128,141.29068
+01579020,Tooasa,General,Hokkaido,Abira,,059-1499,42.7430594,141.7594384
+01579030,Hayakita,General,Hokkaido,Abira,Hayakita-Kitamachi,059-1506,42.76268890000001,141.8055239
+01581010,Atsuma,General,Hokkaido,Atsuma,新町公園通り線,059-1623,42.7212275,141.8850873
+01581020,Joukou Makoto,General,Hokkaido,Atsuma,Kami-Atsuma,059-1741,42.6456552,141.8500547
+01582020,Taura,General,Hokkaido,Mukawa,Hidaka Expressway,054-0004,42.6011207,141.8976741
+01582030,Mukawa,General,Hokkaido,Mukawa,Chitose Mukawa Line,054-0031,42.5790437,141.9256255
+02201070,Tsutsumi Shougakkou,General,Aomori,Aomori,青森浪岡線 (松原通り),030-0813,40.8196865,140.7607459
+02201080,Kouda Shougakkou,General,Aomori,Aomori,Asahi-chō Dōri,030-0862,40.8142268,140.7337358
+02201090,Shinjou Chuuou Shougakkou,General,Aomori,Aomori,,038-0042,40.8253711,140.6753767
+02201520,Hashimoto Shougakkou,Roadside,Aomori,Aomori,National Highway Route 4,030-0823,40.8245952,140.7532506
+02202060,Hirosakishi Ritsu Daiichi Chuugakkou,General,Aomori,Hirosaki,北大通り,036-8045,40.6090307,140.4774873
+02202510,Bunkyou Shougakkou,Roadside,Aomori,Hirosaki,石川土手町線,036-8155,40.5836753,140.4746421
+02203050,Negishi Shougakkou,General,Aomori,Hachinohe,,039-1165,40.5416315,141.4652971
+02203220,Kikyou No Shougakkou,General,Aomori,Hachinohe,National Highway Route 45,039-2226,40.5743539,141.4406907
+02203240,Hachinohe Shougakkou,General,Aomori,Hachinohe,Nagane 4-chome,031-0072,40.5163489,141.4806243
+02203260,Hachinohe Tokubetsu Chiiki Kishou Kansokujo,General,Aomori,Hachinohe,（臨）白銀北沼線,031-0803,40.5275267,141.5221718
+02203510,Muikamachi,Roadside,Aomori,Hachinohe,花小路,031-0032,40.508947,141.4908198
+02204010,Supokaruin Kuroishi,General,Aomori,Kuroishi,黒石停車場線,036-0367,40.6506156,140.5941622
+02205010,Goshogawara Daisan Chuugakkou,General,Aomori,Goshogawara,,037-0023,40.7819528,140.4645474
+02206030,Sanbongi Chuugakkou,General,Aomori,Towada,大通り,034-0011,40.6092951,141.2032748
+02207020,Okasan Sawa Chounaikai Kan,General,Aomori,Misawa,Falcon Avenue,033-0001,40.6940478,141.3763569
+02208030,Toma Nama Shougakkou,General,Aomori,Mutsu,Kanamagari 1-chome,035-0041,41.2842103,141.2092005
+02307950,Kokusetsu Tappimisaki Sanseiu,General,Aomori,Sotogahama,三厩停車場竜飛崎線,030-1716,41.2412816,140.368568
+02321010,Aji Ke Sawa Machi Maido,General,Aomori,Ajigasawa,,038-2761,40.7826875,140.2381108
+02364510,Daiei Shougakkou,Roadside,Aomori,Aomori,浪岡藤崎線,038-1301,40.7570732,140.5898472
+02411010,Roku Ke Tokoro Murao Paku,General,Aomori,Rokkasho,横浜六ヶ所線,039-3212,40.97637659999999,141.3593692
+03201070,Tsushida,General,Iwate,Morioka,,020-0834,39.6637187,141.1453408
+03201550,Ueda,Roadside,Iwate,Morioka,Morioka Bypass,020-0015,39.720375,141.1381896
+03202050,Yokochou,General,Iwate,Miyako,宮古岩泉線,027-0076,39.6451851,141.9498052
+03203090,Ikawa Machi,General,Iwate,Ofunato,National Highway Route 45,022-0006,39.0952339,141.7046596
+03204010,Mizusawa,General,Iwate,Ōshū,水沢大手町三丁目,023-0801,39.1526189,141.1314791
+03205010,Hanashiro,General,Iwate,Hanamaki,花川橋,025-0066,39.3900535,141.1158907
+03206010,Yoshichou,General,Iwate,Kitakami,Yoshicho,024-0095,39.2871353,141.1110856
+03207010,Youka Machi,General,Iwate,Kuji,National Highway Route 281,028-0041,40.1921043,141.7635886
+03209010,Takeyama Machi,General,Iwate,Ichinoseki,一関北上線,021-8503,38.935907,141.1271296
+03209510,San Tanda,Roadside,Iwate,Ichinoseki,Ichinoseki Bypass,021-0053,38.9324021,141.1186433
+03211070,Shinmachi,General,Iwate,Kamaishi,National Highway Route 283,026-0041,39.2658381,141.8454254
+03213020,Niwatashi,General,Iwate,Ninohe,,028-6101,40.2688938,141.294864
+03215010,Esashi,General,Iwate,Ōshū,水沢大手町一丁目,023-0801,39.1444106,141.1392153
+03305010,Sugo,General,Iwate,Takizawa,盛岡環状線,,39.7346312,141.0773304
+03321010,Nichi Tsume,General,Iwate,Shiwa,日詰西一丁目,028-3307,39.5552726,141.1721083
+04101010,Hirose,General,Miyagi,Sendai,Aoba Ward,989-3125,38.272005,140.7755108
+04101020,Miya Soukyoku,General,Miyagi,Sendai,Ayashi Bypass,989-3199,38.2686864,140.7641731
+04101510,Kitane,Roadside,Miyagi,Sendai,宮城県道22号仙台泉線,981-0921,38.2932172,140.8733429
+04104010,Aki Soukyoku,General,Miyagi,Sendai,Taihaku Ward,982-0243,38.2585346,140.6712816
+04105520,Choumei,Roadside,Miyagi,Sendai,仙台北環状線,981-3122,38.3106765,140.8461466
+04105530,Shougen,Roadside,Miyagi,Sendai,Shogen 4-chome,981-3132,38.3365894,140.8860157
+04201020,Iwakiri,General,Miyagi,Sendai,Miyagino Ward,983-0821,38.3013025,140.9461684
+04201030,Tsuruya,General,Miyagi,Sendai,鶴ケ谷中央線,983-0824,38.2911893,140.910615
+04201050,Nagamachi,General,Miyagi,Sendai,Koriyama 6-chome,982-0003,38.2189361,140.8892438
+04201060,Nakayama,General,Miyagi,Sendai,Nakayama 6-chome,981-0952,38.2969071,140.8397345
+04201070,Nakano,General,Miyagi,Sendai,蒲生福田線,983-0006,38.2648502,140.9769977
+04201080,Shichi Sato,General,Miyagi,Sendai,荒井荒町線,984-0039,38.2401738,140.939997
+04201210,Fuku Shitsu,General,Miyagi,Sendai,Fukumuro 5-chome,983-0005,38.2797346,140.9724557
+04201220,Yamada,General,Miyagi,Sendai,上の原線,982-0812,38.2204979,140.8288095
+04201230,Tsutsujigaoka,General,Miyagi,Sendai,Miyagino-dori Ave.,983-0045,38.2600417,140.8963703
+04201540,Nigatake,Roadside,Miyagi,Sendai,Haranomachi 3-chome,983-8601,38.26734829999999,140.9110366
+04201550,Kimachi,Roadside,Miyagi,Sendai,Kimachidori 1-chome,980-0801,38.2710134,140.8645156
+04201560,Itsutsubashi,Roadside,Miyagi,Sendai,Wakabayashi Ward,984-0075,38.2512611,140.8820454
+04202060,Ishinomaki Nishi,General,Miyagi,Ishinomaki,,986-0853,38.4330414,141.261976
+04203010,Shiogama,General,Miyagi,Shiogama,Asahicho,985-8601,38.3144561,141.0228039
+04203510,Shiogama Jihai,Roadside,Miyagi,Shiogama,Nakanoshima,985-0015,38.3143557,141.0298497
+04204020,Furukawa 2,General,Miyagi,Osaki,Furukawa East Bypass,989-6128,38.5664687,140.9746624
+04204510,Furukawa Jihai,Roadside,Miyagi,Osaki,National Highway Route 108,989-6115,38.572546,140.970727
+04205020,Kesennuma,General,Miyagi,Kesennuma,笹が陣,988-0073,38.902935,141.5712506
+04206010,Shiroishi,General,Miyagi,Shiroishi,中の沢熱海線,989-0248,37.9996848,140.6201013
+04207510,Natori Jihai,Roadside,Miyagi,Natori,Masuda 5-chome,981-1224,38.1745471,140.8895346
+04210010,Nanakita,General,Miyagi,Sendai,学校東線,981-3116,38.3228786,140.893218
+04211010,Iwanuma,General,Miyagi,Iwanuma,駅前大通線,989-2433,38.1116296,140.8674208
+04323010,Shibata,General,Miyagi,Shibara,白石柴田線,989-1692,38.0564839,140.766602
+04341010,Marumori,General,Miyagi,Marumori,,,37.8562241,140.817232
+04362010,Yamamoto,General,Miyagi,Yamamoto,,989-2111,37.9407289,140.8928843
+04401010,Matsushima,General,Miyagi,Matsushima,,981-0215,38.3891737,141.0711061
+04406010,Rifu,General,Miyagi,Rifu,Chuo 2-chome,981-0199,38.3296746,140.9814431
+04421010,Yamato,General,Miyagi,Taiwa,,981-3621,38.4472047,140.8869436
+04501010,Kokusetsu Kin Gaku,General,Miyagi,Wakuya,涌谷津山線,987-0284,38.5504263,141.170805
+04521010,Tsukidate,General,Miyagi,Kurihara,National Highway Route 4,989-5625,38.7384818,141.0186554
+04541010,Sako,General,Miyagi,Tome,,987-0601,38.6918056,141.2081167
+04562020,Yamoto 2,General,Miyagi,Higashimatsushima,Blue Impulse Street,981-0503,38.4197267,141.2100415
+05201010,Shougun No,General,Akita,Akita,上新城土崎港線,011-0941,39.76077069999999,140.0811914
+05201030,Ibara Shima,General,Akita,Akita,akita-rinkai bypass,010-0065,39.7039334,140.1027013
+05201040,Niida,General,Akita,Akita,Niida-Honcho 3-chome,010-1437,39.67947059999999,140.1306161
+05201080,Tsuchizaki,General,Akita,Akita,National Highway Route 7,011-0946,39.7609917,140.065418
+05201120,Sannou,General,Akita,Akita,けやき通り,010-8504,39.7201126,140.1017684
+05201130,Araya,General,Akita,Akita,秋田天王線,010-1636,39.6771749,140.0854914
+05201370,Kou Men,General,Akita,Akita,Higashidori 4-chome,010-0003,39.713752,140.1457226
+05201530,Jihai Ibara Shima,Roadside,Akita,Akita,akita-rinkai bypass,010-0065,39.7039334,140.1027013
+05202020,Noshiro Nishi,General,Akita,Noshiro,National Highway Route 101,016-0897,40.2109451,140.0196783
+05202040,Hiyama,General,Akita,Noshiro,,016-0121,40.1695274,140.1195362
+05203020,Yokote,General,Akita,Yokote,1-chome,013-8502,39.3094061,140.5754397
+05204020,Oodate,General,Akita,Odate,,017-0813,40.2734071,140.572748
+05205010,Honjou,General,Akita,Yurihonjō,National Highway Route 105,015-0861,39.3839503,140.0499254
+05206060,Funakawa,General,Akita,Oga,Izumidai,010-0511,39.8900305,139.8502401
+05208010,Oomagari,General,Akita,Daisen,Yuzawa-Omonogawa-Ōmagari Line,014-0063,39.45077,140.4794777
+06201090,Yamagata Dou Machi,General,Yamagata,Yamagata,Domachi 2-chome,990-0051,38.2702601,140.3406261
+06201110,Yamagata Narisawa Nishi,General,Yamagata,Yamagata,Narisawanishi 1-chome,990-2339,38.2119543,140.3160505
+06201510,Yamagata Gezan Ie,Roadside,Yamagata,Yamagata,Yamagata Bypass,990-0072,38.2693927,140.3622753
+06202010,Yonezawa Kanaike,General,Yamagata,Yonezawa,Kanaike 2-chome,992-8799,37.919914,140.1138229
+06203010,Tsuruoka Nishikichou,General,Yamagata,Tsuruoka,錦町,997-0042,38.7393102,139.8270487
+06204050,Sakata Jaku Hama,General,Yamagata,Sakata,酒田松山線,998-0855,38.9133461,139.8490313
+06205010,Shinjou Shimoda,General,Yamagata,Shinjo,,996-0026,38.7574861,140.298662
+06206010,Sagae Nishine,General,Yamagata,Sagae,西根北町,991-0000,38.3912983,140.2770409
+06208010,Murayama Tateoka Fueda,General,Yamagata,Murayama,中島新田楯岡線,995-0025,38.4736,140.3988015
+06209010,Nagai Takano,General,Yamagata,Nagai,郡是通り,993-0041,38.1106113,140.0345286
+06422010,Amarume,General,Yamagata,Shōnai,,999-7781,38.8458177,139.9037241
+07201180,Furukawa,General,Fukushima,Fukushima,阿武隈川サイクリングロード,960-0111,37.7765396,140.4909781
+07201190,Minamimachi,General,Fukushima,Fukushima,,960-8141,37.7404417,140.4632759
+07201200,Mori Gou,General,Fukushima,Fukushima,3,960-8003,37.7693935,140.4534329
+07201510,Matsunami Machi,Roadside,Fukushima,Fukushima,Kitamachi Bypass,960-8116,37.7670688,140.4778544
+07202070,Aizuwakamatsu,General,Fukushima,Aizuwakamatsu,野口英世青春通り,965-0878,37.4939243,139.9262077
+07203130,Haga,General,Fukushima,Koriyama,芳賀二丁目,963-8813,37.3909205,140.3965335
+07203140,Tsutsumishita,General,Fukushima,Koriyama,郡山停車場線,963-8873,37.39228689999999,140.3789576
+07203150,Hiyori Ta,General,Fukushima,Koriyama,,963-0534,37.4480471,140.3930366
+07203180,Asaka,General,Fukushima,Koriyama,安積三丁目,963-0107,37.35591489999999,140.3646879
+07203520,Dai Shin,Roadside,Fukushima,Koriyama,台新一丁目,963-0205,37.3935261,140.3449579
+07204020,Kaminaka Ta,General,Fukushima,Iwaki,,974-8232,36.89499259999999,140.7818949
+07204030,Hana No I,General,Fukushima,Iwaki,錦町江栗二丁目,974-8232,36.9107783,140.7729678
+07204070,Shimokawa,General,Fukushima,Iwaki,泉町六丁目,971-8185,36.9398876,140.8638638
+07204090,Takijiri,General,Fukushima,Iwaki,,971-8189,36.9530531,140.8699059
+07204110,Oohara,General,Fukushima,Iwaki,,971-8111,36.9633624,140.8931419
+07204160,Nakahara,General,Fukushima,Iwaki,,971-8101,36.9463528,140.8775047
+07204170,Kanayama,General,Fukushima,Iwaki,,974-8223,36.9295574,140.8228761
+07204210,You Tsuchi,General,Fukushima,Iwaki,National Route 399,970-8026,37.0584474,140.8853349
+07204510,Taira,Roadside,Fukushima,Iwaki,National Route 399,970-8026,37.0542864,140.8996297
+07204720,Chuuou Dai,General,Fukushima,Iwaki,高久鹿島線,970-8044,37.0031083,140.9173373
+07204730,Jouban,General,Fukushima,Iwaki,常磐勿来線,972-8318,37.0032764,140.8486339
+07204740,Yotsukura,General,Fukushima,Iwaki,陸前浜街道,979-0206,37.0943755,140.9654091
+07205050,Shirakawa,General,Fukushima,Shirakawa,,961-0907,37.1217152,140.2208403
+07206050,Haramachi 1,General,Fukushima,Minamisoma,南相馬市道　北町上町線,975-0007,37.6395311,140.9478176
+07207010,Sukagawa,General,Fukushima,Sukagawa,,962-0001,37.285923,140.3715587
+07208090,Kitakata,General,Fukushima,Kitakata,喜多方西会津線,966-0072,37.6584039,139.874212
+07209080,Souma 1,General,Fukushima,Soma,Nakamura 1-chome,976-0042,37.8044678,140.9195059
+07210010,Nihonmatsu,General,Fukushima,Nihonmatsu,,964-0871,37.5848025,140.430033
+07368010,Minamiaizu,General,Fukushima,Minamiaizu,,967-0004,37.20122480000001,139.7813093
+07466010,Yabuki,General,Fukushima,矢吹町役場,矢吹小野線,969-0296,37.2012738,140.3386151
+07481010,Tanakura,General,Fukushima,Tanagura,,,37.0232324,140.3766761
+07541010,Kouya 1,General,Fukushima,Hirono,National Highway Route 6,979-0403,37.2154828,140.9923266
+07542010,Naraha,General,Fukushima,Naraha,National Highway Route 6,979-0604,37.26577959999999,140.9982561
+07543010,Tomioka,General,Fukushima,Tomioka,Yonomori-minami 4-chome,979-1151,37.3593778,140.9945774
+07546010,Futaba,General,Fukushima,Futaba,Yumisaku,979-1472,37.438967,141.0058063
+07561020,Shinchi 1,General,Fukushima,Shinchi,,979-2611,37.8731716,140.9132984
+07563010,Odaka,General,Fukushima,Saitama,散策路,330-0803,35.90864639999999,139.6320243
+08201030,Mito Ishikawa,General,Ibaraki,Mito,,310-0045,36.3927472,140.4262903
+08201040,Mito Toubu,General,Ibaraki,Mito,,311-1124,36.322279,140.4950418
+08201510,Mito Daikumachi,Roadside,Ibaraki,Mito,Kamimito Station-Senba Park Line,310-0031,36.3811109,140.4584385
+08202020,Hitachishi Yakusho,General,Ibaraki,Hitachi,Miyatacho 1-chome,317-0066,36.6012537,140.6501965
+08202050,Hitachi Taga,General,Ibaraki,Hitachi,Hitachi-Kasama Line,316-0002,36.5576566,140.6258907
+08202200,Hitachi Nanbu,General,Ibaraki,Hitachi,久慈川サイクリングロード,319-1234,36.4952751,140.5822382
+08203010,Tsuchiura Hokensho,General,Ibaraki,Tsuchiura,Shimotakatsu 2-chome,300-0812,36.0707146,140.1909359
+08203520,Tsuchiura Nakamuraminami,Roadside,Ibaraki,Tsuchiura,Nakamura-minami 1-chome,300-0843,36.0427672,140.1671688
+08204010,Koga Hokensho,General,Ibaraki,Koga,,306-0003,36.2040346,139.7155761
+08205020,Ishioka Suginami,General,Ibaraki,Ishioka,杉並二丁目,315-0001,36.2034403,140.2849533
+08206020,Chikusei,General,Ibaraki,Chikusei,Former National Highway Route 294,308-0841,36.2908224,139.9754036
+08208010,Ryuugasaki Hokensho,General,Ibaraki,Ryugasaki,,301-8799,35.907117,140.193745
+08210010,Shimozuma,General,Ibaraki,Shimotsuma,旭,304-0066,36.1890639,139.9610444
+08211010,Jousou,General,Ibaraki,Joso,,303-0003,36.0342268,139.9920425
+08212010,Hitachioota,General,Ibaraki,Hitachiota,,313-0061,36.5248394,140.5176525
+08213010,Hitachi Naka Katsuta,General,Ibaraki,Hitachinaka,Showa-dori Avenue,312-0018,36.3966447,140.5348866
+08214010,Takahagi Honchou,General,Ibaraki,Takahagi,本町二丁目,318-0002,36.7152087,140.7117171
+08215010,Kitaibaraki Nakagou,General,Ibaraki,Kitaibaraki,Rikuzenhama-kaido Avenue,319-1559,36.7799923,140.7342926
+08216010,Kasama,General,Ibaraki,Kasama,Yuki-kaido Avenue,309-1611,36.3857352,140.2369433
+08217010,Toride Shiyakusho,General,Ibaraki,Toride,National Highway Route 294,302-0021,35.9111492,140.0494571
+08220010,Tsukuba Takano,General,Ibaraki,Tsukuba,,300-2648,36.1033293,140.0366658
+08221010,Hitachinaka,General,Ibaraki,Hitachinaka,Nakaminato-Naka Line,312-0034,36.4015759,140.5023973
+08302010,Higashiibaraki Ooto,General,Ibaraki,Ibaraki,Old Uchihara-Shiogasaki Line,311-3116,36.3166587,140.4202142
+08341010,Hitachi Naka Toukai,General,Ibaraki,Tōkai,,319-1113,36.4339475,140.6223267
+08342010,Naka,General,Ibaraki,Naka,菅谷・市毛線,311-0110,36.4473368,140.5077779
+08344010,Oomiya Nonaka,General,Ibaraki,Hitachiomiya,,319-2222,36.5550761,140.4021305
+08402010,Hokota,General,Ibaraki,Hokota,新鉾田一丁目,311-1516,36.1599301,140.5171461
+08405010,Kashima Kyuuchuu,General,Ibaraki,Kashima,Ibaraki-Kashima Line,314-0038,35.9648611,140.6236125
+08405020,Kashima Takamagahara,General,Ibaraki,Kashima,Minatogaoka 2-chome,314-0011,35.9736542,140.655383
+08406010,Kamisu Shita Hata Ki,General,Ibaraki,Kamisu,,314-0135,35.9160913,140.6258331
+08406030,Kashima Jimusho,General,Ibaraki,Kamisu,National Highway Route 124,314-0127,35.8991784,140.6382045
+08406050,Kamisu Shoubou,General,Ibaraki,Kamisu,,314-0116,35.8827426,140.6664056
+08406060,Kamisu Ikkan No,General,Ibaraki,Kamisu,Yawara-Ikisu-Tonosho Line,314-0116,35.8712035,140.671164
+08406080,Kamisu Yokose,General,Ibaraki,Kamisu,Yawara-Ikisu-Tonosho Line,314-0116,35.85156730000001,140.7025813
+08407010,Hasaki Oota,General,Ibaraki,Kamisu,suda-okunoya line,289-0612,35.8369601,140.740986
+08423040,Itako Hokensho,General,Ibaraki,Itako,Itako-Sawara Line,311-2423,35.9395682,140.567393
+08441010,Edosaki Kouminkan,General,Ibaraki,Inashiki,Old Edozaki-Shintone Line,300-0638,35.9527358,140.3199574
+08541010,Koga Shiyakusho,General,Ibaraki,Koga,,306-0235,36.1803995,139.7634697
+08561510,Moriya,Roadside,Ibaraki,Moriya,Joban Expressway,302-0198,35.9511388,139.9745878
+09201060,Suzume Kyuuchuu Gakkou,General,Tochigi,Utsunomiya,,321-0143,36.48580159999999,139.877559
+09201070,Mizuho No Kita Shougakkou,General,Tochigi,Utsunomiya,Tatsu-kaido,321-0118,36.5081849,139.942709
+09201080,Hosoya Shougakkou,General,Tochigi,Utsunomiya,Utsunomiya Ring Road,320-0074,36.590835,139.85587
+09201100,Izumi Ga Oka Shougakkou,General,Tochigi,Utsunomiya,越戸せせらぎ通り,321-0952,36.56726889999999,139.9201757
+09201110,Kiyohara,General,Tochigi,Utsunomiya,旭一丁目,320-8540,36.5550745,139.8826209
+09201120,Chuuou,General,Tochigi,Utsunomiya,Chuo-dori,320-0803,36.5594478,139.8826621
+09201570,Oodoori,Roadside,Tochigi,Utsunomiya,八幡山公園通り,320-0033,36.5619495,139.8844094
+09201580,Hirade,Roadside,Tochigi,Utsunomiya,,321-0903,36.567399,139.9414688
+09202010,Ashikaga Shiyakusho,General,Tochigi,Ashikaga,Ashikaga Ring Line,326-0811,36.3401688,139.4498574
+09203010,Tochigishi Yakusho,General,Tochigi,Tochigi,Minagawa-kaido Ave.,328-0052,36.3813896,139.7303384
+09203030,Tochigishi Fujioka Kouminkan,General,Tochigi,Tochigi,Fujioka-Otome Line,374-0112,36.2663903,139.651563
+09203520,Tochigishi Hirayanagi Machi Kousaten,Roadside,Tochigi,Tochigi,平柳町二丁目,328-0012,36.3922535,139.7460429
+09204020,Ken Aso Chousha,General,Tochigi,Sano,,227-0843,36.330913,139.5820337
+09205010,Kanuma Shiyakusho,General,Tochigi,Kanuma,庁舎通り,322-0065,36.5670745,139.7446526
+09207010,Nikkou Shi Imaichi Shougakkou,General,Tochigi,Nikkō,Nikko-kaido Ave.,321-1266,36.7260877,139.6802801
+09208010,Oyamashi Ritsudai Yanaka Gakkou,General,Tochigi,Oyama,Oyama Ring Line,323-0819,36.2756632,139.8212597
+09208520,Oyamashi Ogura Hashi,Roadside,Tochigi,Oyama,,323-0057,36.3077815,139.751153
+09209010,Mookashi Yakusho,General,Tochigi,Mooka,Nishikobanawa-Moka Line,321-4305,36.4403881,140.0135212
+09211010,Yaita Shiyakusho,General,Tochigi,Yaita,Yaita Bypass,329-2192,36.8056007,139.9224503
+09211510,Yaita Shidai Yatsu Hodoukyou,Roadside,Tochigi,Yaita,下河戸片岡線,,36.7581863,139.9467119
+09212010,Nasushiobara Shi Kuroiso Hoken Sentaa,General,Tochigi,Nasushiobara,Oshu-kaido Ave.,325-0062,36.9688946,140.0549883
+09216010,Shimotsuke Shi Minamikawachi Chousha,General,Tochigi,Shimotsuke,Yuki-Ishibashi Line,329-0431,36.3846788,139.8775955
+09301010,Kaminokawa Machiyakuba,General,Tochigi,Kaminokawa,Shirasagi 1-chome,329-0696,36.4402776,139.9117048
+09301510,Kaminokawa Machi Ue Gamou Hodoukyou,Roadside,Tochigi,Kaminokawa,Shirasagi 2-chome,329-0696,36.4446065,139.9074343
+09304010,Kawauchi Sokutei Kyoku,General,Tochigi,Utsunomiya,Kawachichuo-dori,329-1104,36.6004178,139.9404248
+09364010,Nogi Machiyakuba,General,Tochigi,Nogi,,329-0102,36.2305774,139.7422865
+09383010,Nikkou Shiyakusho Fujiwara Gyousei Sentaa,General,Tochigi,Nikkō,Kinu By-Pass,329-2921,36.82234589999999,139.7151868
+09402010,Kennan Nasu Chousha,General,Tochigi,Nasukarasuyama,Utsunomiya-Nasukarasuyama Line,321-0621,36.6573244,140.1475335
+10201060,Maebashi Minami Kyoku,General,Gunma,Maebashi,天川原町一丁目,371-0803,36.3727776,139.0794379
+10201070,Maebashi Higashi Kyoku,General,Gunma,Maebashi,,371-0023,36.3964191,139.1051349
+10201510,Kokusetsu Maebashi Jidoushakoutsuu Kankyou Sokutei Tokoro,Roadside,Gunma,Maebashi,元総社町一丁目,371-0854,36.3815805,139.0428987
+10203010,Kiryuu Shiritsu Higashi Shougakkou,General,Gunma,Kiryu,中通り,376-0031,36.4104988,139.3426857
+10203510,Kiryuu Jihai Kyoku,Roadside,Gunma,Kiryu,広沢町六丁目,379-2301,36.3695416,139.3526243
+10204030,Isesaki Shiritsu Minami Shougakkou,General,Gunma,Isesaki,市役所通り,372-0031,36.3135948,139.1945031
+10205010,Ootashi Ritchuu Ou Shougakkou,General,Gunma,Ota,Burbank Street,373-0851,36.2898618,139.3810647
+10205510,Oota Jihai Kyoku,Roadside,Gunma,Ota,,373-0816,36.2780216,139.3868953
+10206010,Numata Shiritsu Numata Shougakkou,General,Gunma,Numata,沼田バイパス,378-0048,36.6470776,139.0439151
+10207010,Tatebayashi Shimin Sentaa,General,Gunma,Tatebayashi,Maebashi-Tatebayashi Line,374-0028,36.2499163,139.5317475
+10207510,Tatebayashi Jihai,Roadside,Gunma,Tatebayashi,Tomo Wide Area Highway,374-0041,36.2351772,139.5202506
+10208010,Shibukawa Daiichi Sokutei Kyoku,General,Gunma,Shibukawa,,377-0204,36.4985868,138.9936903
+10208510,Shibukawa Jihai,Roadside,Gunma,Shibukawa,Shibukawa Bypass,377-0002,36.4921403,139.0120412
+10210010,Tomioka Shiritsu Tomioka Shougakkou,General,Gunma,Tomioka,Nishijoshu Yamabiko Road,370-2316,36.2590011,138.8939671
+10211060,Annaka Shiritsu Annaka Shougakkou,General,Gunma,Annaka,Annaka Bypass,379-0192,36.3298851,138.8953645
+10211510,Annaka Jihai,Roadside,Gunma,Annaka,野殿農免道路,370-2301,36.3303214,138.9177641
+10423010,Higashiagatsuma Chouritsu Higashiagatsuma Chuugakkou,General,Gunma,Higashiagatsuma,下沢渡原町線,377-0801,36.5787161,138.8274994
+10425010,Tsumagoi Mura Undoukouen,General,Gunma,Tsumagoi,,377-1512,36.4836568,138.4937213
+10449010,Minakami Machi Karuchaasentaa,General,Gunma,Minakami,沼田水上線,379-1303,36.7304387,138.983307
+10464010,Ken'ou Suishitsu Jouka Sentaa,General,Gunma,Tamamura,例幣使街道,370-1124,36.2974816,139.1103262
+11110010,Saitama Shi Jounan,General,Saitama,Saitama,Gamo-Iwatsuki Line,339-0028,35.9149273,139.7266401
+11110510,Saitama Shi Nishihara Jihai,Roadside,Saitama,Saitama,Hasuda-Iwatsuki Bypass,337-0005,35.9547959,139.679652
+11201030,Kawagoeshi Koukai,General,Saitama,Kawagoe,いちょう通り,350-1152,35.8903375,139.4867907
+11201040,Kawagoeshi Kawagoe,General,Saitama,Kawagoe,Kawagoe-Ageo Line,350-0053,35.9277929,139.4869877
+11201050,Kawagoeshi Kasumigaseki,General,Saitama,Kawagoe,伊勢原町四丁目,350-1108,35.9219784,139.4259508
+11201510,Kawagoeshi Senba,Roadside,Saitama,Kawagoe,Tokyo Kanjo,350-0046,35.9065703,139.4929765
+11202040,Kumagaya,General,Saitama,Kumagaya,北大通り,360-0031,36.1473726,139.3886361
+11202510,Kumagaya Koezuka Jihai,Roadside,Saitama,Kumagaya,,360-0015,36.163357,139.395017
+11203030,Kawaguchishi Yoko Sone,General,Saitama,Kawaguchi,環状線通り,332-0025,35.8007599,139.7026388
+11203040,Kawaguchishi Minami Taira,General,Saitama,Kawaguchi,領家中央通り,332-0003,35.7977268,139.7506508
+11203050,Kawaguchishi Shingou,General,Saitama,Kawaguchi,,334-0064,35.8292655,139.7636561
+11203060,Kawaguchishi Shiba,General,Saitama,Kawaguchi,芝樋ノ爪二丁目,333-0853,35.83273459999999,139.6859827
+11203510,Kawaguchishi Angyou,Roadside,Saitama,Adachi,Adachi-Kawaguchi Line,334-0063,35.8409103,139.7504089
+11203530,Kawaguchishi Kami Ne,Roadside,Saitama,Kawaguchi,,333-0833,35.8535862,139.7314799
+11204010,Saitama Shiyakusho,General,Saitama,Saitama,National Highway Route 17,330-0061,35.8623008,139.6457387
+11204040,Saitama Shi Negishi,General,Saitama,Saitama,六辻水辺公園,336-0026,35.8395725,139.6654031
+11204520,Saitama Shi Kyoku Hon Jihai,Roadside,Saitama,Saitama,Shin-Omiya Bypass,336-0033,35.8368235,139.6307046
+11204530,Saitama Shi Tsuji Jihai,Roadside,Saitama,Saitama,National Highway Route 298,336-0026,35.8309526,139.6585497
+11205020,Saitama Shi Miyahara,General,Saitama,Saitama,Nakasendo,331-0812,35.9452737,139.6107865
+11205030,Saitama Shi Haru Sato,General,Saitama,Saitama,Minuma Ward,337-0017,35.9412094,139.663425
+11205040,Saitama Shi Yubi Ougi,General,Saitama,Saitama,Nishi-Omiya 1-chome,331-0047,35.9187889,139.5763839
+11205050,Saitama Shi Katayanagi,General,Saitama,Saitama,Niigatasuka-Saitama Line,337-0033,35.9070624,139.6738304
+11205120,Saitama Shidai Miya,General,Saitama,Saitama,大門町歩道橋,330-0845,35.9079233,139.6292569
+11205530,Saitama Ichizou Hashi Jihai,Roadside,Saitama,Saitama,三橋公園通り,331-0052,35.9131809,139.5958922
+11205540,Saitama Shidai Wada Jihai,Roadside,Saitama,Saitama,第二産業道路,331-0803,35.937542,139.6444094
+11206020,Gyouda,General,Saitama,Gyoda,長野二丁目,361-0023,36.1407895,139.4685315
+11207010,Chichibu,General,Saitama,Chichibu,Hinodamachi 1-chome,368-0034,35.9879112,139.0801735
+11208060,Tokorozawashi Higashitokorozawa,General,Saitama,Tokorozawa,東所沢三丁目,359-0021,35.8033431,139.5197356
+11208070,Tokorozawashi Kitano,General,Saitama,Tokorozawa,小手指南1,359-1145,35.785503,139.4401367
+11208090,Tokorozawashi Nakatomi,General,Saitama,Tokorozawa,中富南一丁目,359-0004,35.8144851,139.4833951
+11208520,Tokorozawashi Koukuu Kouen,Roadside,Saitama,Tokorozawa,National Route 463,359-1115,35.7968726,139.4720638
+11208530,Tokorozawashi Wa Ke Hara,Roadside,Saitama,Tokorozawa,和ケ原1,359-1151,35.8056843,139.4098804
+11209010,Hannou,General,Saitama,Hanno,栄町,357-8501,35.8544994,139.3269505
+11210010,Kazo,General,Saitama,Kazo,Route 125 Kazo-Hanyu Bypass,347-0067,36.1322616,139.6099329
+11211010,Honjou,General,Saitama,Honjo,旧中山道,367-0021,36.2386502,139.201508
+11212020,Higashimatsuyama,General,Saitama,Higashimatsuyama,五領町,355-0154,36.0307745,139.4180105
+11212520,Higashimatsuyama Iwahana Jihai,Roadside,Saitama,Higashimatsuyama,east-matsuyama bypass,355-0005,36.0537186,139.4103271
+11213010,Saitama Shi Iwatsuki,General,Saitama,Saitama,Higashicho 1-chome,339-0052,35.9506516,139.7019868
+11214030,Kasukabe,General,Saitama,Kasukabe,谷原一丁目,344-0065,35.972199,139.7441268
+11214510,Kasukabe Masuto Jihai,Roadside,Saitama,Kasukabe,Iwatsuki-Kasukabe Bypass,344-0046,35.9545853,139.7276703
+11215010,Sayama,General,Saitama,Sayama,,350-1304,35.8593496,139.4492981
+11216010,Hanyuu,General,Saitama,Hanyu,羽生栗橋線,348-8601,36.1740097,139.5542359
+11217010,Kounosu,General,Saitama,Konosu,けやき通り,365-0038,36.065896,139.5222116
+11217510,Kounosu Tenjin Jihai,Roadside,Saitama,Konosu,東松山鴻巣線,365-0038,36.0600454,139.5182684
+11218010,Fukaya,General,Saitama,Fukaya,茶売街道,366-0824,36.1859357,139.2788433
+11218510,Fukaya Genkyou Jihai,Roadside,Saitama,Fukaya,新坪,366-0033,36.2005709,139.3031574
+11219020,Ageo,General,Saitama,Ageo,浅間台三丁目,362-0073,35.9763265,139.5731995
+11221050,Soukashi Nishimachi,General,Saitama,Soka,保健所通り,340-0034,35.8293351,139.7956483
+11221510,Soukashi Hanaguri Jihai,Roadside,Saitama,Soka,National Highway Route 4,340-0044,35.8398394,139.7902055
+11221520,Soukashi Haramachi Jihai,Roadside,Saitama,Soka,National Highway Route 298,340-0055,35.8473472,139.7745828
+11222020,Koshigaya Shi Higashi Koshigaya,General,Saitama,Koshigaya,Koshigaya-Yashio Line,343-0015,35.8941987,139.7978028
+11222030,Koshigaya Shi Sengendai Nishi,General,Saitama,Koshigaya,千間台西四丁目,344-0023,35.933631,139.7620134
+11224010,Toda,General,Saitama,Toda,Kita odori,335-0021,35.8190244,139.6647602
+11224510,Toda Bijogi Jihai,Roadside,Saitama,Toda,Bijogi 5-chome,335-0031,35.8209042,139.6424994
+11225010,Iruma,General,Saitama,Iruma,gyousei road,358-0003,35.8340186,139.3910043
+11225510,Kokusetsu Iruma Jidoushakoutsuu Kankyou Sokutei Tokoro,Roadside,Saitama,Iruma,なかよしばし,358-0021,35.8322468,139.378643
+11229010,Wakou,General,Saitama,Wako,Niiza bypass,351-0198,35.77789260000001,139.6164638
+11229510,Wakou Niikura Jihai,Roadside,Saitama,Wako,新倉二丁目,351-0115,35.7937433,139.6148851
+11230070,Niiza,General,Saitama,Niiza,Suidodoro,352-0023,35.7788881,139.556325
+11232010,Kuki,General,Saitama,Kuki,水と緑のふれあいロード,346-0021,36.0656055,139.6623882
+11232510,Kuki Honchou Jihai,Roadside,Saitama,Kuki,Satte-Kuki Line,346-0003,36.0749969,139.667531
+11234010,Yashio,General,Saitama,Yashio,Shiyakucho-dori Street,340-0816,35.8225316,139.8391596
+11235010,Fujimi,General,Saitama,Shiki,Miyoshi-Fujimi Line,354-8560,35.8566776,139.549091
+11235510,Fujimi Shita Minami Hatake Jihai,Roadside,Saitama,Shiki,,354-0004,35.85271520000001,139.5712889
+11237020,Misato,General,Saitama,Misato,Misato-Matsubushi Line,341-0025,35.844877,139.8824148
+11238010,Hasuda,General,Saitama,Hasuda,53,349-0126,35.9727806,139.6495703
+11239010,Sakato,General,Saitama,Sakado,Ashiyamacho,350-0272,35.9733795,139.4002283
+11240010,Satte,General,Saitama,Satte,,340-0121,36.0754334,139.7316955
+11241510,Tsuru Ke Shima Jihai,Roadside,Saitama,Tsurugashima,Mitsugi-shinmachi 1-chome,350-2214,35.9309561,139.3996281
+11326010,Moroyama,General,Saitama,Moroyama,目白台二丁目,350-0465,35.9619793,139.3254848
+11329010,Hidaka,General,Saitama,Hidaka,川越日高線,350-1231,35.8930679,139.3434836
+11343010,Ogawa,General,Saitama,Ogawa,Ogawamachi Station Line,355-0328,36.0596825,139.2611851
+11344010,Higashichichibu,General,Saitama,Higashi-Chichibu,林道荻殿線,355-0372,36.0184188,139.1777779
+11346510,Kawashima Jihai,Roadside,Saitama,Kawajima,,350-0152,35.98452109999999,139.4612185
+11362010,Minano,General,Saitama,Minano,皆野荒川線,369-1412,36.0708172,139.0988043
+11382010,Honjou Kodama,General,Saitama,Honjo,Omaeda-Kodama Line,367-0212,36.1899633,139.1369541
+11403010,Kumagaya Menuma Higashi,General,Saitama,Kumagaya,羽生妻沼線,360-0213,36.2230167,139.3821425
+11408010,Yorii,General,Saitama,Yorii,飯能寄居線,369-1203,36.11610659999999,139.1871549
+11408510,Yorii Sakurazawa Jihai,Roadside,Saitama,Yorii,sai-kai highway,369-1217,36.121908,139.2074557
+11421010,Kankyou Kagaku Kokusai Sentaa,General,Saitama,Kazo,北根菖蒲線,347-0123,36.0852092,139.5600752
+11442010,Miyashiro,General,Saitama,Miyashiro,,345-8501,36.0286667,139.7126586
+12105010,Izumitani Shougakkou,General,Chiba,Chiba,Oyumino-chuo 4-chome,266-0033,35.552862,140.1736014
+12201010,Hanamigawa Shougakkou,General,Chiba,Yachiyo,エポラ通り,276-0033,35.6948128,140.0986035
+12201020,Kemigawa Shougakkou,General,Chiba,Chiba,Kemigawacho 3-chome,262-0022,35.6493453,140.0675606
+12201040,Sannou Shougakkou,General,Chiba,Chiba,Sannocho,263-0002,35.664224,140.1446601
+12201050,Miyanogi,General,Chiba,Chiba,Miyanogicho,263-0044,35.6534969,140.0978844
+12201070,Oomiya Shougakkou,General,Chiba,Chiba,Chiba Tōgane Road,264-0016,35.5969426,140.1824172
+12201090,Sen Shiro Dai Wakaba Shougakkou,General,Chiba,Chiba,Town Liner Avenue,284-0032,35.6288886,140.1825982
+12201120,Samukawa Shougakkou,General,Chiba,Chiba,房総往還,260-0844,35.5972653,140.1195887
+12201160,Fuku Sei Tera,General,Chiba,Chiba,蘇我北陸橋,260-0844,35.5835859,140.1283508
+12201180,Soga Hoikusho,General,Chiba,Chiba,Soga 2-chome,260-0816,35.57249240000001,140.1311557
+12201200,Chibashi Yakusho Jihai,Roadside,Chiba,Chiba,Tokyo Wangan Road,260-8722,35.607612,140.1078127
+12201250,Miyako Kouen,General,Chiba,Chiba,Miyakocho 2-chome,260-0001,35.611391,140.138552
+12201260,Tsuchike,General,Chiba,Chiba,Asumigaoka 5-chome,267-0066,35.5313654,140.2578315
+12201300,Chigusa Jihai,Roadside,Chiba,Chiba,Inage Ward,263-0016,35.6348139,140.1205528
+12201320,Masago Kouen,General,Chiba,Chiba,Mihama Ward,261-0011,35.6346663,140.0684125
+12201520,Yoshi Kawa Jihai,Roadside,Chiba,Chiba,文化橋,260-0014,35.608899,140.1200853
+12201540,Miyanogi Jihai,Roadside,Chiba,Chiba,Miyanogidai 4-chome,263-0054,35.6589021,140.0977401
+12201570,Masago Jihai,Roadside,Chiba,Chiba,Tokyo Wangan Road,261-0011,35.6445893,140.067069
+12202100,Choushi Suehirochou,General,Chiba,Choshi,Togawa Port Line,288-0056,35.7324341,140.832924
+12203040,Ichikawa Futamata,General,Chiba,Ichikawa,二俣新町駅前地下歩道,272-0002,35.6969802,139.9571369
+12203080,Ichikawa Oono,General,Chiba,Ichikawa,Funabashi Matsudo Line,272-0805,35.7498378,139.9543239
+12203110,Ichikawa Hon Hachiman Kyoku,General,Chiba,Ichikawa,Ichikawa-Kashiwa Line,272-0021,35.7254173,139.9278547
+12203120,Ichikawa Gyoutokueki Mae,General,Chiba,Ichikawa,Gyotokuekimae dori,272-0133,35.6790883,139.9133061
+12203510,Ichikawashi Ichikawa ( Kuruma ),Roadside,Chiba,Ichikawa,Chiba-kaido Ave.,277-0033,35.7313587,139.9061207
+12203520,Ichikawa Yukinori ( Kuruma ),Roadside,Chiba,Ichikawa,Gyotoku bypass,272-0106,35.6864652,139.9183955
+12203550,Ichikawa Toukagi ( Kuruma ),Roadside,Chiba,Ichikawa,Keiyo Expressway,272-0101,35.709248,139.9225102
+12204040,Funabashi Maruyama,General,Chiba,Funabashi,funabasi-abiko line,273-0115,35.7455723,139.9961564
+12204050,Funabashi Takane,General,Chiba,Funabashi,高根金杉線,273-0853,35.7217499,140.011066
+12204060,Funabashi Takane Dai,General,Chiba,Funabashi,宮本古和釜町線,274-0065,35.7286137,140.0423456
+12204070,Funabashi Maehara,General,Chiba,Funabashi,tsudanuma station maebara line,274-0825,35.6952192,140.0246758
+12204100,Funabashi Houfu,General,Chiba,Funabashi,太陽の橋,274-0082,35.75746669999999,140.0608447
+12204110,Funabashi Innai,General,Chiba,Funabashi,matsudo-baraki line,273-0031,35.7127094,139.9592302
+12204140,Funabashi Wakamatsu,General,Chiba,Funabashi,若松橋,273-0012,35.677112,139.9933899
+12204150,Funabashi Minamimoto Machi,General,Chiba,Funabashi,Chiba Highway,273-0004,35.6970741,139.9772311
+12204520,Funabashi Umigami ( Kuruma ),Roadside,Chiba,Funabashi,,273-0022,35.6981038,139.9754694
+12204530,Funabashi Hinode ( Kuruma ),Roadside,Chiba,Funabashi,Higashi-Kanto Expressway,273-0018,35.6880639,139.9785953
+12205030,Tateyama Kame Ke Hara,General,Chiba,Tateyama,,294-0052,35.0184814,139.8816085
+12206010,Kisarazu Chuuou,General,Chiba,Kisarazu,木更津富津線,292-8799,35.3857807,139.9263082
+12206030,Kisarazu Aze Ko,General,Chiba,Kisarazu,,292-0008,35.4211357,139.8997499
+12206080,Kisarazu Hatazawa,General,Chiba,Kisarazu,Tateyama Expressway,292-0825,35.3415754,139.9043695
+12206140,Kisarazu Mariyatsu,General,Chiba,Kisarazu,鶴舞馬来田停車場線,292-0205,35.3688867,140.0678267
+12206520,Kisarazu Jousai ( Kuruma ),Roadside,Chiba,Kisarazu,請西二丁目,292-0801,35.374032,139.9382318
+12206530,Kisarazu Ushi Fukuro ( Kuruma ),Roadside,Chiba,Kisarazu,,299-0262,35.4071326,139.9627043
+12207010,Matsudo Konpon,General,Chiba,Matsudo,根本,271-0077,35.7872853,139.9030472
+12207020,Matsudo Gokou,General,Chiba,Matsudo,Matsudo-Kamagaya Line,270-2253,35.7911332,139.9623064
+12207030,Matsudo Ni Tsu Ki,General,Chiba,Matsudo,Keyaki Dori,270-0015,35.823038,139.9291413
+12207520,Matsudo Kamihongou ( Kuruma ),Roadside,Chiba,Matsudo,Mito-kaido Avenue,270-0032,35.7995549,139.9123927
+12208010,Nodashi Noda,General,Chiba,Noda,東町通り,278-0005,35.9476145,139.8659565
+12208510,Kokusetsu Noda Jidoushakoutsuu Kankyou Sokutei,Roadside,Chiba,Noda,Tokyo Kanjo,278-0005,35.9538111,139.8764872
+12209010,Katori Ookura,General,Chiba,Katori,,287-0014,35.8934608,140.5615571
+12210010,Mobara Takashi,General,Chiba,Mobara,国道128号,297-8511,35.4341016,140.2859698
+12211040,Narita Ka Ryou Bu,General,Chiba,Narita,学園東通り,286-0041,35.7736387,140.2935076
+12211510,Narita Hanasaki ( Kuruma ),Roadside,Chiba,Narita,Narita-kaido,286-0025,35.7781202,140.3208698
+12212040,Sakura Ebara Nitta,General,Chiba,Sakura,,285-0831,35.7277888,140.2064686
+12212520,Sakura Sannou ( Kuruma ),Roadside,Chiba,Sakura,山王二丁目,284-0038,35.6850776,140.2134987
+12213010,Tougane Horigami,General,Chiba,Toogane,,283-0063,35.5517294,140.3778668
+12214010,Sousa Tsubaki,General,Chiba,Sosa,National Highway Route 126,289-2102,35.72066280000001,140.5783395
+12216010,Narashino Saginuma,General,Chiba,Narashino,Saginumadai 1-chome,275-0017,35.6859296,140.0314192
+12217020,Kashiwa Eiraku Dai,General,Chiba,Kashiwa,Ichikawa-Kashiwa Line,277-0084,35.8438366,139.9716157
+12217030,Kashiwa Oomuro,General,Chiba,Kashiwa,Abiko-Sekiyado Line,277-0812,35.9003047,139.963879
+12217510,Kashiwa Asahi ( Kuruma ),Roadside,Chiba,Kashiwa,旭町三丁目,277-8570,35.8615701,139.9655318
+12217520,Kashiwa Nishihara ( Kuruma ),Roadside,Chiba,Kashiwa,西原二丁目,270-0112,35.8967503,139.9210078
+12218020,Katsuura Ueno,General,Chiba,Katsuura,天津小湊夷隅線,299-5245,35.1541199,140.2521727
+12219010,Ichihara Hachiman,General,Chiba,Ichihara,,290-0062,35.5356052,140.1241361
+12219030,Ichihara Goi,General,Chiba,Ichihara,白金通り,290-0081,35.519971,140.0900589
+12219060,Ichihara Anesaki,General,Chiba,Ichihara,平成通り,299-0117,35.4787737,140.0502798
+12219090,Ichihara Nijuu Go Sato,General,Chiba,Ichihara,フルーツ通り,290-0034,35.4879679,140.0775364
+12219110,Ichihara Jun Ido,General,Chiba,Ichihara,茂原街道,297-0235,35.4983285,140.1801727
+12219120,Ichihara Tatsumi Dai,General,Chiba,Ichihara,辰巳台西五丁目,290-0171,35.5236235,140.1514118
+12219140,Ichihara Yuushuu,General,Chiba,Ichihara,,299-0117,35.446276,140.0527825
+12219180,Ichihara Matsuzaki,General,Chiba,Ichihara,,290-0222,35.4446849,140.1408023
+12219190,Ichihara Iwasaki Nishi,General,Chiba,Ichihara,岩崎西一丁目,290-0081,35.5259787,140.0680085
+12219200,Ichihara Koorimoto,General,Chiba,Ichihara,北国分寺台三丁目,209-0073,35.5104527,140.1153307
+12219380,Ichihara Heiya,General,Chiba,Ichihara,,290-0543,35.33353890000001,140.1460191
+12219390,Ichihara Hou Men,General,Chiba,Ichihara,,290-0226,35.4062084,140.142491
+12219520,Ichihara Nakagawa Ta ( Kuruma ),Roadside,Chiba,Ichihara,,290-0081,35.5091684,140.0826486
+12220010,Nagareyama Heiwadai,General,Chiba,Nagareyama,平和台一丁目,270-0192,35.856997,139.9035983
+12221020,Yachiyo Takatsu,General,Chiba,Yachiyo,Narita-Kaido Avenue,276-0036,35.7165848,140.0818004
+12221510,Yachiyo Murakami ( Kuruma ),Roadside,Chiba,Yachiyo,,276-0028,35.7375121,140.1209638
+12222010,Abiko Kohoku Dai,General,Chiba,Abiko,Teganuma Fureai Line,270-1132,35.8620531,140.0760499
+12224040,Kama Ke Tani Karuizawa,General,Chiba,Kamagaya,14,273-0132,35.7921214,140.0174821
+12224510,Kama Ke Tani Hatsutomi ( Kuruma ),Roadside,Chiba,Kamagaya,53,273-0107,35.7822144,140.0081501
+12225010,Kimitsu Kubo,General,Chiba,Kimitsu,Kubo 2,299-1165,35.3316012,139.9023381
+12225080,Kimitsu Hitomi,General,Chiba,Kimitsu,,299-1141,35.342859,139.8661901
+12225090,Kimitsu Tawarada,General,Chiba,Kimitsu,National Highway Route 410,292-0451,35.3229597,140.0533342
+12225120,Kimitsu Nuka Ta,General,Chiba,Kimitsu,,299-1104,35.3052754,139.9696433
+12226010,Futtsu Shimoiino,General,Chiba,Futtsu,,293-0006,35.3218626,139.852838
+12227510,Urayasu Mihama ( Kuruma ),Roadside,Chiba,Urayasu,Mihama 4,279-0011,35.655035,139.9108242
+12228010,Yotsukaidou Shikawatashi,General,Chiba,Yotsukaido,chiba-usui-innzai line,284-0001,35.6678205,140.1711485
+12230010,Yachimata Shi Yachimata,General,Chiba,Yachimata,,289-1104,35.6729321,140.3118198
+12301020,Urayasu Nekozane,General,Chiba,Urayasu,Shiyakusho-dori,279-8501,35.6552817,139.9011814
+12303010,Noda Kiri Ke Saku,General,Chiba,Noda,Nagareyama-kaido Avenue,270-0215,36.04776,139.8141968
+12305510,Kashiwa Ootsu Ke Oka ( Kuruma ),Roadside,Chiba,Kashiwa,Tokyo Kanjo,277-0921,35.8400627,140.0030603
+12326010,Shirai Shichi Tsugi Dai,General,Chiba,Shiroi,七次台四丁目,270-1431,35.7985543,140.0446776
+12327010,Inzai Taka Hana,General,Chiba,Inzai,高花三丁目,270-1337,35.7994618,140.1424097
+12329010,Sakae Agui Dai,General,Chiba,Sakae,けやき通り,270-1513,35.8457715,140.246162
+12343010,Narita Nado,General,Chiba,Narita,,287-0204,35.8523924,140.4205076
+12344020,Katori Hane Kawa,General,Chiba,Katori,,289-0332,35.8466005,140.6002988
+12345020,Katori Fu Uma,General,Chiba,Katori,Yamada-Kurimoto Line,289-0511,35.791218,140.605719
+12408010,Yokoshibahikari Yokoshiba,General,Chiba,Yokoshibahikari,National Highway Route 126,289-1755,35.6595623,140.4851036
+12409010,Shibayama Yamada,General,Chiba,Shibayama,,289-1606,35.7206815,140.4140222
+12421020,Ichinomiya Higashi Nami Ken,General,Chiba,Ichinomiya,National Highway Route 128,299-4303,35.3489151,140.3798192
+12463010,Kyonan Shita Sakuma,General,Chiba,Kyonan,Prefectural Road 184,299-2115,35.1111452,139.8357167
+12481010,Sode Ke Ura Sakato Shijou,General,Chiba,Sodegaura,,299-0262,35.4287293,139.9533773
+19201030,Koufu Ana Setsu,General,Yamanashi,Kōfu,Takara 2-chome,400-0858,35.6634185,138.5603112
+12481040,Sode Ke Ura Daijuku,General,Chiba,Sodegaura,,299-0107,35.4557589,140.0279538
+12481050,Sode Ke Ura San Tsu Saku,General,Chiba,Sodegaura,袖ケ浦駅前通り,299-0261,35.4302593,139.9586523
+12481080,Sode Ke Ura Yokota,General,Chiba,Sodegaura,,299-0236,35.3880999,140.0238988
+12481160,Sode Ke Ura Chou Ura,General,Chiba,Sodegaura,ふれあい通り,299-0246,35.4494488,140.004244
+12481510,Sode Ke Ura Fukuou Dai ( Kuruma ),Roadside,Chiba,Sodegaura,東京湾岸道路,299-0261,35.4322555,139.9682194
+12481520,Sode Ke Ura Oosone ( Kuruma ),Roadside,Chiba,Sodegaura,,299-0243,35.4157063,140.0149156
+13101010,Chiyodaku Kanda Tsukasa Machi,General,Tokyo,Chiyoda,Sotobori-dori Avenue,102-0000,35.693129,139.7674443
+13101510,Hibiya Kousaten,Roadside,Tokyo,Chiyoda,Iwaida Dori,100-0012,35.6740123,139.7562635
+13101520,Kokusetsu Kasumigaseki,Roadside,Tokyo,Chiyoda,Kasumigaseki 1,100-8975,35.673259,139.7530429
+13102010,Chuuouku Harumi,General,Tokyo,Chuo,Harumi-dori,104-0054,35.6564193,139.7793539
+13102510,Eitai Touri Shinkawa,Roadside,Tokyo,Chuo,霊岸橋,103-0016,35.6788975,139.7817227
+13103010,Minatoku Takanawa,General,Tokyo,Minato,Takanawa 1,108-0072,35.6422585,139.7355846
+13103510,Daiichikeihin Takanawa,Roadside,Tokyo,Minato,Daiichi Keihin,108-0074,35.6381278,139.740135
+13104010,Kokusetsu Toukyou ( Shinjuku ),General,Tokyo,Shinjuku,Koshu-kaido Avenue,160-8484,35.6869661,139.7110003
+13104540,Kokusetsu Shinjuku,Roadside,Tokyo,Shinjuku,Koshu-kaido Avenue,160-8484,35.6869661,139.7110003
+13104550,Shin Mejirodoori Shimoochiai,Roadside,Tokyo,Shinjuku,Shin-Mejiro dori Avenue,171-0033,35.7167454,139.703742
+13105010,Bunkyouku Honkomagome,General,Tokyo,Bunkyō,Honkomagome 4,113-0021,35.7332211,139.7554221
+13105530,Kasugadoori Ootsuka,Roadside,Tokyo,Bunkyō,Otsuka 3-chome,112-0012,35.7193893,139.7346734
+13106520,Meijidoori Oozeki Yokochou,Roadside,Tokyo,Taito,Meiji-dori Avenue,110-0011,35.7292203,139.793248
+13107520,Mitokaidou Higashimuki Shima,Roadside,Tokyo,Sumida,Mito-kaido Ave.,131-0033,35.7202019,139.815146
+13108010,Koutouku Ooshima,General,Tokyo,Koto,Shin Ohashi Dori Avenue,136-0072,35.6899894,139.8276363
+13108020,Minatoku Daiba,General,Tokyo,Minato,Daiba 1,135-0091,35.6322451,139.7784539
+13108520,Keiyoudouro Kameido,Roadside,Tokyo,Koto,Kameido 7,136-0071,35.6967785,139.8356927
+13108530,San Tsu Me Touri Tatsumi,Roadside,Tokyo,Koto,補助第299号線,135-0053,35.6503705,139.8114471
+13109010,Shinagawaku Yutakachou,General,Tokyo,Shinagawa,Yutakacho 2,142-0042,35.6109764,139.7210179
+13109030,Shinagawaku Yashio,General,Tokyo,Shinagawa,Yashio 5,140-0003,35.6007707,139.7514887
+13109510,Kitashinagawa Kousaten,Roadside,Tokyo,Shinagawa,Kita-Shinagawa 3,140-0001,35.61655500000001,139.7406677
+13109520,Nakahara Kuchi Kousaten,Roadside,Tokyo,Shinagawa,Dai-ni Keihin,141-0031,35.6204084,139.7190593
+13110010,Meguroku Himonya,General,Tokyo,Meguro,Kannana dori,152-0032,35.6192272,139.6822783
+13110510,Yamate Touri Oosaka Hashi,Roadside,Tokyo,Meguro,Aobadai 3,153-0042,35.6525728,139.6903398
+13110530,Kanshichidoori Kaki No Kisaka,Roadside,Tokyo,Meguro,Kannana dori,152-0022,35.6231934,139.6791481
+13111010,Ootaku Higashi Koujiya,General,Tokyo,Ota,National Route 131,144-8532,35.5574401,139.739674
+13111520,Kanshichidoori Matsubara Hashi,Roadside,Tokyo,Ota,Kannana dori,143-0021,35.5962958,139.7101072
+13111530,Nakaharakaidou Minami Senzoku,Roadside,Tokyo,Ota,Minami Senzoku 1,145-0063,35.6018712,139.6931896
+13111540,Kanpachi Touri Chidori,Roadside,Tokyo,Ota,Chidori 3,146-0092,35.5731597,139.6865278
+13112010,Setagayaku Setagaya,General,Tokyo,Setagaya,Setagaya 4,154-8504,35.6461287,139.6517658
+13112020,Setagayaku Seijou,General,Tokyo,Setagaya,Seijo 9,157-0066,35.65162249999999,139.5947621
+13112510,Tamagawa Touri Kamiuma,Roadside,Tokyo,Setagaya,Tamagawa-dori,154-0011,35.6361522,139.6656771
+13112520,Kanpachi Touri Yahatayama,Roadside,Tokyo,Setagaya,Kampachi dori,156-0056,35.6660583,139.6125589
+13113010,Shibuyaku Honchou,General,Tokyo,Shibuya,Honmachi 6,151-0071,35.6820585,139.6789711
+13113510,Koushuukaidou Oohara,Roadside,Tokyo,Shibuya,Sasazuka 1,156-0041,35.6727047,139.6619497
+13114010,Nakanoku Wakamiya,General,Tokyo,Nakano,Wakamiya 3,165-0033,35.719854,139.6411622
+13114510,Yamate Touri Higashinakano,Roadside,Tokyo,Nakano,Chuo 2,164-8622,35.7004036,139.6825211
+13115010,Suginamiku Kugayama,General,Tokyo,Suginami,Kaiheito dori,166-0000,35.6903628,139.6022337
+13115550,Wasedadoori Shimoigusa,Roadside,Tokyo,Suginami,Shimo Igusa 4,167-0022,35.719092,139.6198683
+13116530,Meijidoori Nishi Sugamo,Roadside,Tokyo,Toshima,Koshinzuka-dori,170-0001,35.7418059,139.7266047
+13117520,Kitamoto Touri Ouji,Roadside,Tokyo,Kita,Kita Hon-dori Avenue,114-8526,35.7666518,139.7357443
+13118010,Arakawaku Minamisenju,General,Tokyo,Arakawa,Joyful Minowa,110-0011,35.7327348,139.7896025
+13119010,Itabashiku Hikawa Machi,General,Tokyo,Itabashi,Hikawa cho,173-0013,35.7537453,139.7069036
+13119510,Nakasendou Yamatochou,Roadside,Tokyo,Itabashi,Nakasendo,173-0012,35.7609932,139.7053983
+13120010,Nerimaku Kitamachi,General,Tokyo,Nerima,Kitamachi 1,179-0081,35.7642812,139.6641124
+13120020,Nerimaku Shakujiidai,General,Tokyo,Nerima,Shimoshakujii-Oizumi Line,177-0041,35.7377286,139.5990181
+13120030,Nerimaku Nerima,General,Tokyo,Nerima,マロニエ通り,176-0001,35.7430485,139.6519115
+13121010,Adachiku Nishiarai,General,Tokyo,Adachi,Kannana-dori,123-0841,35.7799976,139.7771793
+13121020,Adachiku Ayase,General,Tokyo,Adachi,Ayase 6-chome,120-0005,35.7697167,139.8257782
+33205510,Ooiso,Roadside,Okayama,Kasaoka,Kurashiki Kasaoka Line,714-0088,34.5071564,133.5073882
+13121510,Nikkou Kaidou Umeshima,Roadside,Tokyo,Adachi,Chuohoncho 1-chome,120-8510,35.7750049,139.8044358
+13122010,Katsushikaku Kamakura,General,Tokyo,Katsushika,Kamakura 2,125-0053,35.744251,139.8776074
+13122020,Katsushikaku Mizumoto Kouen,General,Tokyo,Katsushika,水元大橋,125-0033,35.786485,139.8692759
+13122520,Kanshichidoori Kameari,Roadside,Tokyo,Katsushika,Kannana-dori Ave.,125-0061,35.7608772,139.8531069
+13123010,Edogawaku Shikabone,General,Tokyo,Edogawa,Shishibone 1,133-0073,35.7099941,139.8859956
+13123020,Edogawaku Harue Machi,General,Tokyo,Edogawa,Shin Ohashi Dori Avenue,134-0003,35.6821907,139.8773135
+13123030,Edogawaku Minami Kasai,General,Tokyo,Edogawa,Kannana-dori,134-0085,35.6536461,139.8709663
+13201020,Hachioujishi Katakurachou,General,Tokyo,Hachioji,Tokyo Kanjo,192-0914,35.6449668,139.3398221
+13201040,Hachioujishi Tatemachi,General,Tokyo,Hachioji,八王子南バイパス,193-0944,35.6283425,139.2871561
+13201060,Hachioujishi Dairakujimachi,General,Tokyo,Hachioji,Takao kaido,193-0814,35.6713388,139.2930552
+13201510,Koushuukaidou Yagichou,Roadside,Tokyo,Hachioji,Yagicho,192-0055,35.66185249999999,139.3210684
+13202010,Tachikawashi Izumichou,General,Tokyo,Tachikawa,Izumi-chō,190-8666,35.7138321,139.4077861
+13203010,Musashinoshi Sekizen,General,Tokyo,Musashino,NTT Nishikubo Dori,180-0013,35.7129743,139.5562988
+13203510,Itsukaichikaidou Musashisakai,Roadside,Tokyo,Musashino,Itsukaichi Kaido,202-0023,35.7110151,139.5385007
+13204510,Renjaku Touri Shimorenjaku,Roadside,Tokyo,Mitaka,Renjaku Dori,181-8001,35.6925072,139.5609466
+13205010,Oumeshi Higashioume,General,Tokyo,Ōme,奥多摩街道,198-8701,35.7878502,139.2757966
+13206010,Fuchuushi Yotsuya,General,Tokyo,Fuchu,Yotsuya 4-chome,183-0035,35.6671458,139.4421522
+13208020,Choufushi Jindaiji Minamimachi,General,Tokyo,Chofu,Jindaiji-minamimachi 3-chome,182-8508,35.6664346,139.5552859
+13209010,Machidashi Kanamori,General,Tokyo,Machida,Haramachida 1-chome,194-0013,35.5357835,139.4529557
+13209020,Machidashi Nou Ke Tanimachi,General,Tokyo,Machida,Nogaya 1-chome,215-0027,35.5870987,139.4834704
+13210010,Koganeishi Higashichou,General,Tokyo,Koganei,Nomizu 2-chome,183-0002,35.6873771,139.5225268
+13211010,Kodairashi Ogawachou,General,Tokyo,Kodaira,市役所西通り,187-8701,35.7277598,139.4765961
+13212520,Kawasakikaidou Mogusa Sono,Roadside,Tokyo,Hino,Kawasaki Kaido,191-0033,35.6564293,139.4324452
+13213510,Shin'oumekaidou Higashimurayama,Roadside,Tokyo,Higashimurayama,Honcho 1,189-8555,35.752776,139.4662386
+13215510,Koushuukaidou Kokuritsu,Roadside,Tokyo,Kunitachi,Ishida,186-0011,35.6821067,139.4321945
+13216010,Nishitoukyou Shi Minamimachi,General,Tokyo,Nishitokyo,すずらん通り,188-0011,35.7259183,139.5383587
+13217010,Nishitoukyou Shi Shimohouya,General,Tokyo,Nishitokyo,Maesawa-Hōya Line,202-0006,35.7496954,139.5580759
+13217510,Oumekaidou Yanagisawa,Roadside,Tokyo,Nishitokyo,青梅街道,202-0022,35.7247401,139.5529825
+13218010,Fussashi Honchou,General,Tokyo,Fussa,Shin Okutama Kaido,205-0021,35.7385654,139.326855
+13219010,Komaeshi Nakaizumi,General,Tokyo,Komae,Nakaizumi 3-chome,201-0012,35.635164,139.5704536
+13220010,Higashiyamatoshi Narahashi,General,Tokyo,Higashiyamato,青梅街道,207-0031,35.7509292,139.4252861
+13221010,Kiyose Shijou Kiyoshi Ko,General,Tokyo,Kiyose,けやき通り,204-0003,35.7797674,139.520921
+13222510,Koganei Kaidou Higashikurume,Roadside,Tokyo,Higashikurume,Chuocho 6,203-0054,35.7541287,139.5184547
+13224010,Tamashi Atago,General,Tokyo,Tama,Atagoyama dori,206-0041,35.6346182,139.4327154
+13303520,Toukyou Kanjou Nagaoka,Roadside,Tokyo,Tokyo,Nagaoka 1,190-1223,35.7752754,139.3358488
+13421950,Kokusetsu Ogasawara Sanseiu,General,Tokyo,Tokyo,夜明道路,100-2101,27.0960623,142.2151268
+14101010,Tsurumiku Honchou Toori,General,Kanagawa,Yokohama,Honchō-dōri St.,231-0017,35.5003388,139.6850509
+14101020,Tsurumiku Namamugi,General,Kanagawa,Yokohama,生麦南仲通り,231-0017,35.4963229,139.6726343
+14101520,Tsurumiku Shimosueyoshi,Roadside,Kanagawa,Yokohama,Shimosueyoshi 2-chome,230-0012,35.5227104,139.674588
+14102010,Kanagawaku Kou Dai Oota Machi,General,Kanagawa,Yokohama,横浜新道,231-0017,35.4771262,139.6292686
+14103010,Nishiku Hiranuma,General,Kanagawa,Yokohama,Nishi Ward,220-0023,35.4574564,139.6157246
+14103510,Nishikuasamachou,Roadside,Kanagawa,Yokohama,Sengencho 1-chome,231-0017,35.4653692,139.6114949
+14104020,Nakaku Ka So Dai,General,Kanagawa,Yokohama,Ikebukuro,231-0017,35.419561,139.6489495
+14104030,Nakaku Honmoku Oosato Machi,General,Kanagawa,Yokohama,寒霞橋,231-0017,35.4151966,139.6624281
+14105020,Minamiku Minami Oota,General,Kanagawa,Yokohama,Minamiota 2-chome,232-0006,35.4345404,139.6100468
+14106010,Ho Tsuchi Ke Tani Ku Sakuragaoka,General,Kanagawa,Yokohama,Sakuragaoka 2-chome,240-0011,35.451657,139.5854216
+14107010,Isogoku Isogo,General,Kanagawa,Yokohama,Tokyo Kanjo,231-0017,35.4023243,139.6183546
+14107520,Isogoku Takigashira,Roadside,Kanagawa,Yokohama,Tokyo Kanjo,231-0017,35.4207032,139.6241346
+14108020,Kanazawaku Tomioka Higashi,General,Kanagawa,Yokohama,Yokohama Yokosuka Road (Kanazawa branch line),231-0017,35.360918,139.6318391
+14109040,Kouhokuku Mamedochou,General,Kanagawa,Yokohama,Okurayama 1-chome,231-0017,35.51942160000001,139.6328144
+14110050,Totsukaku Gumizawa,General,Kanagawa,Yokohama,Gumizawa 3-chome,245-0061,35.3979221,139.5143798
+14110510,Totsukaku Totsukachou,Roadside,Kanagawa,Yokohama,Totsukacho,244-0003,35.3986509,139.525737
+14111020,Kounanku Nobachou,General,Kanagawa,Yokohama,Nobacho,234-0056,35.3895156,139.5712889
+14111520,Kounanku Kounan Chuuou Toori,Roadside,Kanagawa,Yokohama,Konanchuo-dori,233-0004,35.4013292,139.5909747
+14112020,Asahiku Tsuru Ke Mine,General,Kanagawa,Yokohama,Tsurugamine 1-chome,241-0022,35.4719743,139.5519456
+14112510,Asahiku Tsuoka Machi,Roadside,Kanagawa,Yokohama,Tsuokacho,241-0805,35.4855052,139.5210461
+14113020,Midoriku Miho Machi,General,Kanagawa,Yokohama,Mihocho,226-0015,35.5160118,139.5267094
+14113510,Aobaku Shiratori Dai,Roadside,Kanagawa,Yokohama,Shiratoridai,231-0017,35.5352292,139.514001
+14113520,Tsuzuki Ku Hiradai,Roadside,Kanagawa,Yokohama,Hiradai,224-0045,35.5354867,139.5657286
+14114020,Seyaku Minami Seya,General,Kanagawa,Yokohama,Minamiseya 1-chome,246-0034,35.456821,139.4862013
+14115010,Sakae Ku Inuyama Machi,General,Kanagawa,Yokohama,Inoyamacho,247-0026,35.3575633,139.5717981
+14116010,Izumiku Izumi Chuuou Kita,General,Kanagawa,Yokohama,権太坂和泉線,245-0016,35.4270746,139.494719
+14117010,Aobaku Shi Ke O Machi,General,Kanagawa,Yokohama,横浜上麻生道路バイパス,225-0024,35.5528406,139.537075
+14118010,Tsuzuki Ku Me Ke Saki Chuuou,General,Kanagawa,Yokohama,まちづくり歩道橋,224-0032,35.54496779999999,139.5704896
+14131020,Kawasakiku Yakusho Taishi Shisho,General,Kanagawa,Kawasaki,Kawasaki-Daishi Hon-dōri St.,210-0812,35.5326357,139.7340402
+14131030,Kokusetsu Kawasaki,General,Kanagawa,Kawasaki,Tajima cho,210-0853,35.5154076,139.7118008
+14131100,Kawasakishi Yakusho Minami Chousha,General,Kanagawa,Kawasaki,Shiyakusho-dōri Ave.,210-0004,35.5299336,139.7024368
+14131510,Kawasakishi Yakusho Mae,Roadside,Kanagawa,Kawasaki,Kyū-Tōkaidō St.,210-0005,35.5318161,139.7016677
+14131530,Ikegami Nitta Kouenmae,Roadside,Kanagawa,Kawasaki,Sangyo-Doro Ave.,210-0832,35.5209026,139.7292786
+14131540,Nisshinchou,Roadside,Kanagawa,Kawasaki,Daiichi Keihin,210-0021,35.5232669,139.6947679
+14132060,Sachi Supootsusentaa,General,Kanagawa,Kawasaki,Komukai-nishimachi St.,212-0023,35.5447114,139.6865605
+14132510,Endou Machi Kousaten,Roadside,Kanagawa,Kawasaki,Saiwai Ward,212-0006,35.5433612,139.6919585
+14133010,Nakaharaku Chiiki Mimamori Shien Sentaa,General,Kanagawa,Kawasaki,Fuchū-kaidō Ave.,211-0063,35.5759903,139.6559525
+14133520,Nakahara Heiwakouen,Roadside,Kanagawa,Kawasaki,Kariyado Odanaka Line,211-0021,35.5665397,139.6586449
+14134010,Seikatsu Bunkakaikan,General,Kanagawa,Kawasaki,ポレポレ通り,213-0001,35.5988046,139.6140393
+14134530,Futako,Roadside,Kanagawa,Kawasaki,Atsugi road,213-0001,35.6080804,139.614488
+14135070,Hironori Matsu Kouen,General,Kanagawa,Kawasaki,Yurigaoka 2-chome,215-0000,35.6048553,139.5146373
+14135080,Noborito Shougakkou,General,Kanagawa,Kawasaki,Noborito,214-0014,35.61999890000001,139.5649208
+14135530,Kakio,Roadside,Kanagawa,Kawasaki,Tsukuimichi,215-0023,35.5914013,139.4975616
+14135540,Motomura Hashi,Roadside,Kanagawa,Kawasaki,Citizen's plaza street,214-0023,35.614936,139.5751101
+14136010,Miyamaedaira Shougakkou,General,Kanagawa,Kawasaki,Miyamae-daira 3-chome,216-0006,35.5896613,139.5856668
+14136510,Miyamaedaira Ekimae,Roadside,Kanagawa,Kawasaki,Shittekurokawa doro,216-0005,35.58478059999999,139.5801042
+14153510,Ko Fuchi,Roadside,Kanagawa,Sagamihara,Kobuchi 3-chome,252-0344,35.5518888,139.4205513
+14201020,Oppama Gyousei Sentaa,General,Kanagawa,Yokosuka,追浜歩道橋,238-8550,35.3182667,139.6318197
+14201040,Saigyou Matsurigoto Sentaa,General,Kanagawa,Yokosuka,Nagasaka 1-chome,240-0101,35.221466,139.6258805
+14201050,Kurihama Gyousei Sentaa,General,Kanagawa,Yokosuka,National Highway Route 134,238-8550,35.2266507,139.7060164
+14201080,Ikegami Komyuniteisentaa Sokutei Kyoku,General,Kanagawa,Yokosuka,Ikegami 3-chome,238-8550,35.2631452,139.6452835
+14201530,Ogawachou Kousaten,Roadside,Kanagawa,Yokosuka,Tokyo Kanjo,238-8550,35.2829122,139.6703973
+14203030,Kanda Shougakkou,General,Kanagawa,Hiratsuka,藤沢平塚線,254-0013,35.37623380000001,139.36319
+14203040,Asahi Shougakkou,General,Kanagawa,Hiratsuka,公所大磯線,254-0904,35.3349974,139.3091994
+14203050,Kasui Shougakkou,General,Kanagawa,Hiratsuka,平塚伊勢原線,254-0813,35.319119,139.3449852
+14203100,Oono Kouminkan,General,Kanagawa,Hiratsuka,Higashishindo 2-chome,254-0014,35.3555801,139.3547955
+14203510,Matsubara Hodoukyou,Roadside,Kanagawa,Hiratsuka,Yachiyocho,254-0036,35.3335402,139.3562281
+14204010,Kamakurashi Yakusho,General,Kanagawa,Kamakura,市役所通り,248-8686,35.3196348,139.5463513
+14204530,Kamakurashi Okamoto,Roadside,Kanagawa,Kamakura,小袋谷藤沢線,247-0073,35.3487787,139.5209154
+14205010,Fujisawashi Yakusho,General,Kanagawa,Fujisawa,Asahicho,251-8601,35.3384264,139.4917759
+14205030,Shounandai Shougakkou,General,Kanagawa,Fujisawa,滝山街道,252-0807,35.4011447,139.4675753
+14205040,Gosho Ken Shougakkou,General,Kanagawa,Fujisawa,横浜伊勢原線,252-0821,35.4033456,139.4165907
+14205050,Meiji Shimin Sentaa,General,Kanagawa,Fujisawa,辻堂駅遠藤線,251-0041,35.3403188,139.4493808
+14205510,Fujisawabashi,Roadside,Kanagawa,Fujisawa,国道467号,251-0053,35.3473974,139.4849011
+14206010,Odawara Shiyakusho,General,Kanagawa,Odawara,Ikegami,250-8555,35.2649476,139.1509434
+14206520,Odawara Shi Higashichou Sokutei Kyoku,Roadside,Kanagawa,Odawara,National Highway Route 1,250-0003,35.260849,139.1789278
+14207010,Me Ke Saki Shiyakusho,General,Kanagawa,Chigasaki,Chigasakichuo-Dori,253-8686,35.3337749,139.4047528
+14207510,Me Ke Saki Ekimae Kousaten,Roadside,Kanagawa,Chigasaki,Chigasaki 1-chome,253-8686,35.3336185,139.4027683
+14208020,Zushi Shiyakusho,General,Kanagawa,Zushi,清水橋,249-0006,35.2955817,139.5804221
+14208520,Zushi Shi Zushi,Roadside,Kanagawa,Zushi,横須賀逗子線,249-0006,35.2925984,139.5796095
+14209010,Sagamiharashi Yakusho,General,Kanagawa,Sagamihara,連絡通路,252-5277,35.5715156,139.3731871
+14209020,Sagami Dai,General,Kanagawa,Sagamihara,Sakuradai,252-0315,35.521392,139.4076601
+14209030,Hashimoto,General,Kanagawa,Sagamihara,Hashimoto 6-chome,252-0143,35.5981188,139.3431676
+14209040,Tana,General,Kanagawa,Sagamihara,Suigotana 3-chome,252-0246,35.5481523,139.334502
+14209050,Tsukui,General,Kanagawa,Sagamihara,tsukui kaidou,252-0159,35.5861663,139.2562331
+14209530,Uwamizo,Roadside,Kanagawa,Sagamihara,Kamimizo 7-chome,252-0243,35.5489932,139.3579359
+14210010,Miura Shi Shiroyama,General,Kanagawa,Miura,Shiroyamacho,238-0298,35.1447146,139.6208021
+14211010,Hatanoshi Yakusho,General,Kanagawa,Hadano,Bunkyocho,257-0044,35.374649,139.2239719
+14211510,Hatanoshi Honchou,Roadside,Kanagawa,Hadano,堀山下秦野停車場線,257-0035,35.3732457,139.2283695
+14212030,Atsugishi Atsugi Chuugakkou,General,Kanagawa,Atsugi,上粕屋厚木線,243-0017,35.4437097,139.3601895
+14212520,Atsugishi Kaneda,Roadside,Kanagawa,Atsugi,National Highway Route 129,243-0806,35.4666076,139.3677985
+14212530,Atsugishi Mizuhiki,Roadside,Kanagawa,Atsugi,Tomuro 2-chome,243-0004,35.4449364,139.3574962
+14213010,Yamatoshi Yakusho,General,Kanagawa,Yamato,南大和相模原線,242-0004,35.4875315,139.4580074
+14213510,Yamatoshi Fukami Dai Kousaten,Roadside,Kanagawa,Yamato,藤沢街道,242-0017,35.4718748,139.466145
+14214020,Iseharashi Yakusho,General,Kanagawa,Isehara,Tanaka,259-1142,35.4037325,139.3148171
+14214510,Iseharashi Tanito Oka,Roadside,Kanagawa,Isehara,Osumidai 2-chome,259-1104,35.3899657,139.2789201
+14215010,Ebinashi Yakusho,General,Kanagawa,Ebina,市道海老名駅大谷線,243-0492,35.4464235,139.3907779
+14216020,Zamashi Yakusho,General,Kanagawa,Zama,藤沢座間厚木線,252-8566,35.4886389,139.4076868
+14217020,Minamiashigarashi Ikoma,General,Kanagawa,Minamiashigara,Ikoma,250-0113,35.3107471,139.1157433
+14218010,Ayaseshi Yakusho,General,Kanagawa,Ayase,綾瀬中央通り,252-1103,35.4379828,139.4265955
+14321010,Samukawa Machiyakuba,General,Kanagawa,Samukawa,Okada,253-0105,35.3725977,139.3838044
+14382010,Hakone Machi Miyagino,General,Kanagawa,Hakone,,250-0401,35.25411,139.0497313
+14401010,Aikawa Machikado Ta,General,Kanagawa,Aikawa,Kasugadai 5-chome,243-0308,35.5286227,139.3223763
+15102510,Higashiyama No Shita,Roadside,Niigata,Niigata,Fujimicho 1-chome,950-0025,37.9336177,139.0908635
+15108010,Kan,General,Niigata,Niigata,Horiyama-shinden,953-8666,37.7588294,138.8840838
+15201060,Ooyama,General,Niigata,Niigata,Higashi Ward,950-0057,37.9353337,139.0794313
+15201150,Tarou Dai,General,Niigata,Niigata,Tarodai,950-3303,37.9812255,139.2202278
+15201220,Yamaki Ko,General,Niigata,Niigata,新潟新発田村上線,950-0891,37.9203489,139.0782812
+15201270,Shouhin,General,Niigata,Niigata,新潟村松三川線,950-3131,37.95647510000001,139.1439993
+15201322,Shiyakusho,Roadside,Niigata,Niigata,164,951-8550,37.9161779,139.0361753
+15201410,Sakai Wa,General,Niigata,Niigata,Ohbori-kansen St.,950-2053,37.8801672,138.9868119
+15201420,Toyosaka,General,Niigata,Niigata,Sakura-dori St.,950-3393,37.9167377,139.2267825
+15201430,Kameda,General,Niigata,Niigata,Kameda-midoricho 1-chome,950-0166,37.8726312,139.1008406
+15201560,Nagamine,Roadside,Niigata,Niigata,Nagaminemachi,950-0087,37.9150401,139.0691899
+15201570,Shirone,Roadside,Niigata,Niigata,戸頭保坂線,950-1227,37.764236,139.015896
+15202080,Nagaoka Kougyoukoukou,General,Niigata,Nagaoka,山田中潟線,940-1151,37.4389967,138.8391816
+15202510,Shiro Oka Jihai,Roadside,Niigata,Nagaoka,長岡見附三条線,940-0028,37.4739639,138.8608918
+15205060,Kashiwazaki,General,Niigata,Kashiwazaki,田塚一丁目,945-0055,37.3676078,138.579031
+15206050,Shibata,General,Niigata,Shibata,Pref. Route 21,957-0052,37.95293119999999,139.330271
+15207020,Niitsu,General,Niigata,Niigata,新津村松線,956-0024,37.79189179999999,139.1206669
+15212010,Murakami,General,Niigata,Murakami,新潟新発田村上線,,38.227776,139.474629
+15213010,Tsubame,General,Niigata,Tsubame,白山町二丁目,959-1289,37.66698110000001,138.9259769
+15216010,Itoigawa,General,Niigata,Itoigawa,横町三丁目,941-0067,37.0416892,137.8531416
+15217050,Oosaki,General,Niigata,Myoko,大崎町,944-0016,37.0397632,138.2570833
+15222190,Fukaya,General,Niigata,Joetsu,大字福田,942-0051,37.1677664,138.2735553
+15224010,Sado,General,Niigata,Sado,Shimobata,952-0204,38.0008328,138.3803005
+15224950,Kokusetsu Sado Kan Misaki Sanseiu,General,Niigata,Sado,Seki,952-2201,38.2340537,138.4232742
+15307080,Sugitani Nai,General,Niigata,Seiro,,950-3303,37.9544644,139.2387925
+15310010,Chuujou,General,Niigata,Tainai,中条乙線,959-2627,38.0597174,139.4103369
+15463010,Muikamachi,General,Niigata,Minamiuonuma,Muikamachi Bypass,949-6680,37.0576786,138.8684775
+15543010,Saifuku Shima,General,Niigata,Joetsu,大字上荒浜,942-0065,37.1922838,138.2729815
+16201021,Toyama Shibazono,General,Toyama,Toyama,Keyaki-dori,930-0002,36.6943114,137.2031287
+16201110,Toyama Mizuhashi,General,Toyama,Toyama,Mizuhashi-Hatakera,939-0521,36.7490583,137.3054004
+16201140,Toyama Ninagawa,General,Toyama,Toyama,富山環状線,939-8072,36.6547874,137.2215502
+16201400,Toyama Iwase,General,Toyama,Toyama,蓮町新庄線,931-8358,36.7426007,137.2321659
+16201510,Toyama Joushi,Roadside,Toyama,Toyama,,930-0006,36.6930988,137.2115311
+16201520,Toyama Toyoda,Roadside,Toyama,Toyama,Toyotamachi 2-chome,930-0814,36.7222389,137.2359058
+16202060,Takaoka Fushiki,General,Toyama,Takaoka,Fushikikofu 1-chome,934-0011,36.79397540000001,137.0564571
+16202520,Takaoka Ootsubo,Roadside,Toyama,Takaoka,Mukainomachi 3-chome,933-0901,36.7590496,137.0194935
+16203030,Shinminato Ebie,General,Toyama,Imizu,東明中町,933-0293,36.76380270000001,137.1475746
+16204090,Uozu,General,Toyama,Uozu,Kitaonie 1-chome,937-0067,36.8288656,137.4080761
+16205180,Himi,General,Toyama,Himi,Kubo,935-0024,36.8437282,136.9919991
+16206240,Namerikawa Kamishima,General,Toyama,Namerikawa,National Highway Route 8,936-0021,36.7509129,137.349314
+16207011,Kurobe Ueki,General,Toyama,Kurobe,沓掛魚津線,938-0025,36.882832,137.4460744
+16208120,Tonami,General,Toyama,Tonami,National Route 359,939-1315,36.6290908,136.9892451
+16209100,Oyabe,General,Toyama,Oyabe,National Route 471,932-8611,36.6727774,136.8710475
+16342060,Nyuuzen,General,Toyama,Nyuzen,National Highway Route 8,939-0699,36.936738,137.5055162
+16362010,Fuchuu Hayahoshi,General,Toyama,Toyama,小倉笹倉線,939-2798,36.6581297,137.1533565
+16381010,Kosugi Taikou Yama,General,Toyama,Imizu,新開発,939-0284,36.7306389,137.0755452
+16408060,Fukuno,General,Toyama,Nanto,柴田屋,939-1596,36.5981836,136.9087054
+17201090,Seinan Bu,General,Ishikawa,Kanazawa,石川県道195号倉部金沢線,921-8063,36.5524111,136.6058324
+17201110,Shou Tateno,General,Ishikawa,Kanazawa,Ishibiki 1-chome,920-8640,36.5563092,136.6771464
+17201290,Chuuou,General,Ishikawa,Kanazawa,長町川岸,920-0864,36.566964,136.6507247
+17201300,Eki Nishi,General,Ishikawa,Kanazawa,Prefectural Road 60,920-8202,36.5898544,136.6354882
+17201310,Seibu,General,Ishikawa,Kanazawa,,920-0341,36.59628900000001,136.6021828
+17201320,Hokubu,General,Ishikawa,Kanazawa,National Highway Route 359,920-0818,36.5951888,136.677044
+17201550,Musashi,Roadside,Ishikawa,Kanazawa,Musashi Studio Steeet,920-0855,36.5719038,136.6550727
+17201560,Katamachi,Roadside,Ishikawa,Kanazawa,古寺町,920-0981,36.5601426,136.6517671
+17201650,Yamashina,Roadside,Ishikawa,Kanazawa,Yamashina 1-chome,921-8151,36.5281565,136.6488735
+17202190,Nanao,General,Ishikawa,Nanao,Nanao-Wajima Line,926-8605,37.0480421,136.9581706
+17202200,Ishizaki,General,Ishikawa,Nanao,248和倉和倉停車場線,926-0175,37.0804969,136.9274999
+17202240,Oota,General,Ishikawa,Nanao,,,37.06687,137.0095
+17203140,Komatsu,General,Ishikawa,Komatsu,,923-0811,36.4081689,136.4613455
+17204010,Wa Shima,General,Ishikawa,Wajima,Kashiwagi-Anamizu Line,929-2372,37.2949242,136.9540429
+17205020,Suzu,General,Ishikawa,Suzu,Azumabashi Bridge,927-1214,37.4401242,137.2693033
+17206010,Daishouji,General,Ishikawa,Kaga,荒木田原町線,922-0436,36.3021931,136.3156929
+17207010,Hakui,General,Ishikawa,Hakui,National Highway Route 249,925-8501,36.8927536,136.7800902
+17208010,Mattou,General,Ishikawa,Hakusan,金剣通り,924-0864,36.5193137,136.5639726
+17208020,Yama Shima,General,Ishikawa,Hakusan,Yamajimadai 4-chome,924-0836,36.4706986,136.5759986
+17321010,Negami,General,Ishikawa,Nomi,,929-0124,36.4464386,136.4553535
+17342010,Mikawa,General,Ishikawa,Hakusan,,929-0235,36.4733755,136.4767523
+17344520,Nonoichi,Roadside,Ishikawa,Nonoichi,Okyozuka 5-chome,921-8064,36.5464972,136.6009513
+17361010,Tsubata,General,Ishikawa,Tsubata,川尻津幡線,929-0319,36.6685904,136.7278335
+17365010,Uchinada,General,Ishikawa,Uchinada,Midoridai 1-chome,920-0276,36.6337294,136.6295955
+17401010,Tatsuruhama,General,Ishikawa,Nanao,,926-0175,37.0612412,136.8929101
+17404010,Kashima,General,Ishikawa,Nakanoto,,926-0034,36.9663847,136.9170166
+17405010,Noto Shima,General,Ishikawa,Nanao,,926-0216,37.1280146,137.0050189
+18201040,Fukui,General,Fukui,Fukui,福井加賀線,910-0858,36.0560829,136.2233419
+18201060,Ishibashi,General,Fukui,Fukui,National Highway Route 305,,36.1468082,136.0996008
+18201070,Oka Ho,General,Fukui,Fukui,大畑松岡線,918-8237,36.0519746,136.2738186
+18201540,Jihai Fukui,Roadside,Fukui,Fukui,,918-8114,36.031118,136.2315365
+18202020,Tsuruga,General,Fukui,Tsuruga,,914-0801,35.6538549,136.0615887
+18202190,Kazuhisa No,General,Fukui,Tsuruga,Ichinonocho 1-chome,914-0122,35.6285378,136.0530583
+18202530,Jihai Tsuruga,Roadside,Fukui,Tsuruga,Kanayama Bypass,914-0043,35.6319747,136.0623496
+18203010,Takefu,General,Fukui,Echizen,武生美山線,915-0804,35.9068912,136.1577886
+18203100,Ajimano Taiki,General,Fukui,Echizen,,915-0005,35.894928,136.2247846
+18203110,Takefu Kita,General,Fukui,Echizen,寺武生線,915-0084,35.9211332,136.1716703
+18204010,Obama,General,Fukui,Obama,小浜上中線,917-0107,35.4977197,135.7509206
+18205010,Oono,General,Fukui,Ono,,912-0081,35.9916181,136.4879846
+18207010,Jinmei,General,Fukui,Sabae,水落町四丁目,916-8666,35.9688283,136.1849574
+18207050,Miyuki,General,Fukui,Sabae,御幸町三丁目,916-0017,35.9797543,136.1933468
+18207080,Sabae Higashi,General,Fukui,Sabae,,916-0043,35.9371207,136.1993906
+18207520,Jihai Tannan,Roadside,Fukui,Sabae,National Highway Route 8,916-8666,35.9615656,136.1878022
+18361010,Mikuni,General,Fukui,Sakai,南横地芦原線,910-0512,36.1667303,136.2314917
+18363010,Kanetsu,General,Fukui,Awara,Ichihime 3-chome,919-0692,36.2121657,136.2285256
+18363020,Nakagawa,General,Fukui,Awara,国道8号,919-0799,36.1971149,136.2681074
+18366010,Sakai,General,Fukui,Osaka,Kamishinjo 2-chome,533-0006,34.7479404,135.5310933
+18381010,Imadate,General,Fukui,Echizen,武生美山線,915-0242,35.9191911,136.2472179
+18441010,Mikata,General,Fukui,Wakasa,National Highway Route 27,919-1393,35.5489531,135.9092309
+19201011,Koufushi Yakusho Jihai,Roadside,Yamanashi,Kōfu,Maiduru-dori,400-0031,35.6620984,138.5683689
+19201510,Kokubo Jihai,Roadside,Yamanashi,Kōfu,Kofu Bypass,400-0043,35.6361392,138.5563264
+19202030,Yoshida,General,Yamanashi,Fujiyoshida,赤富士通り,403-8601,35.48056589999999,138.8010098
+19204010,Tsuru,General,Yamanashi,Tsuru,Fuji road,402-0024,35.5424044,138.8969892
+19205020,Higashiyamanashi,General,Yamanashi,Koshu,Ome Kaido,404-0045,35.7037413,138.7127899
+19206010,Ootsuki,General,Yamanashi,Otsuki,Koshu-kaido,401-8601,35.6081353,138.9338887
+19207030,Nirasaki,General,Yamanashi,Nirasaki,甲府韮崎線,407-0031,35.7009465,138.4588943
+19321030,Usui,General,Yamanashi,Fuefuki,,406-0027,35.6485351,138.6601942
+19366010,Nanbu,General,Yamanashi,Nanbu,,409-2211,35.2896864,138.4462495
+19390030,Minami Arupusu,General,Yamanashi,Minami-Alps,,400-0332,35.6050435,138.4953278
+19441030,Uenohara,General,Yamanashi,Uenohara,Koshu-kaido,409-0121,35.6300547,139.1081617
+20201030,Kankyouhozen Kenkyuusho,General,Nagano,Nagano,,380-0943,36.6347615,138.17623
+20201070,Yoshida,General,Nagano,Nagano,SBC通り,381-0045,36.667356,138.2179037
+20201110,Shinonoi,General,Nagano,Nagano,,387-0001,36.5743368,138.1520748
+20201150,Toyono,General,Nagano,Nagano,長野豊野線,381-0201,36.7130322,138.2831063
+20201510,Kojima Ta,Roadside,Nagano,Nagano,,381-2298,36.5975303,138.1871296
+20202050,Matsumoto,General,Nagano,Matsumoto,倭北松本停車場線,390-0852,36.2349016,137.9435232
+20202060,Matsumoto Shounai,General,Nagano,Matsumoto,やまびこ道路,390-0821,36.2177236,137.9771916
+20202510,Matsumoto Nagisa Kousaten,Roadside,Nagano,Matsumoto,Nagisa 3-chome,390-0863,36.2290082,137.9558406
+20203010,Ueda,General,Nagano,Ueda,National Highway Route 18,386-0005,36.4003269,138.2605276
+20204510,Okaya Intaachenji,Roadside,Nagano,Okaya,Nakasendo Ave.,394-0003,36.0823229,138.0469643
+20205010,Iida,General,Nagano,Iida,Rikaisen,395-0027,35.5137633,137.8294496
+20206010,Suwa,General,Nagano,Suwa,諏訪湖四賀線,392-0021,36.03394040000001,138.1073974
+20207010,Suzaka,General,Nagano,Suzaka,,382-0086,36.662472,138.3079534
+20208020,Komoro,General,Nagano,Komoro,峰ノ茶屋小諸線,384-0006,36.3264127,138.4366237
+20209010,Ina,General,Nagano,Ina,伊那駒ヶ岳線,396-0025,35.8394208,137.9573788
+20211010,Nakano,General,Nagano,Nakano,信州中野停車場線,383-0034,36.7441907,138.3695775
+20212160,Oomachi,General,Nagano,Ōmachi,,398-0002,36.5072765,137.8615679
+20216510,Koushoku Intaachenji,Roadside,Nagano,Chikuma,,387-0006,36.5413588,138.1213004
+20217020,Saku,General,Nagano,Saku,,385-0014,36.2295692,138.4616266
+20421030,Kiso,General,Nagano,Kiso,,397-0001,35.8478109,137.6951891
+20485950,Kokusetsu Happouone Sanseiu,General,Nagano,Hakuba,National Highway Route 148,399-9301,36.6958787,137.8628653
+21201010,Gifu Chuuou,General,Gifu,Gifu,八ツ寺町一丁目,500-8875,35.4218077,136.7591848
+21201020,Gifu Nanbu,General,Gifu,Gifu,茜部菱野二丁目,501-6181,35.385969,136.7511741
+21201030,Gifu Hokubu,General,Gifu,Gifu,福光東三丁目,502-0076,35.457029,136.7719591
+21201520,Akinori Jidousha Hai Gasu,Roadside,Gifu,Gifu,金華橋通り,500-8875,35.4237855,136.7575191
+21202010,Oogaki Seibu,General,Gifu,Ogaki,綾野一丁目,503-0983,35.3480882,136.592107
+21202020,Oogaki Chuuou,General,Gifu,Ogaki,西外側町二丁目,503-0865,35.3579452,136.611324
+21202050,Oogaki Nanbu,General,Gifu,Ogaki,築捨町二丁目,503-0933,35.3410716,136.6242512
+21202510,Oogaki Jidoushahaishutsu Gasu Sokutei Kyoku,Roadside,Gifu,Ogaki,禾森町四丁目,503-0865,35.3523041,136.6212175
+21203010,Kouzan,General,Gifu,Takayama,石浦陣屋下切線,506-0007,36.1461486,137.2527311
+21204020,Agata Osamu Ken,General,Gifu,Tajimi,多治見八百津線,507-0021,35.3450512,137.1269457
+21205360,Kan,General,Gifu,Seki,西本郷通四丁目,501-3894,35.4921453,136.9180744
+21206010,Nakatsugawa,General,Gifu,Nakatsugawa,National Highway Route 19,508-8501,35.4876256,137.5004913
+21208010,Mizunami,General,Gifu,Mizunami,上平町一丁目,509-6195,35.3617298,137.2560577
+21209020,Hane Shima,General,Gifu,Hashima,羽島市役所東線,501-6295,35.3197801,136.7027971
+21210501,Ena,General,Gifu,Ena,恵那停車場線,509-7204,35.4492931,137.4128453
+21211010,Minokamo Sokutei Kyoku,General,Gifu,Minokamo,蜂屋太田線,505-0004,35.4534537,137.0301502
+21212510,Toki Jidoushahaishutsu Gasu Sokutei Kyoku,Roadside,Gifu,Toki,National Highway Route 19,509-5192,35.3573259,137.1753647
+21213020,Kakamigahara,General,Gifu,Kakamigahara,江南関線,504-0922,35.4104364,136.8791329
+21214510,Kani Jidoushahaishutsu Gasu Sokutei Kyoku,Roadside,Gifu,Kani,National Highway Route 21,509-0292,35.433522,137.0454374
+21215950,Kokusetsu Ijira Mizuumi Sanseiu,General,Gifu,Yamagata,,,35.57494122716291,136.6928713121218
+21218010,Motosu,General,Gifu,Motosu,,501-0466,35.4333302,136.6573469
+21220010,Gero,General,Gifu,Gero,,,35.8841895,137.2074429
+21221010,Kaizu,General,Gifu,Kaizu,,,35.1695579,136.6210667
+21401010,Ibi,General,Gifu,Ibigawa,,501-0692,35.5081959,136.5764676
+21541010,Kasahara,General,Gifu,Tajimi,tajimi-ena line,507-8703,35.3327697,137.1321388
+22102010,Nanchuu Gakkou Sokutei Kyoku,General,Shizuoka,Shizuoka,宮竹二丁目,422-8550,34.9509728,138.4185993
+22103010,Shimizu Dainana Chuugakkou Sokutei Kyoku,General,Shizuoka,Shizuoka,草薙三丁目,424-8701,35.0023679,138.447508
+22132540,Hamamatsu Kanjousen,Roadside,Shizuoka,Hamamatsu,Route Hamamatsu Circular Road,435-8555,34.7309131,137.7864167
+22135010,San Ke Nichi,General,Shizuoka,Hamamatsu,National Highway Route 362,431-1414,34.8031087,137.5553379
+22137010,Tenryuu Sokutei Kyoku,General,Shizuoka,Hamamatsu,Oya,431-3305,34.8723638,137.8162493
+22201030,Chiyoda Shougakkou,General,Shizuoka,Shizuoka,静岡清水線,420-8602,34.9956737,138.4075333
+22201060,Nagata Nanchuu Gakkou,General,Shizuoka,Shizuoka,Mochimune-kaido,422-8550,34.9377219,138.3682209
+22201090,Fuku Shoku Shougakkou,General,Shizuoka,Shizuoka,Warashina-kaido,420-8602,34.98558209999999,138.3364742
+22201500,Jouban Kouen,General,Shizuoka,Shizuoka,Surugacho-dori,420-8602,34.9701157,138.3802631
+22201530,Jihai Maruko,Roadside,Shizuoka,Shizuoka,藤枝静岡線,422-8550,34.9450288,138.3551774
+22202040,Hamamatsu Chuuou Sokutei Kyoku,General,Shizuoka,Hamamatsu,Kamoe 2-chome,432-8023,34.7024522,137.7150834
+22202080,Seibu Sokutei Kyoku,General,Shizuoka,Hamamatsu,Kamigaya-cho,432-8005,34.7268757,137.6692186
+22202120,Touhoku Bu Sokutei Kyoku,General,Shizuoka,Hamamatsu,Route Kuma-Komatsu-Tenryugawa Station,431-3113,34.7560499,137.7721861
+22202150,Tounan Bu Sokutei Kyoku,General,Shizuoka,Hamamatsu,Kaketsuka Road,430-0813,34.6936638,137.764858
+22202160,Hokubu Sokutei Kyoku,General,Shizuoka,Hamamatsu,Route Iwata-Hosoe,433-8114,34.7625659,137.7159982
+22202520,R - 257,Roadside,Shizuoka,Hamamatsu,伝馬町地下道,430-0935,34.7054404,137.7280259
+22202530,R - 150,Roadside,Shizuoka,Hamamatsu,Mukojuku 1-chome,430-0805,34.7069788,137.748808
+22203010,Toubu Sougou Chousha,General,Shizuoka,Numazu,,410-0056,35.1079953,138.8569866
+22204010,Shimizu Kuyakusho,General,Shizuoka,Shizuoka,satsuki street,424-8701,35.0157653,138.4896011
+22204020,Shimizu Miho Daiichi Shougakkou,General,Shizuoka,Shizuoka,神の道,424-8701,35.0009836,138.521888
+22204090,Shimizu Ihara Chuugakkou,General,Shizuoka,Shizuoka,Shimizu Ward,424-8701,35.0492781,138.4712296
+22204100,Shimizu Okitsu Kita Kouen,General,Shizuoka,Shizuoka,national route 52,424-8701,35.0605905,138.527795
+22204510,Jihai Jinmei,Roadside,Shizuoka,Shizuoka,Seishin Bypass,424-8701,35.0421328,138.484872
+22205010,Atami Sougou Chousha,General,Shizuoka,Atami,Atami Kannami Line,413-0018,35.0956107,139.068725
+22206010,Mishima Shiyakusho,General,Shizuoka,Mishima,Mishima-Susono Line,411-0853,35.1184325,138.9185823
+22206510,Jihai Mishima,Roadside,Shizuoka,Mishima,National Highway Route 1,411-0842,35.1117417,138.9171345
+22207010,Fujinomiyashi Yakusho,General,Shizuoka,Fujinomiya,Fujinomiya-Fuji-Yui Line,418-0077,35.2220837,138.6216265
+22208020,Itou Shiyakusho,General,Shizuoka,Ito,National Route 135,414-0038,34.9655823,139.1019889
+22209010,Shimada Shiyakusho,General,Shizuoka,Shimada,2級市道扇町祇園線,427-8501,34.836156,138.176722
+22210010,Kyuukyuuiryou Sentaa,General,Shizuoka,Fuji,田子浦港富士インター線,417-0042,35.1540981,138.6774743
+22210020,Yoshihara Daisan Chuugakkou,General,Shizuoka,Fuji,,417-0847,35.1703645,138.7160495
+22210030,Fuji Hiromi Shougakkou,General,Shizuoka,Fuji,大渕街道,417-0862,35.1845669,138.6861139
+22210040,Motoyoshi Hara Chuugakkou,General,Shizuoka,Fuji,59,417-0846,35.1389897,138.7038898
+22210050,Taka Oka Shougakkou,General,Shizuoka,Fuji,久沢二丁目,419-0203,35.1911359,138.6486588
+22210060,Oobuchi Chuugakkou,General,Shizuoka,Fuji,,417-0801,35.2128404,138.6883157
+22210070,Fujichuu Gakkou,General,Shizuoka,Fuji,富士由比線,416-0912,35.1624746,138.6468898
+22210160,Higashi Shougakkou,General,Shizuoka,Fuji,三島富士線,417-0813,35.1500421,138.7641669
+22210170,Nanshou No,General,Shizuoka,Fuji,,421-3301,35.1758502,138.5998848
+22210510,Jihai Tou No Ki,Roadside,Shizuoka,Fuji,富士見大通り,416-0931,35.1567625,138.6652344
+22210520,Jihai Miyajima,Roadside,Shizuoka,Fuji,水神田子浦港線,417-0034,35.1359253,138.6931097
+22211010,Iwata Shiyakusho,General,Shizuoka,Iwata,今之浦三丁目,438-0071,34.7172166,137.8509609
+22212010,Yaizu Chuugakkou,General,Shizuoka,Yaizu,青島焼津街道,425-0026,34.8645375,138.3117178
+22213010,Kakegawa Shiyakusho,General,Shizuoka,Kakegawa,哲学の道,436-0056,34.7685116,137.9984737
+22213510,Jihai Kakegawa,Roadside,Shizuoka,Kakegawa,宮脇秋葉線,436-0059,34.7811096,138.0174244
+22214010,Fujieda Taiki Sokutei Shitsu,General,Shizuoka,Fujieda,高柳二丁目,426-0034,34.8489167,138.2661056
+22214510,Jihai Fujieda,Roadside,Shizuoka,Fujieda,島田岡部線,426-0201,34.8764377,138.2711198
+22215010,Gotenba Shiyakusho,General,Shizuoka,Gotemba,,412-0026,35.3088374,138.9340737
+22216010,Fukuroi Shiyakusho,General,Shizuoka,Fukuroi,旧東海道,437-0023,34.7501691,137.9245908
+22218010,Hamakita Sokutei Kyoku,General,Shizuoka,Hamamatsu,Route Takasono-Kibune,434-0036,34.7924551,137.7920495
+22219010,Shimoda Shiyakusho,General,Shizuoka,Shimoda,national route 414,415-8501,34.6795476,138.9452334
+22220010,Susono Shimin Bunka Sentaa,General,Shizuoka,Susono,,410-1102,35.1976145,138.9132002
+22221010,Kosai Shiyakusho,General,Shizuoka,Kosai,Kibi,431-0422,34.7184684,137.5316085
+22327010,Oohito Kita Shougakkou,General,Shizuoka,Izunokuni,,410-2315,35.0121162,138.9580767
+22381010,Fujigawa Daiichi Chuugakkou,General,Shizuoka,Fuji,永田町一丁目,417-8601,35.161484,138.67622
+22382010,Kanbara Sokutei Kyoku,General,Shizuoka,Shizuoka,蒲原新田二丁目,424-8701,35.1180803,138.5969257
+22402010,Ooigawa Higashi Shougakkou,General,Shizuoka,Yaizu,,425-0064,34.8084366,138.2854006
+22423010,Makinohara Shiyakusho,General,Shizuoka,Makinohara,市道細江静波本線,421-0414,34.739653,138.2243102
+22447010,Kakegawa Shidai Toushi Tokoro,General,Shizuoka,Kakegawa,大東相良線,437-1405,34.6655264,138.0548549
+22522010,Inasa Sokutei Kyoku,General,Shizuoka,Hamamatsu,Route Inasa-Kannanji,431-2216,34.8344883,137.6707
+23101010,Kokusetsu Nagoyadai Ki Kankyou Sokutei Tokoro,General,Aichi,Nagoya,平和公園線,464-0021,35.1760727,136.9765536
+23103011,Tabata,Roadside,Aichi,Nagoya,Inner Ring,462-0847,35.1969599,136.9072747
+23103020,Jouhoku Tsubasa Koukou,General,Aichi,Nagoya,Route Moriyama-Nishi,462-0052,35.2110649,136.9009316
+23104510,Nazuka Chuugakkou,Roadside,Aichi,Nagoya,Nagoya Expressway,451-0083,35.204572,136.8839847
+23105050,Mei Raku Machi,General,Aichi,Nagoya,Prefectural Road Route Nagoya Ichinomiya Line,453-0046,35.1696718,136.8630442
+23106018,Wakamiya Oodoori Kouen,Roadside,Aichi,Nagoya,大須観音通り,460-0018,35.1601378,136.8998058
+23107020,Takikawa Shougakkou,General,Aichi,Nagoya,Ida Kaido,466-0826,35.1442346,136.9605638
+23109520,Atsuta Jinguu Kouen,Roadside,Aichi,Nagoya,Horikawabata Riverside Promenade,456-0016,35.1316261,136.9021568
+23110040,Hachiman Chuugakkou,General,Aichi,Nagoya,Yaguma Dori Avenue,454-0035,35.137184,136.8808031
+23110050,Tomita Shisho,General,Aichi,Nagoya,Nagoya Loop 2nd Line,454-0984,35.1406403,136.8130921
+23111010,Tada Nobutaka Kou,General,Aichi,Nagoya,Route Minato-Nakagawa,455-0823,35.1061398,136.8420412
+23111021,Minato You,Roadside,Aichi,Nagoya,National Route 154,455-0014,35.1033688,136.8878101
+23112020,Shirouzu Shougakkou,General,Aichi,Nagoya,morowa-nagoya line,457-0808,35.0767414,136.9140288
+23112060,Sen Kamado,Roadside,Aichi,Nagoya,Minami Ward,457-0014,35.1095832,136.9252776
+23112510,Moto Shio Kouen,Roadside,Aichi,Nagoya,Motoshiocho 2-chome,457-0822,35.0850386,136.923761
+23113010,Moriyama Hoken Sentaa,General,Aichi,Nagoya,nagoya-tajimi line,463-8510,35.2033099,136.9762974
+23114010,Oodaka Kita Shougakkou,General,Aichi,Nagoya,Midori Ward,459-0001,35.0689892,136.9371081
+23116010,Tenpaku Hoken Sentaa,General,Aichi,Nagoya,天白川自転車歩行者道第２号線,468-0066,35.1226064,136.9748663
+23201030,Oosaki,General,Aichi,Toyohashi,,441-8073,34.7170839,137.3442551
+23201040,Ishinomaki,General,Aichi,Toyohashi,二丁目,441-1112,34.7862605,137.4373971
+23201060,Noyori,General,Aichi,Toyohashi,,441-8124,34.6983627,137.3877403
+23201170,Futakawa,General,Aichi,Toyohashi,,441-3142,34.7252835,137.447929
+23201540,Imahashi,Roadside,Aichi,Toyohashi,National Highway Route 1,440-8501,34.7692439,137.391511
+23202030,Toubu Kashiyama,General,Aichi,Okazaki,National Highway Route 473,444-3502,34.9192891,137.2908714
+23202040,Nanbu Shouji Ta,General,Aichi,Okazaki,庄司田一丁目,444-0814,34.9221031,137.1685071
+23202510,Oohira,Roadside,Aichi,Okazaki,,444-0007,34.9409105,137.192284
+23202550,Yahagi,Roadside,Aichi,Okazaki,National Highway Route 1,444-0942,34.962715,137.1418817
+23202560,Kamoda,Roadside,Aichi,Okazaki,,444-0068,34.9825611,137.16485
+23203010,Ichinomiya Ichimatsu Kou Toori,General,Aichi,Ichinomiya,,494-0003,35.3074422,136.7554689
+23203510,Ichinomiya Ichihei Shima,Roadside,Aichi,Ichinomiya,平島三丁目,491-0835,35.2840753,136.8304677
+23204510,Seto Shi Suehara Machi,Roadside,Aichi,Seto,陶原町五丁目,489-0805,35.2222577,137.0866202
+23205050,Handa Shi Touyou Machi,General,Aichi,Handa,東洋町一丁目,475-0804,34.8946275,136.9380656
+23206270,Kasugai Shi Asa Miya Kouen,General,Aichi,Kasugai,高山線,486-0849,35.2558679,136.9594386
+23206530,Kasugai Shi Katsukawa Shougakkou,Roadside,Aichi,Kasugai,National Highway Route 19,486-0914,35.235324,136.958881
+23207010,Toyokawa Shiyakusho,General,Aichi,Toyokawa,金屋西町三丁目,442-8601,34.8265018,137.3769969
+23207510,Toyokawa Shi Sakuramachi,Roadside,Aichi,Toyokawa,shirotori-toyohashi line,442-0843,34.8182931,137.3474418
+23208530,Tsushima Shi Umeda Machi,General,Aichi,Tsushima,埋田町二丁目,496-0801,35.173672,136.7401673
+23209080,Hekinan Ichikawa Kuchi Machi,General,Aichi,Hekinan,川口町二丁目,444-0327,34.8377666,136.9776732
+23209510,Hekinan Shi Bunkakaikan,Roadside,Aichi,Hekinan,304,447-0027,34.8833197,136.9969096
+23210040,Kariyashi Kotobukichou,General,Aichi,Kariya,明治用水緑道西井筋線,448-0027,34.9871278,136.9997317
+23211020,Nanbu Kyoku ( Takemoto Machi ),General,Aichi,Toyota,okazaki-toyoake line,473-0914,35.0222798,137.1188697
+23211040,Chuubu Kyoku ( Sanken Machi ),General,Aichi,Toyota,三軒町六丁目,471-0035,35.08505400000001,137.1402387
+23211050,Hokubu Kyoku ( Kanou Machi ),General,Aichi,Toyota,,471-8501,35.1551647,137.1621075
+23211060,Toubu Kyoku ( Hourai Machi ),General,Aichi,Toyota,豊田外環状線,471-0808,35.0819554,137.1923345
+23211530,Nitta Kyoku ( Hanazonochou ),Roadside,Aichi,Toyota,nagoya-okazaki line,473-0921,35.0166102,137.0794872
+23212030,Anjou Nourin Koukou,General,Aichi,Anjo,okazaki-handa line,446-0043,34.969136,137.0792197
+23213010,Ai Atsushi Hoomu Nishio En,General,Aichi,Nishio,Prefectural Road Route Kumami Okazaki Line,445-0026,34.8788017,137.0762474
+23214010,Gamagoori Shi Miyukichou,General,Aichi,Gamagori,,443-0044,34.829088,137.2221731
+23215010,Inuyama Shoubousho,General,Aichi,Inuyama,National Highway Route 41,484-0059,35.3640809,136.9447453
+23216110,Tokoname Jouka Sentaa,General,Aichi,Tokoname,新開町六丁目,479-0837,34.8806372,136.8331823
+23217010,Kounan Ichiko Chino Machi,General,Aichi,Konan,,483-8213,35.3427586,136.8674597
+23218010,Ichinomiya Shi Shou Shin Nakajima,General,Aichi,Ichinomiya,,494-0003,35.3082619,136.7497277
+23219010,Komaki Koukou,General,Aichi,Komaki,National Highway Route 155,485-0013,35.2932508,136.9187189
+23220510,Inazawa Shiyakusho,Roadside,Aichi,Inazawa,Nishiowari-Chuou Road,491-0364,35.2477573,136.7802
+23221010,Shinjou Shoubousho,General,Aichi,Shinshiro,National Highway Route 151,441-1392,34.9117614,137.5063772
+23222010,Toukaishi Nawa Machi,General,Aichi,Tokai,,476-0002,35.0427414,136.9121266
+23222020,Toukaishi Yokosuka Shougakkou,General,Aichi,Tokai,National Highway Route 155,477-0037,35.0122937,136.890668
+23223010,Oobu Shougakkou,General,Aichi,Obu,桃山町五丁目,474-0025,35.0132086,136.9650269
+23224030,Chitashi Shinmaiko Hoikuen,General,Aichi,Chita,旭南二丁目,479-0863,34.9470411,136.8320953
+23225040,Chiryuushi Yakusho,General,Aichi,Chiryu,明治用水緑道西井筋線,472-0045,35.0012793,137.0507486
+23226010,Owariasahi Shi Toudai Michi Machi,General,Aichi,Owariasahi,Route Nagoya-Seto,488-0813,35.2130965,137.03615
+23227010,Takahama Shougakkou,General,Aichi,Takahama,nishio-chita line,444-1325,34.9236822,136.9891292
+23228010,Iwakura Shichuu Honchou,General,Aichi,Iwakura,,482-0043,35.28133390000001,136.8777108
+23229010,Toyoake Chuugakkou,General,Aichi,Toyoake,Route Ano-Nagoya,470-1141,35.0616221,137.0076365
+23230510,Nisshin Shijou Nou Ike Supootsu Kouen,Roadside,Aichi,Nisshin,National Highway Route 153,470-0126,35.1265174,137.0175681
+23233510,Kiyosu Shi Ahara,Roadside,Aichi,Kiyosu,,452-0838,35.2167225,136.8582901
+23302010,Tougou Machi Haruki,General,Aichi,Togo,morowa-nagoya line,470-0186,35.0945507,137.0543488
+23303020,Nisshin Shi Goshiki Sono,General,Aichi,Nisshin,五色園二丁目,480-1118,35.15298380000001,137.0625597
+23304010,Nagakute Chuugakkou,General,Aichi,Nagakute,,480-1118,35.1783613,137.0520967
+23342010,Toyoyama Machi Yutaka Ba,General,Aichi,Toyoyama,,480-0202,35.2490406,136.9144448
+23342510,Toyoyama Machi Sakae Jidou Yuuen,Roadside,Aichi,Toyoyama,,480-0202,35.250402,136.9092046
+23381010,Ichinomiya Ichiki So Kawamachi,General,Aichi,Ichinomiya,Prefectural Road Route Konan Kisogawa Line,493-0001,35.3440649,136.7868181
+23421010,Ama Shi Ifuku Shougakkou,General,Aichi,Ama,Shippocho-Takai 1-chome,497-0005,35.1573806,136.7944167
+23422510,Ama Shi Inari Kouen,Roadside,Aichi,Ama,,490-1211,35.1838565,136.7883665
+23425510,Kanie Machi Hachiman,Roadside,Aichi,Kanie,Hachiman 2-chome,497-0055,35.1283486,136.7785366
+23427510,Kokusetsu Tobishima Jidoushakoutsuu Kankyou Sokutei Tokoro,Roadside,Aichi,Tobishima,Takenogo 5-chome,490-1436,35.0781534,136.8004676
+23428010,Yatomi Shiyakusho,General,Aichi,Yatomi,National Highway Route 1,498-0027,35.1106685,136.7228398
+23441010,Agui Chuugakkou,General,Aichi,Agui,nagoya-handa line,470-2202,34.93309410000001,136.9130391
+23442010,Higashiura Machiyakuba,General,Aichi,Higashiura,知多東浦線,470-2103,34.9770694,136.9656039
+23446020,Mihama Machi Okuda,General,Aichi,Mihama,National Highway Route 247,470-3233,34.7873666,136.8585363
+23447010,Taketoyo Machiyakuba,General,Aichi,Taketoyo,武豊小鈴谷線,470-2531,34.8520686,136.9141795
+23481010,Nishio Shiyakusho Isshoku Shisho,General,Aichi,Nishio,,444-0327,34.8123797,137.0298632
+23501010,Kouda Shougakkou,General,Aichi,Kota,akazaki-kouta line,444-0826,34.8787698,137.172655
+23604010,Toyokawa Shi Mito Nanbu Shougakkou,General,Aichi,Toyokawa,,441-0311,34.8101771,137.3201969
+23621071,Tahara Shi Warabe Ura Shougakkou,General,Aichi,Tahara,,441-3492,34.6962171,137.2804764
+23623020,Tahara Ichiko Tamachi,General,Aichi,Tahara,National Highway Route 259,441-3492,34.622797,137.1083247
+24201020,Ringyou Kenkyuusho,General,Mie,Tsu,,,34.6582943,136.3715338
+24201030,Tsu Kawabe Haisui Ba,General,Mie,Tsu,,514-0061,34.7448059,136.4801737
+24202010,Isozu,General,Mie,Yokkaichi,,510-0862,34.9277735,136.6387332
+24202030,San Hama,General,Mie,Yokkaichi,National Highway Route 23,510-0845,34.9463583,136.6217621
+24202050,Hokusei Koukou,General,Mie,Yokkaichi,,510-8012,35.0084253,136.6391588
+24202060,Yokkaichi Shougyoukoukou,General,Mie,Yokkaichi,Route Yokkaichi-Suzuka Loop,512-0921,34.9815138,136.592727
+24202510,Naya,Roadside,Mie,Yokkaichi,Kuramachi,510-0092,34.9652743,136.6331261
+24202530,Kita Shoubousho,Roadside,Mie,Yokkaichi,National Highway Route 1,510-8016,35.0051503,136.6548834
+24202540,Isaka,Roadside,Mie,Yokkaichi,,512-8044,35.0384617,136.6234786
+24203010,Ise Kousei Chuugakkou,General,Mie,Ise,藤社御薗線,516-0071,34.5002766,136.7087583
+24204010,Matsusaka Daigo Shougakkou,General,Mie,Matsusaka,Route Matsusaka Loop,515-0017,34.5612898,136.5414548
+24204510,Kokudou 23 Gou Matsusaka Mikumo,Roadside,Mie,Matsusaka,,515-0812,34.6210289,136.512652
+24205010,Kuwana Ueno,General,Mie,Kuwana,立花町二丁目,511-8601,35.0620946,136.6728604
+24205510,Kokudou 258 Gou Kuwana,Roadside,Mie,Kuwana,National Highway Route 258,511-8601,35.05608,136.6726465
+24206020,Iga Midorigaoka Chuugakkou,General,Mie,Iga,Route Ueno-Oyamada,518-0836,34.758891,136.1425433
+24206030,Iga Tsuge,General,Mie,Iga,National Highway Route 25,519-1416,34.825885,136.2152762
+24207020,Suzuka San Tokoro Hoikusho,General,Mie,Suzuka,Route Suzuka Loop,513-0806,34.8778394,136.5527332
+24207510,Kokudou 23 Gou Suzuka,Roadside,Mie,Suzuka,,510-0235,34.83791110000001,136.5890464
+24208010,Nabari Shougakkou,General,Mie,Nabari,nara-nabari line,518-0725,34.6211777,136.0917163
+24209210,Owase Kyuu Ken Shokuin Kousha,General,Mie,Owase,,519-3611,34.079752,136.1929755
+24210010,Kameyama Minami Hoikusho,General,Mie,Kameyama,Route Suzuka-Seki,519-0124,34.840507,136.4547773
+24210510,Kokudou 25 Gou Kameyama,Roadside,Mie,Kameyama,Old Tokaido,519-1111,34.8570203,136.4174046
+24211010,Toba Koukou,General,Mie,Toba,Route Ago-Isobe-Toba,517-0011,34.4664433,136.8484182
+24212010,Kumano Kimoto Chuugakkou,General,Mie,Kumano,熊野道路,519-4325,33.8912837,136.0939019
+24213010,Tsu Rissei Shougakkou,General,Mie,Tsu,National Highway Route 165,514-0817,34.6765671,136.4889098
+24215010,Ugata,General,Mie,Shima,,517-0501,34.32971790000001,136.8208855
+24323010,Taian Chuugakkou,General,Mie,Inabe,,,35.0999773,136.5389854
+24341810,O Zaisho,Other,Mie,Komono,National Highway Route 477,510-1233,35.0141882,136.4346573
+24342010,Kusunoki,General,Mie,Yokkaichi,Route Yokkaichi-Kusu-Suzuka,510-0862,34.917601,136.6279257
+24344020,Kawagoe Minami Shougakkou,General,Mie,Kawagoe,National Highway Route 1,510-8016,35.0225302,136.6663158
+24442010,Myoujou Shougakkou,General,Mie,Meiwa,Route Ise-Obata-Matsusaka,515-0314,34.5272569,136.636977
+25201060,Gehan Hon,General,Shiga,Otsu,West-Otsu Bypass,520-0004,35.0649551,135.8764265
+25201070,Fujio,General,Shiga,Otsu,,607-8028,34.9986995,135.8384305
+25201080,Katata,General,Shiga,Otsu,Honkatata 3-chome,520-0242,35.1139562,135.9186122
+25201090,Zeze,General,Shiga,Otsu,,520-0818,35.0030028,135.8903409
+25201510,Housaka,Roadside,Shiga,Otsu,Tokaido,520-0052,35.0018985,135.8652862
+25201540,Ishiyama,Roadside,Shiga,Otsu,sentyou-ishiyamatrabe line,520-0861,34.9557669,135.9086855
+25201570,Ueda Ue,Roadside,Shiga,Otsu,Otsu Shigaraki line,520-2101,34.9439952,135.9872269
+25202090,Hikone,General,Shiga,Hikone,Hikone Loop Line,522-0042,35.2521893,136.2407643
+25203030,Nagahama,General,Shiga,Nagahama,祇園八幡中山線,526-0059,35.3889994,136.2665544
+25204050,Hachiman,General,Shiga,Ōmihachiman,oumihachiman station line,523-0892,35.1267563,136.0944454
+25205030,Higashioumi,General,Shiga,Higashiomi,,527-0032,35.1056425,136.2040537
+25206030,Kusatsu,General,Shiga,Kusatsu,yamada-kusatsu line,525-0036,35.0153154,135.9520937
+25206510,Jihai Kusatsu,Roadside,Shiga,Kusatsu,草津市役所玄関前ロータリー,525-8588,35.0127174,135.9608772
+25207010,Moriyama,General,Shiga,Moriyama,赤野井守山線,524-0012,35.061777,135.9878221
+25209010,Kouka,General,Shiga,Koka,307,528-8799,34.9649303,136.1647009
+25212010,Takashima,General,Shiga,Takashima,,520-1652,35.4085099,136.0392195
+26101010,Kita,General,Kyoto,Kyoto,Kitayama Street,603-8206,35.0482395,135.7471032
+26102510,Jihai Joukyou,Roadside,Kyoto,Kyoto,Shimoyanagihara-minamihancho,602-0029,35.0347003,135.758707
+26103010,Sakyou,General,Kyoto,Kyoto,北泉通,606-0931,35.0487576,135.7784326
+26104010,Kyoutoshi Yakusho,General,Kyoto,Kyoto,Oshikōji Street,604-0836,35.01200840000001,135.7681991
+26104060,Mibu,General,Kyoto,Kyoto,Matsubara-dori,615-0042,34.9975846,135.7349249
+26104510,Jihai Oomiya,Roadside,Kyoto,Kyoto,Kōin Street,604-8365,35.0038075,135.7485527
+26104520,Jihai Nishi No Kyou,Roadside,Kyoto,Kyoto,Sai street,602-8451,35.0217101,135.7312428
+26107510,Jihai Minami,Roadside,Kyoto,Kyoto,Keihan-kokudo,601-8447,34.97666,135.7464248
+26109010,Fushimi,General,Kyoto,Kyoto,Aburakake street,612-6368,34.9320301,135.7579441
+26109020,Kuga,General,Kyoto,Kyoto,Mizutare Kamikatsura Line,612-8495,34.9394465,135.732498
+26109030,Daigo,General,Kyoto,Kyoto,Sotokanjo sen,601-1363,34.9454995,135.8091416
+26110010,Yamashina,General,Kyoto,Kyoto,山科御陵緯17号線,607-8408,34.9888347,135.8121679
+26110510,Jihai Yamashina,Roadside,Kyoto,Kyoto,shin-jujo street,607-8164,34.9722545,135.8137202
+26111010,Saikyou,General,Kyoto,Kyoto,Kutsukake Nishioji Gojo Line,615-0000,34.9721909,135.6975509
+26201040,Fukuchiyama,General,Kyoto,Fukuchiyama,Fukuchiyama Station Line,620-0035,35.295753,135.126034
+26202030,Higashimaizuru,General,Kyoto,Maizuru,朝日通り,625-0050,35.4725387,135.3997422
+26203010,Ayabe,General,Kyoto,Ayabe,,623-8799,35.3023924,135.2424402
+26204010,Uji,General,Kyoto,Uji,Uji Yodo line,611-0021,34.8877592,135.7970606
+26205020,Miyazu,General,Kyoto,Miyazu,,626-0027,35.5318287,135.1985524
+26206010,Kameoka,General,Kyoto,Kameoka,,621-0029,35.014319,135.5611696
+26207030,Jouyou,General,Kyoto,Joyo,Yamashiro General Athletic Park Joyo Line,610-0121,34.85319339999999,135.7890943
+26208020,Kouyou,General,Kyoto,Muko,Fushimi Muko Line,617-0004,34.946964,135.7041062
+26210510,Kokudou 1 Gou,Roadside,Kyoto,Yawata,Tozu-Doden,614-8214,34.859282,135.7150941
+26212010,Kyoutango,General,Kyoto,Kyōtango,National Highway Route 482,627-0004,35.6262439,135.0731395
+26213010,Nantan,General,Kyoto,Nantan,,622-0052,35.1146087,135.4462755
+26303020,Ooyamazaki,General,Kyoto,Oyamazaki,Kyoto-Jukan Expressway,617-0845,34.9060955,135.6927745
+26303510,Kokudou 171 Gou,Roadside,Kyoto,Oyamazaki,Nishikyo Takatsuki Line,618-0071,34.902774,135.6885636
+26322020,Kumiyama,General,Kyoto,Kumiyama,市田・島田線,613-0042,34.889103,135.7362941
+26342020,Tanabe,General,Kyoto,Kyotanabe,Yawata Kizu Line,610-0341,34.82313790000001,135.7692905
+26343010,Ide,General,Kyoto,Ide,,610-0302,34.7959379,135.8083571
+26362020,Kizu,General,Kyoto,Kizugawa,東西連絡通路,619-0214,34.7377259,135.8265743
+26366030,Seika,General,Kyoto,Seika,Hikaridai 1-chome,619-0237,34.745743,135.763946
+26367010,Minamiyamashiro,General,Kyoto,Minamiyamashiro,Imayama,619-1421,34.7654688,136.0259893
+27101510,Umeda Shindou,Roadside,Osaka,Osaka,堂島上通,530-8201,34.6960559,135.5017362
+27103510,Ebie Nishi Shougakkou,Roadside,Osaka,Osaka,National Highway Route 2,553-0001,34.6974384,135.4699517
+27104010,Konohana Kuyakusho,General,Osaka,Osaka,Hokko-dori,554-8799,34.6830645,135.4523586
+27104030,Shimaya Shougakkou,General,Osaka,Osaka,島屋歩道橋,539-8799,34.6772109,135.4395039
+27106010,Kyuujou Minami Shougakkou,General,Osaka,Osaka,Chuo-odori,550-0025,34.6728764,135.472599
+27108010,Hirao Shougakkou,General,Osaka,Osaka,Hirao 2-chome,551-0012,34.6411183,135.4741401
+27113510,Deki Shima Shougakkou,Roadside,Osaka,Osaka,National Highway Route 43,555-0034,34.7045005,135.4372009
+27115010,Kokusetsu Oosaka,General,Osaka,Osaka,Honmachi-dori,540-0006,34.6823025,135.5196227
+27115510,Imasato Kousaten,Roadside,Osaka,Osaka,Oimazato-nishi 3-chome,537-0014,34.66763359999999,135.5424322
+27116010,Momodani Chuugakkou,General,Osaka,Osaka,大阪市道上新庄生野線,544-0034,34.6550796,135.5335621
+27117010,Oomiya Chuugakkou,General,Osaka,Osaka,Shirokitakoendori,535-0003,34.7270952,135.5406867
+27117510,Shinmori Kouji Shougakkou,Roadside,Osaka,Osaka,Shinmori 6-chome,535-0022,34.7152885,135.5614922
+27118020,Seiken Shougakkou,General,Osaka,Osaka,Ishikiri-Osaka,536-0017,34.6972847,135.5429763
+27120510,Abiko Chuugakkou,Roadside,Osaka,Osaka,Abiko 1-chome,558-0013,34.6050499,135.5112234
+27121510,Kumata Machi Kousaten,Roadside,Osaka,Osaka,Imazatosuji,546-0002,34.6367931,135.5379486
+27122010,Imamiya Chuugakkou,General,Osaka,Osaka,National Highway Route 26,557-8799,34.6481897,135.498451
+27123010,Nonaka Shougakkou,General,Osaka,Osaka,National Highway Route 176,532-0034,34.7278971,135.4803002
+27124010,Mamuta Kita Shougakkou,General,Osaka,Osaka,八尾茨木線,538-0035,34.7091468,135.5861188
+27125010,Kiyoe Shougakkou,General,Osaka,Osaka,市道浜口南港線,559-0015,34.6079687,135.4803052
+27125030,Nankounaka Ou Kouen,General,Osaka,Osaka,南港球場,559-0033,34.6312772,135.4321541
+27125510,Kita Kohama Shougakkou,Roadside,Osaka,Osaka,Nanko-dori,559-0007,34.6227319,135.4903311
+27125520,Suminoe Kousaten,Roadside,Osaka,Osaka,市道浜口南港線,559-0015,34.6100553,135.4751751
+27126010,Setsuyou Chuugakkou,General,Osaka,Osaka,中吉橋通,547-8799,34.6201962,135.5454222
+27143510,Chuukan Ishihara,Roadside,Osaka,Sakai,大阪中央環状線,540-8570,34.5573025,135.5286373
+27146010,Kaneoka Minami,General,Osaka,Sakai,Kanaoka-cho,591-8022,34.555613,135.5113223
+27147010,Mihara,General,Osaka,Sakai,Kobirao,587-0021,34.5388645,135.5629434
+27201020,Shourinji,General,Osaka,Sakai,Shorinji-cho Higashi 4-cho,590-0963,34.5707654,135.4712641
+27201030,Hamadera,General,Osaka,Sakai,Hamaderafunaocho Nishi 5-cho,592-8342,34.5434168,135.4580438
+27201080,Sanpou,General,Osaka,Sakai,Osaka-Rinkai-Line,540-8570,34.593969,135.4721272
+27201090,Wakamatsu Dai,General,Osaka,Sakai,Wakamatsudai 3-cho,590-0116,34.4874653,135.5132808
+27201100,Tomi Oka,General,Osaka,Sakai,National Highway Route 310,540-8570,34.5261181,135.5283023
+27201340,Fukai,General,Osaka,Sakai,Fukai-mizugaikecho,599-8237,34.5311326,135.5015958
+27201510,Sakaishi Yakusho,Roadside,Osaka,Sakai,堺市役所前広場,540-8570,34.5732739,135.4830035
+27201560,Wangan,Roadside,Osaka,Sakai,Hamaderaishizucho Nishi 4-cho,540-8570,34.558378,135.4479766
+27201570,Jouban Hamadera,Roadside,Osaka,Sakai,Shinkanaoka-cho 4-cho,591-8021,34.5686936,135.516403
+27201580,Hanwa Fukai Hatakeyama,Roadside,Osaka,Sakai,Izumiotsu-Mihara Line,540-8570,34.5277359,135.5088709
+27201600,Mihara Tan Ue,Roadside,Osaka,Sakai,Hanwa Expressway,540-8570,34.5549856,135.5664792
+27202060,Kishiwada Chuuou Kouen,General,Osaka,Kishiwada,Nishinouchicho,596-0042,34.466049,135.3921665
+27202530,Ten No Kawashimo Mizu Ponpu Ba,Roadside,Osaka,Kishiwada,Haruki-daikokucho,596-0035,34.483391,135.381448
+27203030,Toyonakashi Komonoe Kouen,General,Osaka,Toyonaka,三和町第１号線,561-0815,34.7412928,135.4740895
+27203510,Toyonakashi Yakusho,Roadside,Osaka,Toyonaka,岡町熊野田線,561-0881,34.7813117,135.4705473
+27203520,Toyonakashi Senri,Roadside,Osaka,Toyonaka,新千里西町歩第20号線,560-0083,34.8093352,135.4923928
+27204030,Ikeda Shiritsu Minami Hatake Kaikan,General,Osaka,Ikeda,Hata 1-chome,563-0021,34.8249785,135.4475222
+27205060,Suitashi Tarumi,General,Osaka,Suita,,564-0052,34.7584425,135.5038581
+27205080,Suitashi Kita Shoubousho,General,Osaka,Suita,,565-0873,34.8117622,135.5166734
+27205090,Suitashi Kouyadai,General,Osaka,Suita,風の子通り,565-0861,34.7922699,135.5194374
+27205530,Suita Kan'i Saibansho,Roadside,Osaka,Suita,National Route 479,564-0032,34.7563902,135.5211007
+27206030,Izumiootsu Shiyakusho,General,Osaka,Izumiotsu,はなみずき通り,595-0026,34.5044385,135.4105749
+27207020,Takatsuki Kita,General,Osaka,Takatsuki,Miyanokawara 5-chome,569-1034,34.8632214,135.5983748
+27207030,Shou Tokoro,General,Osaka,Takatsuki,大阪高槻線,569-0065,34.8372014,135.6150306
+27207040,Kajiwara,General,Osaka,Takatsuki,Kajihara 1-chome,569-8567,34.8663996,135.6490019
+27207510,Takatsukishi Yakusho,Roadside,Osaka,Takatsuki,高槻停車場線,569-0067,34.8458787,135.6173097
+27208010,Kaizukashi Shoubousho,General,Osaka,Kaizuka,Nishicho-Umizuka-Asonaka Line,597-0033,34.4357686,135.3661522
+27209010,Seibu Komyuniteiisentaa,General,Osaka,Moriguchi,Fumizonocho,535-0001,34.7296923,135.5569285
+27209510,Oosakafuritsu Yodogawa Kouka Koutougakkou,Roadside,Osaka,Moriguchi,Keihan-kokudo,570-0025,34.7372875,135.5631422
+27210010,Hirakatashi Yakusho,General,Osaka,Hirakata,枚方富田林泉佐野線,573-8799,34.81472979999999,135.6512782
+27210020,Wani Kouen,General,Osaka,Hirakata,Katano Kumiyama Line,573-0152,34.8178102,135.7065132
+27210030,Kusuha,General,Osaka,Hirakata,枚方交野寝屋川線,573-1105,34.8596737,135.6815933
+27210510,Shoudai,Roadside,Osaka,Hirakata,枚方交野寝屋川線,573-1155,34.8319694,135.6863985
+27210520,Naka Shin,Roadside,Osaka,Hirakata,Minaminakaburi 3-chome,572-0089,34.7924294,135.6231519
+27211010,Ibaragishi Yakusho,General,Osaka,Ibaraki,Ekimae 3-chome,567-0888,34.8163744,135.56859
+27212010,Yaoshi Hokensho,General,Osaka,Yao,Osakako-Yao Line,581-0004,34.6255492,135.6019846
+27212030,Mizukoshi,General,Osaka,Yao,Mizukoshi 4-chome,581-0862,34.6352883,135.6387533
+27212510,Taishidou,Roadside,Osaka,Yao,八尾太子堂二丁目歩道橋,581-0056,34.6123291,135.5892018
+27212520,Kyuuhouji Ryokuchi,Roadside,Osaka,Yao,Kinki Expressway,581-0001,34.6266374,135.5781052
+27213050,Sano Chuugakkou,General,Osaka,Izumisano,鳥取吉見泉佐野線,598-0046,34.4041787,135.2985099
+27213510,Suehiro Kouen,Roadside,Osaka,Izumisano,2nd Hanwa National Highway,598-0033,34.3987719,135.3091548
+27214020,Tondabayashi Shiyakusho,General,Osaka,Tondabayashi,National Highway Route 170,584-0031,34.49983539999999,135.5973052
+27215010,Neyagawashi Yakusho,General,Osaka,Neyagawa,枚方交野寝屋川線,572-0831,34.7661159,135.6276931
+27215020,Narita,General,Osaka,Neyagawa,香里線,572-0004,34.7775043,135.6409592
+27216010,Mikkaichi Kouminkan,General,Osaka,Kawachinagano,Uedacho,586-0048,34.4387959,135.5672092
+27216520,Gaikan Kawachinagano,Roadside,Osaka,Kawachinagano,National Highway Route 170,586-0023,34.4552535,135.5635788
+27217510,Matsubara Kita Shougakkou,Roadside,Osaka,Matsubara,National Highway Route 309,580-0044,34.5794396,135.5515383
+27218010,Daitou Shiyakusho,General,Osaka,Daito,Shinhori Bridge,574-8799,34.7120133,135.6234349
+27219040,Midorigaoka Shougakkou,General,Osaka,Izumi,4310緑ケ丘１０号線,594-1105,34.4465932,135.4596734
+27221010,Furitsu Shuutoku Gakuin,General,Osaka,Kashiwara,本堂高井田線,582-0023,34.5732078,135.6431058
+27224510,Settsu Shiyakusho,Roadside,Osaka,Settsu,大阪中央環状線,566-0022,34.77621670000001,135.5621651
+27225010,Takaishi Chuugakkou,General,Osaka,Takaishi,市役所前通り,592-0013,34.5254237,135.4468283
+27225510,Kamodooru M B S,Roadside,Osaka,Takaishi,Toriishi 6-chome,594-0002,34.5131898,135.4520136
+27226030,Fujiidera Shiyakusho,General,Osaka,Fujiidera,Nagao-kaido road,583-0021,34.574141,135.5974482
+27227020,Higashioosakashi Roku Man Tera,General,Osaka,Higashiōsaka,Old National Highway Route 170,579-8055,34.6557724,135.6400074
+27227030,Higashioosakashi Kankyou Eisei Kensa Sentaa,Roadside,Osaka,Higashiōsaka,Nishi-Iwata 3-chome,577-0033,34.6680545,135.5973216
+27227040,Higashioosakashi Nishibo Takeshi Sentaa,General,Osaka,Higashiōsaka,大阪枚岡奈良線,577-0055,34.6649462,135.57584
+27228010,Sennan Shiyakusho,General,Osaka,Sennan,Tarui 1-chome,590-0592,34.3665174,135.2738575
+27229510,Kokusetsu Shijounawate,Roadside,Osaka,Shijonawate,National Highway Route 170,575-0044,34.7374635,135.6321609
+27301010,Shimamoto Machiyakuba,General,Osaka,Shimamoto,Meishin Expressway,618-0023,34.8838199,135.6630151
+27321010,Toyono Machiyakuba,General,Osaka,Toyono,,563-0299,34.923016,135.4938746
+27367010,Nankai Danchi,General,Osaka,Hannan,2nd Hanwa National Highway,599-0204,34.3394262,135.2285782
+28101010,Higashinada,General,Hyogo,Kobe,住吉東町３４号線,658-8799,34.719939,135.2646412
+28101030,Rokkou Airando,General,Hyogo,Kobe,向洋１０号線,658-0032,34.6882591,135.2659601
+28101040,Sumiyoshi Minami,General,Hyogo,Kobe,住吉南町２０号線,658-0046,34.7082387,135.2636154
+28101520,Uozaki Jidousha,Roadside,Hyogo,Kobe,魚崎工区１２号線,658-0025,34.7140375,135.277466
+28102010,Nada,General,Hyogo,Kobe,神ノ木８号線,657-0057,34.7139393,135.2299221
+28102040,Nadahama,General,Hyogo,Kobe,灘方面第３９１号線,657-0042,34.7042064,135.2340226
+28103010,Fukiai,General,Hyogo,Kobe,葺合北８３号線,651-0055,34.7075195,135.2029851
+28105010,Hyougo Nanbu,General,Hyogo,Kobe,兵庫南１６７号線,652-0855,34.6569687,135.1699209
+28106010,Nagata,General,Hyogo,Kobe,新湊川左岸線,653-0834,34.6655765,135.1509124
+28107010,Suma,General,Hyogo,Kobe,須磨里５６６号線,654-0051,34.6474071,135.1208072
+28107020,Shirakawa Dai,General,Hyogo,Kobe,白川台６１号線,654-0103,34.6935289,135.0986062
+28107510,Seibu Jidousha,Roadside,Hyogo,Kobe,中島２号線,654-0034,34.6513487,135.1298659
+28108010,Tarumi,General,Hyogo,Kobe,西垂水第８号線,655-0014,34.6373543,135.0612393
+28108020,Saishin,General,Hyogo,Kobe,Nishi Ward,651-2273,34.7215534,134.9988343
+28108510,Tarumi Jidousha,Roadside,Hyogo,Kobe,National Highway Route 2,655-0884,34.6287768,135.0609007
+28109010,Minamigoyou,General,Hyogo,Kobe,Akashi-Kobe-Takarazuka Line,651-1112,34.7212953,135.1337931
+28109520,Kita Kami Hata,General,Hyogo,Kobe,Miki Sanda Line,651-1306,34.848449,135.2161589
+28110010,Minato Shima,General,Hyogo,Kobe,ポートアイランド南側臨港道路,650-0046,34.6621412,135.21206
+28110510,Chuubu Jidousha,Roadside,Hyogo,Kobe,National Highway Route 2,651-0096,34.6955189,135.2010085
+28111010,Oshibe Tani,General,Hyogo,Kobe,Sakuragaoka-higashimachi 5-chome,651-2221,34.7424496,135.0635739
+28111510,Nishi Jidousha,Roadside,Hyogo,Kobe,Kobe-Akashi Line,651-2131,34.6720368,134.976541
+28201020,Hirohata,General,Hyogo,Himeji,Seimon Street,671-1104,34.8048643,134.6284347
+28201030,Shikama,General,Hyogo,Himeji,National Highway Route 250,672-8035,34.8001361,134.677436
+28201040,Shirahama,General,Hyogo,Himeji,姫路市道 白浜313号線,672-8023,34.785361,134.70505
+28201050,O Kuni No,General,Hyogo,Himeji,National Highway Route 2,671-0299,34.8188052,134.7409614
+28201060,Amiboshi,General,Hyogo,Himeji,Taishi Mitu Line,671-1228,34.7891787,134.5889533
+28201070,Shoku Nishi,General,Hyogo,Himeji,,671-2214,34.8611199,134.644134
+28201090,Hayashida,General,Hyogo,Himeji,Kamiise Honda Line,679-4206,34.90361180000001,134.5801986
+28201380,Yatsushiro,General,Hyogo,Himeji,,670-0876,34.84702920000001,134.6967822
+28201390,Koudera,General,Hyogo,Himeji,Shisou Kodera Line,679-2151,34.9101734,134.737969
+28201520,Senba Jidoushahaishutsu Gasu,Roadside,Hyogo,Himeji,,670-0904,34.8350265,134.6835045
+28201530,Shikama Jidoushahaishutsu Gasu,Roadside,Hyogo,Himeji,,672-8064,34.7887543,134.6595313
+28202010,Shiritsu Tachibana Kita Shougakkou,General,Hyogo,Amagasaki,七松線,661-0013,34.7481158,135.4044477
+28202020,Kokusetsu Amagasaki,General,Hyogo,Amagasaki,Maitani Koya Amagasaki Line,661-0892,34.7255171,135.4135068
+28202030,Jounai Koukou,General,Hyogo,Amagasaki,庄下川開明橋アンダー,660-0861,34.7159158,135.4200824
+28202520,Mukogawa,Roadside,Hyogo,Amagasaki,Hanshin Expressway Route 3 Kobe Line,660-0085,34.7154484,135.3891349
+28202530,Muko Sou Sougou Koukou,Roadside,Hyogo,Amagasaki,Amagasaki Takarazuka Line,661-0041,34.765182,135.3863701
+28202540,Sunada Kodomo Hiroba,Roadside,Hyogo,Amagasaki,Maitani Koya Amagasaki Line,661-8511,34.7452675,135.4120458
+28202550,Uesaka Bu Nishikouen,Roadside,Hyogo,Amagasaki,Nishinomiya-Toyonaka Line,661-0011,34.7489872,135.4230363
+28202560,Hamada,Roadside,Hyogo,Amagasaki,National Highway Route 2,660-0075,34.72815569999999,135.3956009
+28202570,Sono Wa Shougakkou,Roadside,Hyogo,Amagasaki,園田橋線,661-0953,34.7540884,135.4476758
+28202580,Kokusetsu Amagasaki Jidoushakoutsuu Kankyou Sokutei Tokoro,Roadside,Hyogo,Amagasaki,Higashihonmachi 4-chome,660-0824,34.7126299,135.4235526
+28203020,Futami,General,Hyogo,Akashi,,674-8501,34.6987162,134.8883776
+28203030,Ookubo,General,Hyogo,Akashi,,673-8686,34.6813611,134.9437575
+28203060,Ouji,General,Hyogo,Akashi,Oji 2-chome,673-0028,34.653125,134.9804352
+28203510,Hayashizaki,Roadside,Hyogo,Akashi,Akashi Takasago Line,673-0033,34.6491817,134.9709989
+28203530,Kokubo,Roadside,Hyogo,Akashi,Kobe-Akashi Line,673-0016,34.6676873,134.9614426
+28204010,Nishinomiyashi Yakusho,General,Hyogo,Nishinomiya,西２６６,662-8567,34.7372123,135.3410505
+28204020,Naruo Shisho,General,Hyogo,Nishinomiya,鳴77,662-8567,34.718372,135.370109
+28204030,Kawara Ki Kouminkan,General,Hyogo,Nishinomiya,Kawarabayashicho,662-8567,34.743981,135.3673067
+28204130,Kabuto Ryou Chuugakkou,General,Hyogo,Nishinomiya,Gakuenhanadori,662-8567,34.7691543,135.353507
+28204140,Yamaguchi Shougakkou,General,Hyogo,Nishinomiya,Ozo Nishinomiya Line,662-8567,34.8268477,135.2363567
+28204150,Hama Koushien,General,Hyogo,Nishinomiya,鳴185,662-8567,34.7132021,135.3545056
+28204510,Roku Tan Tera,Roadside,Hyogo,Nishinomiya,西２６６,662-8567,34.7372123,135.3410505
+28204520,Tsu Kadogawa,Roadside,Hyogo,Nishinomiya,Kyukokudo,662-8567,34.7316398,135.3486137
+28204530,Kawara,Roadside,Hyogo,Nishinomiya,National Highway Route 171,662-8567,34.7477514,135.3450193
+28204560,Koushien,Roadside,Hyogo,Nishinomiya,Hanshin Expressway Route 3 Kobe Line,662-8567,34.7203214,135.3668245
+28204570,Shiose,Roadside,Hyogo,Nishinomiya,National Highway Route 176,662-8567,34.8263815,135.3071621
+28205010,Sumoto Shiyakusho,General,Hyogo,Sumoto,Honmachi 5-chome,656-8799,34.3424962,134.8957321
+28206090,Asahi Ke Oka Shougakkou,General,Hyogo,Ashiya,市道５１１号線,659-8501,34.7461513,135.3029615
+28206510,Uchiide,Roadside,Hyogo,Ashiya,市道１２３－２号線,659-8501,34.7313628,135.3173828
+28207030,Itamishi Yakusho,General,Hyogo,Itami,,664-0898,34.7844411,135.4012784
+28208010,Aioi Shiyakusho,General,Hyogo,Aioi,Aioi Station Line,678-0031,34.803649,134.4680905
+28208510,Ike No Nai,Roadside,Hyogo,Aioi,Issaicho-Haze 4-chome,679-4017,34.8197588,134.4870301
+28209010,Toyooka Shiyakusho,General,Hyogo,Toyooka,Chuomachi,668-8666,35.5442675,134.8201761
+28209510,Obi Saki,Roadside,Hyogo,Toyooka,南本町通,668-0042,35.539756,134.8237373
+28210010,Kakogawa Shiyakusho,General,Hyogo,Kakogawa,National Highway Route 2,675-0063,34.7572948,134.8424253
+28210020,Onoe,General,Hyogo,Kakogawa,,675-0024,34.740463,134.8246949
+28210030,Beppu,General,Hyogo,Kakogawa,,675-0133,34.7264321,134.84207
+28210050,Toushin Kichi,General,Hyogo,Kakogawa,Heiso Uohashi Line,675-0057,34.79311250000001,134.8328323
+28210180,Shikata Kouminkan,General,Hyogo,Kakogawa,Ohara Hoden Station Line,675-0321,34.8271403,134.8224735
+28210190,Taira Sou,General,Hyogo,Kakogawa,Kobe Kakogawa Himeji Line,675-1221,34.8067117,134.8720144
+28210520,Hiraoka,Roadside,Hyogo,Kakogawa,,675-0101,34.7431744,134.8764854
+28210530,Hato Sato,Roadside,Hyogo,Kakogawa,National Highway Route 250,675-0034,34.7571972,134.8231367
+28211010,Tatsuno Shiyakusho,General,Hyogo,Tatsuno,,679-4192,34.8580845,134.5452559
+28212010,Akou Shiyakusho,General,Hyogo,Ako,National Highway Route 250,678-0239,34.7549568,134.3902829
+28213010,Nishiwaki Shiyakusho,General,Hyogo,Nishiwaki,,677-0017,34.99420020000001,134.9697231
+28214010,Takashi Chuugakkou,General,Hyogo,Takarazuka,蔵人福井線,665-0051,34.786454,135.3616866
+28214510,Sakaemachi,Roadside,Hyogo,Takarazuka,宝塚市道598号線,665-8558,34.8094288,135.3451897
+28216010,Takasago Shiyakusho,General,Hyogo,Takasago,Akashi Takasago Line,676-0005,34.7663697,134.7906543
+28216520,Nakajima,Roadside,Hyogo,Takasago,Nakashima 2-chome,676-0001,34.771899,134.7973076
+28217010,Kawanishi Shiyakusho,General,Hyogo,Kawanishi,Kawanishi Sasayama Line,666-8799,34.8298782,135.4169434
+28217520,Kamo,Roadside,Hyogo,Kawanishi,Kamo 5-chome,666-0024,34.8121137,135.410882
+28217530,Kawanishi Shi Kawanishi Monju Hashi Kyoku,Roadside,Hyogo,Kawanishi,,666-0115,34.8831302,135.4012784
+28218510,Uehonmachi,Roadside,Hyogo,Ono,,675-1378,34.8490996,134.9352588
+28219010,Mita Shiyakusho,General,Hyogo,Sanda,Miwa 2-chome,669-1531,34.8899778,135.2254628
+28381010,Inami Machiyakuba,General,Hyogo,Inami,Nodani Hiraoka Line,675-1116,34.7490214,134.9134063
+28382010,Harima Machiyakuba,General,Hyogo,Harima,Honjo Hiraoka Line,675-0163,34.7153524,134.8680584
+28464010,Taishi Machiyakuba,General,Hyogo,Taishi,,671-1561,34.8331836,134.5722229
+28641010,Kashiwabara,General,Hyogo,Tamba,National Highway Route 176,669-4273,35.1296053,135.0829579
+29201020,Seibu,General,Nara,Nara,学園富雄通り,631-0078,34.7004297,135.7430483
+29201030,Shujaku,General,Nara,Nara,,631-0806,34.71632719999999,135.7987419
+29201060,Asuka,General,Nara,Nara,National Highway Route 169,630-8382,34.6754708,135.8356503
+29201530,Jihai Kashiwagi,Roadside,Nara,Nara,Nara Bypass,630-8131,34.6723054,135.7997165
+29202010,Takada,General,Nara,Yamatotakada,kawai-yamatotakada line,635-0015,34.5157352,135.7374043
+29204010,Tenri,General,Nara,Tenri,National Highway Route 25,632-0034,34.5948841,135.8303402
+29206010,Sakurai,General,Nara,Sakurai,National Highway Route 169,633-8585,34.5218961,135.8429888
+29208010,Gosho,General,Nara,Gose,gose station line,639-2298,34.4633292,135.7401751
+29209010,Ikoma,General,Nara,Ikoma,Ichibu Bypass,630-0213,34.6910438,135.7084476
+29363010,Tawaramoto,General,Nara,Tawaramoto,Miyako,636-0213,34.5628531,135.7784299
+29425010,Ouji,General,Nara,Oji,Oji 1-chome,636-0002,34.593387,135.709287
+29451010,Oodai,General,Nara,Kamikitayama,林道橡谷西ノ谷線,639-3799,34.1583727,136.0372508
+30201020,Eisei Kenkyuusho,General,Wakayama,Wakayama,,640-8511,34.2476554,135.1384115
+30201030,Shima Hashi Chiku Kaikan,General,Wakayama,Wakayama,,640-8511,34.2450761,135.1469227
+30201040,Naka Yuki Shima Shougakkou,General,Wakayama,Wakayama,,640-8511,34.2417354,135.1857186
+30201050,Kan'ei Ken,General,Wakayama,Wakayama,Sunayama-minami 3-chome,640-8511,34.2142592,135.1624828
+30201070,Ki No Honsha Taku,General,Wakayama,Wakayama,Matsuekita 5-chome,640-8511,34.2510472,135.1324962
+30201080,Minato Shougakkou,General,Wakayama,Wakayama,Wakayama Port-Kitajima Line,640-8511,34.2331216,135.1446641
+30201110,Meiwa Chuugakkou,General,Wakayama,Wakayama,Chuuou-Dori Avenue,640-8511,34.185469,135.1804155
+30201130,Ogura Shougakkou,General,Wakayama,Wakayama,岩出海南線,640-8511,34.2434282,135.2875129
+30201250,Seimei Ryou,General,Wakayama,Wakayama,,640-8511,34.2542111,135.1098914
+30201270,Shiritsu Wakayama Koukou,General,Wakayama,Wakayama,Kokawa-Kada Line,640-8511,34.2611236,135.1984652
+30201280,Minami Shoubou Miyamae Shutchousho,General,Wakayama,Wakayama,和歌山橋本線旧道,640-8511,34.2140104,135.1809618
+30201300,Miyamae Shougakkou,General,Wakayama,Wakayama,和歌山海南線 国体道路,640-8511,34.2123718,135.18621
+30201520,Shin Minami Shougakkou,Roadside,Wakayama,Wakayama,国体道路,640-8511,34.2270759,135.1895225
+30202020,Utsumi Shougakkou,General,Wakayama,Kainan,和歌山海南線,642-0033,34.1495908,135.2140379
+30202140,Nichi Hou Shougakkou,General,Wakayama,Kainan,National Highway Route 370,642-8501,34.1566917,135.209961
+30202160,Kuroe Shougakkou,General,Wakayama,Kainan,National Highway Route 42,642-8501,34.1593119,135.2004241
+30202180,Shoubou Higashide Chou Tokoro,General,Wakayama,Kainan,National Highway Route 370,640-1192,34.162556,135.27939
+30203010,Ito Sougou Chousha,General,Wakayama,Hashimoto,National Highway Route 371,648-0072,34.3117978,135.600701
+30204030,Arida Shi Hatsushima Kouminkan,General,Wakayama,Arida,,649-0392,34.0998406,135.1164476
+30205010,Gobou Kanshi Shisho,General,Wakayama,Gobo,柏御坊線,644-0002,33.8910819,135.1552983
+30206010,Aizu Kouen,General,Wakayama,Tanabe,Kumano Kodo Ohechi Route,646-8545,33.7321135,135.3833504
+30207010,Shinguu Koukou,General,Wakayama,Shingū,National Highway Route 168,647-0052,33.71945669999999,135.98546
+30301020,Shimotsu Kouwan Kaikan,General,Wakayama,Kainan,,649-0302,34.1107316,135.1441036
+30301030,Kamo Sato,General,Wakayama,Kainan,,649-0144,34.1215208,135.1629015
+30301050,Kamogawa Shougakkou,General,Wakayama,Kainan,,649-0144,34.1270054,135.1880594
+30322010,Kokawa Chuubu Undoujou,General,Wakayama,Kinokawa,粉河中学校線,649-6531,34.2728872,135.4023704
+30361010,Taikyuu Koukou,General,Wakayama,Yuasa,National Highway Route 42,643-0004,34.0362191,135.1828521
+30384010,Koguma Hiroba,General,Wakayama,Hidakagawa,Hanwa Expressway,649-1324,33.9121988,135.1939121
+30390010,Innami Hara,General,Wakayama,Inami,,649-1532,33.8567607,135.2337297
+30391010,Minabe Machi Okute Guraundo,General,Wakayama,Minabe,中芳養南部線,645-0002,33.7931348,135.3439917
+31201020,Sakaemachi Kousaten,Roadside,Tottori,Tottori,昭和南通り,680-0833,35.4969111,134.2280553
+31201040,Tottoriken Chou Nishimachi Bunchou Sha,General,Tottori,Tottori,西町6号線,680-0017,35.5037616,134.2361515
+31202030,Yonago ( Yonago Kougyoukoukou ),General,Tottori,Yonago,National Highway Route 9,683-0805,35.4357357,133.3399876
+31202520,Yonago Shiyakushomae Kyoku,Roadside,Tottori,Yonago,Kamocho 1-chome,683-8686,35.4280373,133.3308823
+31203020,Kurayoshi Hokensho,General,Tottori,Kurayoshi,,682-0802,35.4374987,133.8446306
+31204010,Sakaiminato Shi Makoto Michi Machi,General,Tottori,Sakaiminato,,684-0053,35.5135368,133.2348762
+32201060,Kokusetsu Matsue Taiki Kankyou Sokutei Tokoro,General,Shimane,Matsue,National Highway Route 431,690-0859,35.47503570000001,133.0128247
+32201520,Nishizu Ta Jidoushahaishutsu Gasu Sokutei Kyoku,Roadside,Shimane,Matsue,National Highway Route 9,690-0003,35.4592878,133.0660449
+32202040,Hamada Goudou Chousha Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Hamada,National Highway Route 9,697-8501,34.8977865,132.0714867
+32203040,Izumo Hokensho Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Izumo,National Route 184,693-0001,35.3462243,132.7508999
+32204040,Masuda Goudou Chousha Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Masuda,,698-0007,34.6778449,131.8512223
+32204950,Kokusetsu Banryuu Mizuumi Sanseiu,General,Shimane,Masuda,Iwami Airport Iida Line,698-0041,34.6785189,131.7929818
+32205010,Oota Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Oda,,694-0064,35.1914948,132.5264409
+32206040,Yasugi Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Yasugi,Nakamachi,692-8686,35.4317631,133.2545686
+32207060,Goutsu Shiyakusho Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Gotsu,Miyoshi Gotsu Line,695-8501,35.0112753,132.221021
+32209010,Unnan Goudou Chousha Ippan Kankyou Taiki Sokutei Kyoku,General,Shimane,Unnan,,690-2404,35.3087071,132.9004183
+32528950,Kokusetsu Oki Sanseiu,General,Shimane,Okinoshima,,,36.2810502,133.1959697
+33201040,Kou Nami,General,Okayama,Okayama,Naka Ward,702-8004,34.6054267,133.9755579
+33201060,Nanki,General,Okayama,Okayama,並木通り,702-8023,34.6060901,133.9348022
+33201120,Saidaiji,General,Okayama,Okayama,西大寺学園筋,704-8116,34.6583011,134.0330945
+33201130,Nanpou,Roadside,Okayama,Okayama,National Highway Route 53,700-0022,34.6724367,133.9237065
+33201160,Toukou Yama,General,Okayama,Okayama,Higashiokayama Mitsu Line,703-8221,34.68415,133.9859424
+33201180,Izushi,General,Okayama,Okayama,けやき通り,700-0903,34.6611063,133.9208001
+33201190,Kyou Jo,General,Okayama,Okayama,Okayama Kojima Line,701-0213,34.5883638,133.8530287
+33201210,Kibi,General,Okayama,Okayama,Kawairi Iwai Line,701-0135,34.6528891,133.8637574
+33201220,Gomyou,General,Okayama,Okayama,円定寺,704-8114,34.6398448,134.05457
+33201250,Mito,General,Okayama,Okayama,National Highway Route 53,709-2133,34.7846543,133.9286272
+33201540,Seiso,Roadside,Okayama,Okayama,Higashi Ward,701-4265,34.7134968,134.0758246
+33202020,Kasuga,General,Okayama,Kurashiki,Mizushima Port Line,712-8012,34.5453678,133.7422007
+33202060,Matsue,General,Okayama,Kurashiki,Matsue 3 Chome,712-8044,34.5112619,133.7597895
+33202070,Yobimatsu,General,Okayama,Kurashiki,Yobimatsu 3 Chome,712-8053,34.5091772,133.7693685
+33202080,Uno Tsu,General,Okayama,Kurashiki,,712-8044,34.5011853,133.7741
+33202090,Shionasu,General,Okayama,Kurashiki,,711-0913,34.4768112,133.7709035
+33202100,Ren Shima,General,Okayama,Kurashiki,Mizushima Port Tosen Line,712-8001,34.5390877,133.7173252
+33202110,Kurashiki Miwa,General,Okayama,Kurashiki,Kurashiki Tamano Line,710-0052,34.600424,133.7778775
+33202120,Toyosu,General,Okayama,Kurashiki,Seto-Chuo Expressway;National Route 30 Bypass,710-0027,34.5944178,133.8081164
+33202130,Amagi,General,Okayama,Kurashiki,Kurashiki Tamano Line,710-0133,34.561358,133.8114327
+33202140,Chayamachi,General,Okayama,Kurashiki,Kurashiki Akura Line,710-1101,34.5842543,133.8382511
+33202170,Tama Shima,General,Okayama,Kurashiki,National Highway Route 429,710-0253,34.5480561,133.6685936
+33202180,Kojima,General,Okayama,Kurashiki,鷲羽山通り,711-0911,34.46935819999999,133.809922
+33202400,Kanshi Sentaa,General,Okayama,Kurashiki,Mizushimachokoku-dori,712-8056,34.5279095,133.7398211
+33202410,Fukuda,General,Okayama,Kurashiki,Fukuda Oimatsu Line,712-8046,34.5365519,133.7609763
+33202420,Shou,General,Okayama,Kurashiki,,701-0111,34.6463042,133.8231236
+33202520,Ekimae,Roadside,Okayama,Kurashiki,Achi 1 Chome,710-0055,34.6015683,133.7660243
+33202530,Oodaka,Roadside,Okayama,Kurashiki,Fukuda Oimatsu Line,710-0841,34.5794211,133.7574702
+33202810,Nishisaka,Roadside,Okayama,Kurashiki,National Highway Route 429,710-0004,34.6226845,133.7761917
+33203020,Tsuyama,General,Okayama,Tsuyama,柳通り,708-0822,35.0708348,134.0081898
+33204010,Hibi,General,Okayama,Tamano,Hibi Port Line,706-8651,34.4591061,133.9235482
+33204020,Kouhi Hi 1 Choume,General,Okayama,Tamano,Mukaihibi 1-chome,706-8651,34.4600999,133.9318797
+33204030,Shibukawa,General,Okayama,Tamano,National Highway Route 430,706-0027,34.4575148,133.9090946
+33204040,Uno,General,Okayama,Tamano,Uno 1-chome,706-8799,34.4899774,133.9478511
+33204050,Hibi 2 Choume,General,Okayama,Tamano,National Highway Route 430,706-0027,34.4562657,133.9208273
+33204060,Kouhi Hi 2 Choume,General,Okayama,Tamano,Mukaihibi 2-chome,706-8651,34.4535257,133.9329484
+33204070,Gokan,General,Okayama,Tamano,,706-0001,34.5349395,133.9767032
+33204090,You Kichi,Roadside,Okayama,Tamano,,706-0132,34.5246167,133.8991956
+33205010,Tera Kan,General,Okayama,Kasaoka,,714-0034,34.459573,133.4907134
+33205020,Mohei,General,Okayama,Kasaoka,Ibara Fukuyama Port Line,714-0066,34.4942919,133.4605572
+33207510,Ihara,General,Okayama,Ibara,National Highway Route 313,715-8601,34.60356,133.4618076
+33208010,Souja,General,Okayama,Soja,Chuo 2-chome,719-1131,34.6736919,133.7442862
+33209010,Takahashi,General,Okayama,Takahashi,,716-8799,34.7912405,133.6110178
+33210010,Niimi,General,Okayama,Niimi,,718-8501,34.9724028,133.4620724
+33211050,Higashi Katagami,General,Okayama,Bizen,,705-0022,34.7450937,134.1953924
+33211060,Mitsuishi,General,Okayama,Bizen,,705-0199,34.7863947,134.295262
+33211520,Ibe,Roadside,Okayama,Bizen,National Highway Route 2,705-0001,34.7404935,134.1632974
+33213020,Kumayama,General,Okayama,Akaiwa,,709-0705,34.778599,134.0995961
+33215010,Mimasaka,General,Okayama,Mimasaka,Mirai,707-0014,35.0322127,134.1559961
+33342010,Nissei,General,Okayama,Bizen,,701-3202,34.7473902,134.2940462
+33423010,Sou Shima,General,Okayama,Hayashima,Fujito Hayashima Line,701-0303,34.5997826,133.8265324
+33423510,Nagatsu,Roadside,Okayama,Hayashima,Fujito Hayashima Line,701-0304,34.6077539,133.8217658
+33441010,Funao,General,Okayama,Kurashiki,Omagari Funao Line,710-0261,34.585291,133.7073315
+33442010,Kanemitsu,General,Okayama,Asakuchi,Kurashiki Kasaoka Line,719-0243,34.5431176,133.6249242
+33444010,Yori Shima,General,Okayama,Asakuchi,,714-0101,34.4783326,133.5835893
+33503010,Makibi,General,Okayama,Kurashiki,国道486号旧道,710-1312,34.6283467,133.6892614
+33584510,Kuze,Roadside,Okayama,Maniwa,上口上,719-3211,35.08112,133.7884535
+33681010,Kibi Kougen,General,Okayama,Kibichuo,,709-2343,34.8346147,133.763659
+34102020,Fuku Ki Shougakkou,General,Hiroshima,Hiroshima,Hiroshima Nakashima Line,732-0029,34.4459154,132.5357906
+34104510,Kanoeuma,Roadside,Hiroshima,Hiroshima,Koihonmachi 3-chome,733-0821,34.3919777,132.4234875
+34105010,Asaminamiku Yakusho,General,Hiroshima,Hiroshima,Yaguchi Yasu Furuichi Line,731-0121,34.4519744,132.4717317
+34105020,Han Shougakkou,General,Hiroshima,Hiroshima,Tomochuo 1-chome,731-3165,34.4673967,132.4012132
+34105510,Furuichi Shougakkou,Roadside,Hiroshima,Hiroshima,National Highway Route 183,731-0123,34.4544387,132.4718652
+34201010,Misasa Shougakkou,General,Hiroshima,Hiroshima,Furuichi Hiroshima Line,733-0003,34.412377,132.450773
+34201020,Minami Shougakkou,General,Hiroshima,Hiroshima,Ujina Dori Avenue,734-0007,34.3782185,132.4684524
+34201250,Inokuchi Shougakkou,General,Hiroshima,Hiroshima,National Highway Route 2,733-8624,34.3721105,132.3844805
+34201260,Kabe Shougakkou,General,Hiroshima,Hiroshima,National Highway Route 183,731-0221,34.5185488,132.5096908
+34201510,Kamiyachou,Roadside,Hiroshima,Hiroshima,Kamiyacho 1-chome,730-0031,34.3949953,132.4592534
+34201520,Hi Chisan,Roadside,Hiroshima,Hiroshima,National Highway Route 2,734-0007,34.3809669,132.4696959
+34202010,Mei Ritsu Shougakkou,General,Hiroshima,Kure,Seno Kure Line,737-0046,34.2547829,132.5765306
+34202020,Miyahara Shougakkou,General,Hiroshima,Kure,National Route 487,737-0024,34.2332245,132.5619414
+34202040,Shiratake Shougakkou,General,Hiroshima,Kure,Hiroekimae 1-chome,737-0131,34.231067,132.6276044
+34202050,Nabeyama Danchi,General,Hiroshima,Kure,Kegoya 1-chome,737-0027,34.2185434,132.547896
+34202510,Nishihata Machi,Roadside,Hiroshima,Kure,Seno Kure Line,737-0046,34.2533993,132.5843493
+34203010,Takehara Koukou,General,Hiroshima,Takehara,National Highway Route 185,725-0026,34.3410529,132.9030429
+34204150,Mihara Miyaura Kouen,General,Hiroshima,Mihara,三原消防署内,723-0051,34.4008867,133.0680412
+34204520,Mihara Miya Okimachi,Roadside,Hiroshima,Mihara,Miyaoki 2-chome,723-0017,34.3965538,133.0741158
+34205010,Onomichi Higashikou Kou,General,Hiroshima,Onomichi,Higashikubocho,722-0045,34.4151322,133.2074655
+34207020,Minami Shougakkou,General,Hiroshima,Fukuyama,National Highway Route 2,720-0042,34.4837656,133.368027
+34207040,Bai En Chuugakkou,General,Hiroshima,Fukuyama,Tsubou Fukuyama Line,721-0907,34.5112665,133.4113837
+34207060,Mukougaoka Chuugakkou,General,Hiroshima,Fukuyama,Fukuyama Tomo Line,720-0824,34.4397172,133.3818136
+34207090,Akebono Shougakkou,General,Hiroshima,Fukuyama,Minomi Teshiro Line,721-0952,34.4691662,133.3944092
+34207310,Umaya Kita Shougakkou,General,Hiroshima,Fukuyama,Nakano Ekiya Line,720-2419,34.5547113,133.3292585
+34207320,Matsunaga Shougakkou,General,Hiroshima,Fukuyama,National Highway Route 2,720-0065,34.4859845,133.3624239
+34207510,Fukuyamashi Yakusho,Roadside,Hiroshima,Fukuyama,National Highway Route 2,720-0065,34.4858922,133.3619488
+34208050,Fuchuushi Kyouiku Sentaa,General,Hiroshima,Fuchu,,726-0004,34.5701652,133.2420736
+34209020,Sanji Shi Tookaichi Machi,General,Hiroshima,Miyoshi,Tokaichiminami 6-chome,728-0012,34.7951878,132.8535585
+34211200,Ootake Yuumi Kouen,General,Hiroshima,Ōtake,Yumi 3-chome,739-0622,34.2191738,132.2208283
+34212030,Higashi Hiroshima Saijou Shougakkou,General,Hiroshima,Higashi Hiroshima,Saijo Station Line,739-0025,34.4206419,132.7415841
+34304010,Kaita Koukou,General,Hiroshima,Kaita,National Highway Route 2,736-0042,34.3667957,132.5301557
+34322030,Hatsukaichi Keikou Sono,General,Hiroshima,Hatsukaichi,旧国道,738-0003,34.3572791,132.3418712
+34369010,Kita Hiroshima Machi,General,Hiroshima,Kitahiroshima,Chiyoda Yachiyo Line,,34.6884019,132.5436057
+34408010,Kawauchi Irino,General,Hiroshima,Higashi Hiroshima,Hiroshima Airport Line,739-2208,34.4323171,132.87982
+34427010,Oosaki Shougakkou,General,Hiroshima,Osakikamijima,,725-0301,34.2426495,132.8908994
+34501010,Kannabe Shisho,General,Hiroshima,Fukuyama,,720-2121,34.5436476,133.3849625
+35201010,Ozuki Kyoku,General,Yamaguchi,Shimonoseki,National Highway Route 491,750-1153,34.0675022,131.0291819
+35201020,Choufu Kyoku,General,Yamaguchi,Shimonoseki,National Highway Route 2,752-0955,34.0029512,130.988593
+35201030,Hiko Shima Kyoku,General,Yamaguchi,Shimonoseki,Haedomari Port Line,750-0025,33.9423143,130.8962259
+35201040,Yama No Ta Kyoku,General,Yamaguchi,Shimonoseki,Shimonoseki Port Yasuoka Line,751-8510,33.9895155,130.9272973
+35201250,Toyoura Kyoku,General,Yamaguchi,Shimonoseki,Toyoura Kikugawa Line,759-6303,34.1711271,130.9337317
+35202020,Ube Sougou Chousha,General,Yamaguchi,Ube,Kotoshiba Kiwanami Line,755-0033,33.9555587,131.2503156
+35202030,Misaki Jidoukouen,General,Yamaguchi,Ube,松山通り,755-0006,33.9358378,131.2587361
+35202360,Kounan Shimin Sentaa,General,Yamaguchi,Ube,厚南中央三丁目,759-0209,33.9941497,131.2178404
+35203010,Kankyou Hoken Sentaa,General,Yamaguchi,Yamaguchi,国道9号旧道,753-0861,34.1458307,131.429609
+35204010,Hagi Kenkou Fukushi Sentaa,General,Yamaguchi,Hagi,,758-0033,34.4077547,131.3974394
+35205010,Shuunan Sougou Chousha,General,Yamaguchi,Shunan,徳山港線,745-0017,34.0561592,131.8107246
+35205030,Kushi Hama Shougakkou,General,Yamaguchi,Shunan,,745-0801,34.0220826,131.8338632
+35205040,Tokuyama Shoukou Koukou,General,Yamaguchi,Shunan,大迫田代々木線,745-0809,34.0459553,131.8262582
+35205520,Mitagawa Kousaten,Roadside,Yamaguchi,Shunan,金剛山北山線,745-0017,34.0626103,131.8172932
+35206010,Houfu Koukou,General,Yamaguchi,Hofu,Mitajiri Port Tokuji Line,747-0802,34.0475065,131.5705918
+35206050,Chuukan Shougakkou,General,Yamaguchi,Hofu,Nakanoseki Port Shinden Line,747-0825,34.017718,131.5502969
+35207030,Yutaka I Shougakkou,General,Yamaguchi,Kudamatsu,,744-0075,33.9996472,131.8775172
+35207090,Kudamatsu Shiyakusho,General,Yamaguchi,Kudamatsu,Kudamatsu Tabuse Line,744-0017,34.0149092,131.8701238
+35208010,Mari Nuno Shougakkou,General,Yamaguchi,Iwakuni,Minamiiwakuni Station Isozaki Line,740-0018,34.1698337,132.2165611
+35208030,Atago Shougakkou,General,Yamaguchi,Iwakuni,National Highway Route 188,740-0041,34.1454982,132.2133385
+35209010,Sue Kenkou Kouen,General,Yamaguchi,Sanyo-Onoda,Onoda Port Line,756-0802,33.9743641,131.1802202
+35209020,Ryuuou Chuugakkou,General,Yamaguchi,Sanyo-Onoda,Tsumazakigaisaku Onoda Line,756-0884,33.9594419,131.1836085
+35210020,Asae Chuugakkou,General,Yamaguchi,Hikari,Hikari Yanai Line,,33.9758422,131.9285237
+35210040,Mitsutaka Kou,General,Yamaguchi,Hikari,Hikari Yanai Line,,33.9632773,131.9530082
+35211010,Nagato Doboku Kenchiku Jimusho,General,Yamaguchi,Nagato,National Highway Route 191,,34.3696188,131.1841879
+35212010,Yanai Shiyakusho,General,Yamaguchi,Yanai,Hikari Yanai Line,742-0031,33.9638018,132.1015328
+35213010,Mine Sakura Kouen,General,Yamaguchi,Mine,Isa Kibe Yamaguchi Line,759-2223,34.157307,131.2457101
+35213020,Mine Aone Koukou,General,Yamaguchi,Mine,,,34.1926106,131.1703194
+35214010,Urayama Sousui Ba,General,Yamaguchi,Shunan,旧山陽道,746-0022,34.070728,131.7888439
+35214020,Miya No Mae Jidoukouen,General,Yamaguchi,Shunan,Kudamatsu Shinnanyo Line,746-0026,34.0729216,131.7646901
+35321010,Waki Komyuniteisentaa,General,Yamaguchi,Waki,Otake Waki Line,739-0622,34.2074881,132.2213293
+36201010,Kawauchi,General,Tokushima,Tokushima,Yoshinogawa Bypass,771-0141,34.1077562,134.5742761
+36201030,Oujin,General,Tokushima,Tokushima,徳島環状線,771-1153,34.1151497,134.5269257
+36201080,Toku Shima,General,Tokushima,Tokushima,,770-8571,34.0699592,134.5607546
+36201110,Ta Ie Ryou,General,Tokushima,Tokushima,,770-8571,34.0085584,134.5463585
+36201510,Jihai Toku Shima,Roadside,Tokushima,Tokushima,Yoshinogawa Bypass,770-8571,34.0696442,134.5581576
+36202010,Naruto,General,Tokushima,Naruto,鳴門徳島自転車道線,772-0017,34.1725482,134.6139252
+36203010,Komatsu Shima,General,Tokushima,Komatsushima,,773-0001,34.0062012,134.5853911
+36204010,Anan,General,Tokushima,Anan,,774-0011,33.9237782,134.6712729
+36204020,Oogata,General,Tokushima,Anan,,774-0021,33.8841084,134.6664181
+36204030,Yamaguchi,General,Tokushima,Anan,,779-1402,33.8756865,134.6076625
+36204040,Tsubaki,General,Tokushima,Anan,,779-1750,33.831168,134.6773913
+36204050,Oono,General,Tokushima,Anan,,779-1106,33.9354783,134.609009
+36204060,Takarada,General,Tokushima,Anan,,774-0045,33.9192749,134.6395639
+36204070,Tachibana,General,Tokushima,Anan,National Route 55,774-0023,33.8720191,134.6411426
+36204080,Fukui,General,Tokushima,Anan,Uchibu Bridge,779-1620,33.8372972,134.6211761
+36205010,Yoshinogawa,General,Tokushima,Yoshinogawa,鴨島神山線,776-0010,34.0675256,134.3583629
+36342010,Kamiyama,General,Tokushima,Kamiyama,,771-3310,33.9737051,134.3650327
+36361010,Nakagawa,General,Tokushima,Anan,,779-1115,33.9635846,134.6410783
+36362010,Hane No Ura,General,Tokushima,Anan,,779-1106,33.9463577,134.6198856
+36363010,Wajiki,General,Tokushima,Naka,,771-5295,33.8416757,134.5101567
+36381010,Yuki,General,Tokushima,Minami,,779-2103,33.7771311,134.5990156
+36401010,Matsushige,General,Tokushima,Matsushige,長原港線,771-0219,34.1315221,134.5899113
+36402010,Kitajima,General,Tokushima,Kitajima,,771-0204,34.1183872,134.5430334
+36403010,Aizumi,General,Tokushima,Aizumi,檜藍住線,771-1203,34.124576,134.4957601
+36461010,Wakichou,General,Tokushima,Mima,,777-8577,34.0655565,134.1625409
+36483010,Ikeda,General,Tokushima,Miyoshi,観音寺池田線,778-8501,34.0260234,133.8072458
+37201010,Takamatsu Keirinjou,General,Kagawa,Takamatsu,Seto Ohashi Road,760-0066,34.3459162,134.0620108
+37201080,Kokubunji,General,Kagawa,Takamatsu,,769-0101,34.3020765,133.9630783
+37201090,Toubu Undoukouen,General,Kagawa,Takamatsu,,761-0104,34.3346601,134.1114702
+37201100,Minami Shoubousho Kagawa Bunsho,General,Kagawa,Takamatsu,,761-8015,34.3477071,133.9959975
+37201510,Kuribayashi Kouenmae,Roadside,Kagawa,Takamatsu,Ritsurinchō 1,760-0073,34.3307923,134.0467783
+37201540,Takamatsushi Yakusho,Roadside,Kagawa,Takamatsu,Chuo-dori Avenue,760-0017,34.341248,134.0466681
+37201550,Tsuruo Komyuniteisentaa,Roadside,Kagawa,Takamatsu,,761-8057,34.3138499,134.030261
+37202010,Marugameshi Yakusho,General,Kagawa,Marugame,高松善通寺線,763-0001,34.28983600000001,133.7974041
+37202070,Ao No Yama,General,Kagawa,Marugame,Dokicho-Higashi 5 Chome,763-0082,34.3000888,133.8161842
+37203010,Sakaide Shiyakusho,General,Kagawa,Sakaide,Kumecho 1-chome,762-0003,34.3201458,133.8584893
+37203020,Se Ijima,General,Kagawa,Sakaide,,762-0067,34.3498009,133.8501737
+37203040,Sagami Bou Jinja,General,Kagawa,Sakaide,高松王越坂出線,,34.3470171,133.9025362
+37203050,Hayashida Shutchousho,General,Kagawa,Sakaide,Hayashida Chō,762-8601,34.3270451,133.8907681
+37204010,Zentsuujishi Yakusho,General,Kagawa,Zentsuji,善通寺停車場線,765-0011,34.227446,133.7873131
+37205010,Kan'onji Shiyakusho,General,Kagawa,Kan-onji,Sakamoto-cho 1-chome,768-0067,34.1272261,133.6613689
+37206010,Tousan Hoken Fukushi Jimusho,General,Kagawa,Sanuki,,769-2103,34.2894014,134.2486184
+37322010,Azuki Sougou Jimusho,General,Kagawa,Tonosho,National Highway Route 436,761-4106,34.4877619,134.193064
+37364010,Naoshima Machiyakuba,General,Kagawa,Naoshima,北風戸積浦線,761-3199,34.4599166,133.9952438
+37386010,Utatsu Machiyakuba,General,Kagawa,Utadu,高松善通寺線,769-0206,34.3113524,133.825692
+38201020,Fuku Machi,General,Ehime,Matsuyama,,791-8036,33.8225127,132.7283802
+38201030,Waki,General,Ehime,Matsuyama,辰巳伊予和気停車場線,791-8061,33.8884086,132.7326361
+38201080,Aji Nama,General,Ehime,Matsuyama,,791-8031,33.84154150000001,132.7274047
+38201090,Kakio Shougakkou,General,Ehime,Matsuyama,伊予松山港線,791-3131,33.8099237,132.7014315
+38201510,Honchou Shoubou,Roadside,Ehime,Matsuyama,Honmachi 6-chome,790-0811,33.852484,132.7584373
+38201530,Asao Ta,Roadside,Ehime,Matsuyama,Asodamachi 7-chome,790-0952,33.82088,132.7622654
+38202100,Imabari Asahi,General,Ehime,Imabari,今治波方港線,794-0069,34.0632668,132.9994063
+38203010,Uwa Shima,General,Ehime,Uwajima,National Highway Route 320,798-8601,33.2276833,132.5704775
+38204010,Yawatahama,General,Ehime,Yawatahama,Shinmachi Shopping Street,796-0057,33.461609,132.4225437
+38205010,Kaneko,General,Ehime,Niihama,Kubotacho 1-chome,792-8580,33.9564235,133.2817621
+38205060,Nakamura,General,Ehime,Niihama,National Highway Route 11,792-0050,33.9323056,133.2810857
+38205080,Takatsu,General,Ehime,Niihama,市道松の木東雲線,792-8580,33.9746216,133.3016822
+38205090,Izumikawa,General,Ehime,Niihama,Niihama Bypass,792-0846,33.9381824,133.304044
+38205100,Taki Hama,General,Ehime,Niihama,Takihama 6-chome,792-0893,33.9775252,133.3463628
+38206050,Saijou,General,Ehime,Saijō,公園通り,793-0030,33.9177615,133.1917875
+38208030,Kawanoe,General,Ehime,Shikokuchuo,Kawanoe Otoyo Line,799-0411,33.9921791,133.5860325
+38209030,Samukawa,General,Ehime,Shikokuchuo,,,33.9640735,133.5138443
+38209050,Iyo Mishima,General,Ehime,Shikokuchuo,Mishima-Miyagawa 4-chome,799-0411,33.9812158,133.5499185
+38212040,Touyo,General,Ehime,Saijō,孫兵衛作壬生川線,791-0503,33.9316927,133.0801232
+38302020,Tsuchii,General,Ehime,Shikokuchuo,,799-0711,33.951571,133.418767
+38323010,Tanbara,General,Ehime,Saijō,壬生川丹原線,791-0503,33.8971875,133.055393
+38380010,Kumakougen,General,Ehime,Kumakogen,西条久万線,791-1202,33.6725301,132.910574
+38401010,Matsumae,General,Ehime,Masaki,,791-3120,33.7814124,132.7143125
+38421010,Ooya,General,Ehime,Ozu,,,33.6256272,132.5264409
+39201350,Kera,General,Kochi,Kōchi,栗山大津線,780-8571,33.5500602,133.5983214
+39201360,Minami Nitta Machi,General,Kochi,Kōchi,Katsurahama Hoei Line,780-8571,33.5471062,133.5579911
+39201530,Asakura,Roadside,Kochi,Kōchi,,780-8571,33.5413029,133.4894538
+39203010,Aki,General,Kochi,Aki,安芸中インター線,784-0027,33.5067873,133.9023
+39204070,Inao,General,Kochi,Nankoku,,783-0085,33.5467198,133.6255336
+39206020,Kyuu Susaki Koutougakkou,General,Kochi,Susaki,National Highway Route 56,785-0009,33.38958330000001,133.2730391
+39206080,Ou Oka Kouen,General,Kochi,Susaki,,785-0009,33.4015301,133.3222227
+39210010,Nakamura,General,Kochi,Shimanto,National Highway Route 56,787-0014,32.9800288,132.9051297
+39212010,Tosayamada,General,Kochi,Kami,土佐山田野市線,781-5222,33.596347,133.690061
+39381030,Ino Goudou Chousha,General,Kochi,Ino,,781-2120,33.5482713,133.4271148
+39405950,Kokusetsu Yusuhara Sanseiu,General,Kochi,Yusuhara,,,33.3907069,132.9441308
+40101010,Moji Kyoku,General,Fukuoka,Kitakyushu,Takada 2-chome,800-0051,33.8989842,130.9337257
+40101020,Matsu Ke Kou Kyoku,General,Fukuoka,Kitakyushu,新門司港大里線,800-0112,33.8834708,130.977174
+40101510,Mojikou Jihai Kyoku,Roadside,Fukuoka,Kitakyushu,National Highway Route 2,801-0852,33.9473094,130.96973
+40103010,Wakamatsu Kyoku,General,Fukuoka,Kitakyushu,Honmachi 3-chome,804-0076,33.90136,130.8074753
+40103120,Egawa Kyoku,General,Fukuoka,Kitakyushu,北九州芦屋線,808-0135,33.89368080000001,130.6939898
+40103130,Wakamatsu Hibiki Kyoku,General,Fukuoka,Kitakyushu,Wakamatsu Ward,804-0076,33.9209303,130.785978
+40105010,Kohata Kyoku,General,Fukuoka,Kitakyushu,Shin-ike 1-chome,804-0074,33.8952307,130.8293654
+40106010,Kitakyuushuu Kyoku,General,Fukuoka,Kitakyushu,Kokura-Kita Ward,803-0836,33.88638150000001,130.8503373
+40106020,Ogura Kyoku,General,Fukuoka,Kitakyushu,長行田町線,803-0814,33.8842661,130.8704737
+40106510,Mihagino Jihai Kyoku,Roadside,Fukuoka,Kitakyushu,Mihagino 1-chome,802-0065,33.8723165,130.882282
+40107020,Sone Kyoku,General,Fukuoka,Kitakyushu,Shimosone 4-chome,800-0296,33.8302551,130.9395423
+40107040,Kiku Oka Kyoku,General,Fukuoka,Kitakyushu,北九州市主要地方道徳力葛原線,802-0974,33.8228348,130.8755185
+40108010,Hachiman Kyoku,General,Fukuoka,Kitakyushu,Chuo 1-chome,805-0071,33.8637356,130.8127727
+40108510,Nishihonmachi Jihai Kyoku,Roadside,Fukuoka,Kitakyushu,National Highway Route 3,805-0071,33.8682457,130.7998995
+40109010,Kurosaki Kyoku,General,Fukuoka,Kitakyushu,山手通り,805-0071,33.861594,130.7597614
+40109030,Touno Kyoku,General,Fukuoka,Kitakyushu,下上津役折尾線,807-0851,33.8249711,130.738191
+40109510,Kurosaki Jihai Kyoku,Roadside,Fukuoka,Kitakyushu,National Highway Route 3,806-0036,33.8658221,130.7646321
+40131010,Higashi,General,Fukuoka,Fukuoka,Fukuoka Expressway Route 4 Kasuya Line,812-0053,33.635569,130.4283926
+40131030,Kashii,General,Fukuoka,Fukuoka,National Highway Route 495,813-0003,33.6719413,130.4385813
+40132010,Yoshizuka,General,Fukuoka,Fukuoka,Yoshizuka-dori,812-0041,33.6066763,130.4285519
+40132520,Hi Megumi,Roadside,Fukuoka,Fukuoka,National Highway Route 3,812-0013,33.5902821,130.4285519
+40132530,Chidoribashi,Roadside,Fukuoka,Fukuoka,Papillon Street,812-8574,33.6051041,130.4105582
+40133020,Harukichi,General,Fukuoka,Fukuoka,東光寺竹下春吉線,812-0018,33.584477,130.407193
+40133510,Tenjin,Roadside,Fukuoka,Fukuoka,Showa-dori Avenue,810-0001,33.5919073,130.3982939
+40134010,Minami,General,Fukuoka,Fukuoka,大橋駅前１号線,815-0032,33.5646451,130.4315768
+40134510,Oohashi,Roadside,Fukuoka,Fukuoka,福岡筑紫野線,815-0004,33.5533525,130.4334872
+40135020,Nagao,General,Fukuoka,Fukuoka,油山観光道路,814-0142,33.5571337,130.3818944
+40135060,Motooka,General,Fukuoka,Fukuoka,福岡志摩線,819-0389,33.5854279,130.2527687
+40135510,Nishishin,Roadside,Fukuoka,Fukuoka,Nishijin 4-chome,814-0002,33.5843795,130.359345
+40135520,Beppu Hashi,Roadside,Fukuoka,Fukuoka,Befubashi-dori Avenue,814-0104,33.5753185,130.3717218
+40135530,Ishimaru,Roadside,Fukuoka,Fukuoka,Shimo-Yamato Street,814-0032,33.5738695,130.3165995
+40135540,Imajuku,Roadside,Fukuoka,Fukuoka,周船寺有田線,819-0041,33.57162,130.2819985
+40137010,Sohara,General,Fukuoka,Fukuoka,早良街道,814-0012,33.5800643,130.3569428
+40202010,Kokusetsu Oomuta,General,Fukuoka,Omuta,National Highway Route 208,836-0843,33.0303041,130.4459463
+40202050,Nanaura,General,Fukuoka,Omuta,,836-0843,33.0228643,130.4560889
+40202060,Shinchi,General,Fukuoka,Omuta,,836-0843,33.0334174,130.4373078
+40202080,Tachibana,General,Fukuoka,Omuta,倉永三池線,837-0916,33.0642116,130.475043
+40203060,Eeru Pia Kurume,General,Fukuoka,Kurume,,830-0038,33.3060325,130.5234047
+40203070,Mizuma Chuugakkou,General,Fukuoka,Kurume,,833-0054,33.2537837,130.4655866
+40203100,Jounan Chuugakkou,General,Fukuoka,Kurume,県道17号医大通り,830-0011,33.3212277,130.5077236
+40203110,Tanushimaru Chuugakkou,General,Fukuoka,Kurume,Ukiha Bypass,839-1233,33.3491438,130.6905293
+40204010,Noogata,General,Fukuoka,Nogata,,823-0003,33.7412814,130.7240228
+40205010,Iizuka,General,Fukuoka,Iizuka,,820-0071,33.609745,130.6985033
+40206010,Tagawa,General,Fukuoka,Tagawa,,820-0106,33.6327596,130.7726463
+40210010,Yame,General,Fukuoka,Yame,,834-0023,33.2013457,130.5927532
+40214010,Buzen,General,Fukuoka,Buzen,新吉富豊前線,871-0901,33.6119581,131.131375
+40216010,Chikugo Ogoori,General,Fukuoka,Ogori,,838-0113,33.4058206,130.5800839
+40220010,Munakata,General,Fukuoka,Munakata,宗像篠栗線,811-3406,33.8046154,130.540609
+40221010,Dazaifu,General,Fukuoka,Dazaifu,,818-0135,33.510286,130.5006302
+40222010,Ito Shima,General,Fukuoka,Itoshima,浦志三丁目,819-1105,33.5646022,130.2105074
+40223510,Koga,Roadside,Fukuoka,Koga,,811-0120,33.7163949,130.4630905
+40228010,Asakura,General,Fukuoka,Asakura,National Route 386,,33.3638379,130.8139589
+40342010,Sasaguri,General,Fukuoka,Sasaguri,Tanaka 1-chome,811-2416,33.6250884,130.5219344
+40563010,Yanagawa,General,Fukuoka,Yanagawa,National Highway Route 208,832-0826,33.161323,130.4166088
+40621010,Karida,General,Fukuoka,Kanda,京町二丁目,,33.7761727,130.979965
+41201030,Saga,General,Saga,Saga,,840-0822,33.2569538,130.3073118
+41201040,Mitsuse,General,Saga,Saga,神有,842-0301,33.4277921,130.2806144
+41201540,Hyougo,Roadside,Saga,Saga,,849-0919,33.2776493,130.3096187
+41202060,Chikuboku Ba,General,Saga,Karatsu,,,33.4199973,129.9192316
+41202160,Hizen,General,Saga,Karatsu,星賀港線,847-1526,33.44143,129.81551
+41202200,Karatsu,General,Saga,Karatsu,唐津呼子線,847-0816,33.4590167,129.9558458
+41203010,Tosu,General,Saga,Tosu,蔵上四丁目,841-0053,33.3731589,130.4989378
+41203050,Sonezaki,Roadside,Saga,Tosu,National Highway Route 3,841-0025,33.3792508,130.528536
+41204010,Taku,General,Saga,Taku,厳木多久道路,849-3112,33.3001304,130.0889357
+41205080,Ootsubo,General,Saga,Imari,,848-0027,33.2769087,129.9041873
+41205090,Yamashiro,General,Saga,Imari,National Highway Route 204,849-4256,33.3094089,129.8118539
+41206010,Takeo,General,Saga,Takeo,,843-0024,33.1968742,130.0254104
+41207010,Kashima,General,Saga,Kashima,,849-1312,33.0968652,130.0946999
+41209010,Ureshino,General,Saga,Ureshino,,843-0301,33.1006268,129.9850844
+41210010,Kanzaki,General,Saga,Kanzaki,旧長崎街道,842-0007,33.3045254,130.3755703
+41341010,Kiyama,General,Saga,Kiyama,基山平等寺筑紫野線,841-0204,33.4216761,130.5193314
+41401020,Nishiarita,General,Saga,Arita,National Highway Route 202,849-4193,33.2307731,129.8489097
+41425010,Shiroishi,General,Saga,Shiroishi,,849-1112,33.1849969,130.1504313
+42201030,Inasa Shougakkou,General,Nagasaki,Nagasaki,稲佐公園通り,850-8685,32.7556946,129.8604984
+42201280,Shou Ke Kura Shisho,General,Nagasaki,Nagasaki,Kogakuramachi 3-chome,850-8685,32.7055866,129.8495931
+42201300,Higashinagasaki Shisho,General,Nagasaki,Nagasaki,,850-8685,32.775812,129.9510695
+42201510,Nagasakiekimae,Roadside,Nagasaki,Nagasaki,National Highway Route 202,850-8685,32.7533416,129.8719549
+42201530,Nagasakishi Yakusho,Roadside,Nagasaki,Nagasaki,,850-8685,32.7498362,129.8785634
+42201540,Chuuoubashi,Roadside,Nagasaki,Nagasaki,,850-8685,32.7441406,129.8759924
+42202020,Aiura,General,Nagasaki,Sasebo,,,33.194859,129.6669127
+42202030,Oono,General,Nagasaki,Sasebo,佐世保世知原線,857-0132,33.2085149,129.7211772
+42202140,Saki,General,Nagasaki,Sasebo,平瀬佐世保線,859-3215,33.1366168,129.7974032
+42202160,Ootou,General,Nagasaki,Sasebo,Hario Bypass,859-3215,33.1453891,129.780215
+42202510,Hiu,Roadside,Nagasaki,Sasebo,,857-1152,33.1564692,129.754941
+42202520,Fuku Ishi,Roadside,Nagasaki,Sasebo,,857-0863,33.1592435,129.7311166
+42203010,Shimabara Taiki Sokutei Kyoku,General,Nagasaki,Shimabara,Takajima 1-chome,855-8555,32.789018,130.3748458
+42204060,Isahaya,General,Nagasaki,Isahaya,,854-0063,32.8426277,130.02421
+42205010,Oomura Taiki Sokutei Kyoku,General,Nagasaki,Omura,,856-0826,32.9145084,129.9600564
+42208040,Matsuura Shisa Taiki Sokutei Kyoku,General,Nagasaki,Matsuura,,859-4501,33.3400231,129.7106035
+42209010,Tsushima Taiki Sokutei Kyoku,General,Nagasaki,Tsushima,Japan National Route 382,817-0021,34.2102138,129.289686
+42209950,Kokusetsu Tsushima Sanseiu,General,Nagasaki,Tsushima,Izuhara,817-0021,34.2027806,129.2875205
+42210010,Ichi Shi,General,Nagasaki,Iki,郷ノ浦港線,811-5192,33.7505959,129.691157
+42211010,Gotou,General,Nagasaki,Goto,,,32.6989579,128.8460344
+42211950,Kokusetsu Gotou Sanseiu,General,Nagasaki,Goto,,,32.695178,128.8399735
+42213010,Obama Taiki Sokutei Kyoku,General,Nagasaki,Unzen,,,32.7320759,130.2113928
+42308040,Tokitsu Shougakkou Taiki Sokutei Kyoku,General,Nagasaki,Togitsu,National Highway Route 206,851-2108,32.827976,129.846458
+42309010,Muramatsu,General,Nagasaki,Nagasaki,,850-8685,32.7298166,129.8826608
+42314020,Yuki Ura Taiki Sokutei Kyoku,General,Nagasaki,Saikai,九州自然歩道(周回コース),857-2392,32.9215763,129.6750369
+42322060,Kawatana Taiki Sokutei Kyoku,General,Nagasaki,Kawatana,,859-3232,33.0730338,129.8501958
+42392020,Yoshii,General,Nagasaki,Sasebo,市役所通り,857-0028,33.1804356,129.7157996
+43201140,Niregi,General,Kumamoto,Kumamoto,託麻北部線,860-8601,32.8486434,130.7540012
+43201150,Kyoumachi,General,Kumamoto,Kumamoto,四方寄熊本線,860-8601,32.8165148,130.7033875
+43201160,Kitaku Yakusho,General,Kumamoto,Kumamoto,Kita Ward,860-8601,32.9029726,130.6950521
+43201170,Akitsu,General,Kumamoto,Kumamoto,薩摩街道,860-8601,32.7721724,130.7722296
+43201180,Nakajima,General,Kumamoto,Kumamoto,Nishi Ward,860-8601,32.765727,130.6308774
+43201190,Jounanchou,General,Kumamoto,Kumamoto,千町廻江線,860-8601,32.7262923,130.7142083
+43201510,Suidouchou Jihai Kyoku,Roadside,Kumamoto,Kumamoto,National Highway Route 3,860-8601,32.804428,130.7140449
+43201520,Jinzui Honchou Jihai Kyoku,Roadside,Kumamoto,Kumamoto,Chuo Ward,860-8601,32.7822415,130.7405664
+43202020,Yatsushiro Higashikou Kou,General,Kumamoto,Yatsushiro,八代港大手町線,866-0861,32.5101513,130.6051687
+43202030,Yatsushiro Hassen Ha Shutchousho,General,Kumamoto,Yatsushiro,,866-0844,32.5174703,130.6118229
+43202520,Yatsushiro Jihai Kyoku,Roadside,Kumamoto,Yatsushiro,,866-0805,32.5010333,130.6384926
+43203011,Hitoyoshi Hokensho,General,Kumamoto,Hitoyoshi,,868-0072,32.2064635,130.7589282
+43204200,Arao Undoukouen,General,Kumamoto,Arao,Midorigaoka 1-chome,864-0033,32.9808242,130.4674218
+43205030,Minamata Maru Shima,General,Kumamoto,Minamata,Marushimacho 3-chome,867-0035,32.2111265,130.3882576
+43205160,Minamata Hokensho,General,Kumamoto,Minamata,水俣田浦線,867-0035,32.2167698,130.4014079
+43206020,Ariake Hokensho,General,Kumamoto,Tamana,玉名八女線旧道,865-0051,32.9314173,130.5589995
+43207010,Amakusa Hokensho,General,Kumamoto,Amakusa,,863-0014,32.4611268,130.194942
+43208010,Yamaga Hokensho Kyoku,General,Kumamoto,Yamaga,畑中山鹿線,,33.0177211,130.6912829
+43210010,Kikuchi Shiyakusho,General,Kumamoto,Kikuchi,National Route 387,,32.9846334,130.8158963
+43211050,Uto Undoukouen,General,Kumamoto,Uto,川尻宇土線,,32.6839422,130.6656533
+43212010,Kamiamakusa Shi Gou Tsu,General,Kumamoto,Kamiamakusa,National Highway Route 266,,32.5163502,130.4327551
+43214011,Aso Hokensho,General,Kumamoto,Aso,National Highway Route 57,869-2612,32.9387215,131.1143618
+43215010,Amakusa Shi Miyaji Gaku Chiku,General,Kumamoto,Amakusa,,863-0014,32.3961841,130.1145503
+43215020,Amakusa Shi Shinwa Chouchi Ku,General,Kumamoto,Amakusa,林道赤城山線,863-0014,32.3470595,130.181097
+43215030,Amakusa Ichikawa Ura Chouchi Ku,General,Kumamoto,Amakusa,,863-0014,32.3654183,130.0525077
+43215040,Amakusa Shi Amakusa Machi Shimoda Chiku,General,Kumamoto,Amakusa,本渡下田線,863-0014,32.4246008,130.0274159
+43403010,Ootsu Machi Insui,General,Kumamoto,Ozu,,869-1233,32.8778981,130.8841776
+43443010,Mashiki Machi Hoken Fukushi Sentaa,General,Kumamoto,Mashiki,益城菊陽線,861-2102,32.7856457,130.8012501
+43444010,Kousa Machi Iwashita,General,Kumamoto,Kosa,,861-4601,32.6524829,130.8087988
+43481010,Oda Ura Kouminkan,General,Kumamoto,Ashikita,,,32.3449429,130.5076265
+43530010,Itsuwa Te No,General,Kumamoto,Naraha,ホッキリ沢支線,,37.321862,140.9185071
+43531010,Reihoku Shiki,General,Kumamoto,Reihoku,,863-2503,32.5124535,130.0518497
+43531020,Reihoku Machi Saka Segawa Chiku,General,Kumamoto,Reihoku,坂瀬川御領線,,32.5168003,130.1094282
+43531030,Reihoku Machi Miyako Ro (kurikaesi) Chiku,General,Kumamoto,Reihoku,福連木都呂々線,863-2503,32.4575995,130.0530568
+43531040,Reihoku Chouboku Ba Chiku,General,Kumamoto,Reihoku,福連木都呂々線,863-2503,32.4575995,130.0530568
+43532010,Amakusa Takahama,General,Kumamoto,Amakusa,,863-0014,32.3796978,129.9953683
+44201010,Shiki Ko Shougakkou Sokutei Kyoku,General,Oita,Oita,National Highway Route 10,870-8504,33.190299,131.6221879
+44201050,Minami Ooita Chuugakkou,General,Oita,Oita,,870-0854,33.2033534,131.5883915
+44201070,Sansa Shougakkou,General,Oita,Oita,Misa 5-chome,870-0108,33.2530493,131.6805731
+44201080,Dai Zai Shougakkou,General,Oita,Oita,Yokota 1-chome,870-0263,33.2481632,131.71929
+44201090,Saka No Shichuu Gakkou,General,Oita,Meguro,Kannana dori,152-0013,35.6146278,139.685873
+44201100,Totsugi Chuugakkou,General,Oita,Oita,,879-7761,33.1524564,131.656307
+44201130,Toudai Fun Shougakkou,General,Oita,Oita,萩原下郡線,870-0921,33.24394729999999,131.639376
+44201340,Tanjou Shougakkou,General,Oita,Oita,,870-0277,33.1916209,131.7332721
+44201350,Seibu Seisoujigyou Tokoro,General,Oita,Oita,National Route 210,870-1173,33.18905640000001,131.5510275
+44201360,Daitou Chuugakkou,General,Oita,Oita,松岡日岡線,870-0162,33.2040091,131.6603932
+44201370,Ouji Chuugakkou,General,Oita,Oita,蓮田橋,870-0815,33.2364731,131.5948551
+44201510,Chuuou Sokutei Kyoku,Roadside,Oita,Oita,Sangyou-Dori Avenue,870-0021,33.2347081,131.6081557
+44201520,Miyazaki Sokutei Kyoku,Roadside,Oita,Oita,,870-0854,33.1968125,131.608043
+44202020,Aoyama Chuugakkou,General,Oita,Beppu,富士見通り,874-0828,33.2883252,131.4882823
+44203070,Nakatsu Sougou Chousha,General,Oita,Nakatsu,National Route 213,871-0007,33.5921308,131.1959727
+44204010,Seibu Shinkou Kyoku,General,Oita,Hita,日田玖珠線,877-0003,33.3261425,130.9403095
+44205020,Nanbu Shinkou Kyoku,General,Oita,Saiki,Nakamura-minamimachi,876-8585,32.959827,131.9000563
+44207010,Tsukumi Shiyakusho,General,Oita,Tsukumi,,879-2435,33.0721723,131.8609408
+44212010,Houhi Hokensho,General,Oita,Bungo-Ono,,879-7131,32.97569,131.580992
+44213010,Chuubu Hokensho Yuu Hoken Bu,General,Oita,Yufu,田野庄内線,879-5498,33.1795362,131.4261165
+44214010,Kunisaki Koutougakkou,General,Oita,Kunisaki,National Route 213,873-0511,33.5574877,131.7325407
+44341020,Hinode Machi Takajou,General,Oita,Hiji,National Route 213,879-1598,33.3727294,131.5341783
+44381010,Saganoseki,General,Oita,Oita,Shouwa-Dori Avenue,870-0046,33.2391265,131.6073527
+45201040,Sadowara,General,Miyazaki,Miyazaki,,880-8505,32.0234779,131.4472982
+45201050,Gion,General,Miyazaki,Miyazaki,Gion 3-chome,880-8505,31.932528,131.4108284
+45201060,Tano,General,Miyazaki,Miyazaki,田野町南原一丁目,880-8505,31.839542,131.3012749
+45201520,Minamimiyazaki Jihai Kyoku,Roadside,Miyazaki,Miyazaki,National Route 220,880-8505,31.8976579,131.4181222
+45201530,Ikime Shougakkou Jihai Kyoku,Roadside,Miyazaki,Miyazaki,,880-8505,31.9308271,131.3709131
+45201540,Oomiya Shougakkou Jidoushahaishutsu Gasu Sokutei Kyoku,Roadside,Miyazaki,Miyazaki,Miyazaki-North Bypass,880-8505,31.9436813,131.427631
+45202020,Tomishiro Kousen,General,Miyazaki,Miyakonojo,都城志布志道路,885-8555,31.7610541,131.0787563
+45202510,Tomishiro Jihai Kyoku,Roadside,Miyazaki,Miyakonojo,姫城,885-0073,31.7196621,131.0616108
+45203020,Nobeoka Shougyoukoukou,General,Miyazaki,Nobeoka,日豊グリーンライン（沿海北部広域農道）,882-0054,32.6162437,131.6682596
+45203090,Nobeoka Ao Tomo Koukou,General,Miyazaki,Nobeoka,Hirabarumachi 2-chome,882-0867,32.5519338,131.6728739
+45203100,Nobeoka Hokensho,General,Miyazaki,Nobeoka,Onukimachi 1-chome,882-0833,32.5792054,131.6569185
+45203520,Shin Nobeoka Jihai Kyoku,Roadside,Miyazaki,Nobeoka,Idekita 1-chome,882-0856,32.575523,131.6791021
+45204010,Nichinan Hokensho,General,Miyazaki,Nichinan,,887-0022,31.60241139999999,131.3849154
+45204030,Aburatsu Shougakkou,General,Miyazaki,Nichinan,Sonoda 2-chome,887-0012,31.5904509,131.4018221
+45205010,Kobayashi Hokensho,General,Miyazaki,Kobayashi,National Highway Route 221,,31.9746486,130.9998959
+45206020,Daiou Tani Shougakkou,General,Miyazaki,Hyuga,日知屋財光寺線,883-0021,32.4344593,131.6439349
+45206030,Hyuuga Shiritsutoshokan,General,Miyazaki,Hyuga,土々呂日向線,883-0021,32.422895,131.622499
+45206080,Sai Shima Kouminkan,General,Miyazaki,Hyuga,日知屋財光寺線,883-0021,32.4344593,131.6439349
+45401010,Takanabe Machi Kenkou Zukuri Sentaa,General,Miyazaki,Takanabe,,,32.1282277,131.5214422
+45403010,Nishimera Mura Kenkou Zoushin Hiroba,General,Miyazaki,Nishi Mera,,,32.1919477,131.1300697
+45441010,Takachiho Hokensho,General,Miyazaki,Takachiho,諸塚高千穂線,882-1103,32.7057957,131.305506
+46201010,Kako Shima Shiyakusho,General,Kagoshima,Kagoshima,Kagoshima Kamou line,892-8677,31.5971526,130.5570106
+46201130,Taniyama Shisho,General,Kagoshima,Kagoshima,谷山支所通り,892-8677,31.5211226,130.5175926
+46201220,Arimura,General,Kagoshima,Kagoshima,National Route 224,892-8677,31.5573656,130.6803583
+46201260,Kurokami,General,Kagoshima,Kagoshima,Sakurajima-port Kurokami line,892-8677,31.5781089,130.7006459
+46201270,Kankyou Hoken Sentaa,General,Kagoshima,Kagoshima,Chuo,892-8677,31.584549,130.5644401
+46201520,Kamoike,Roadside,Kagoshima,Kagoshima,National Route 225,892-8677,31.5638604,130.5549198
+46202050,Kuma Yuki Shiro,General,Kagoshima,Satsumasendai,,895-0054,31.8002398,130.3056197
+46202520,Satsumasendai,Roadside,Kagoshima,Satsumasendai,,895-0072,31.8348819,130.2960984
+46203010,Kanoya,General,Kagoshima,Kanoya,,893-8501,31.375051,130.8487826
+46205010,Hane Shima,General,Kagoshima,Ichikikushikino,,,31.7590927,130.2020495
+46208010,Shussui,General,Kagoshima,Izumi,National Route 447,,32.0883132,130.3518848
+46212010,Kiri Shima,General,Kagoshima,Kirishima,,899-4394,31.7372411,130.7608788
+46220010,Minami Satsuma,General,Kagoshima,Minamisatsuma,石垣加世田線,897-0031,31.4164354,130.3226608
+46225010,Amami,General,Kagoshima,Amami,,,28.394818,129.5317049
+46302010,Sakura Shima Shisho,General,Kagoshima,Kagoshima,Sakurajima-port Kurokami line,892-8677,31.6195822,130.6345029
+46302020,Akamizu,General,Kagoshima,Kagoshima,,892-8677,31.5801549,130.6270694
+46321010,Kiire,General,Kagoshima,Kagoshima,喜入停車場線,892-8677,31.3733052,130.540838
+46466010,Shibushi,General,Kagoshima,Shibushi,Shibushicho-Shibushi 2-chome,899-7103,31.4721319,131.0994805
+46482010,Higashikushira,General,Kagoshima,Higashikushira,,,31.3687566,130.9914922
+47201140,Naha,General,Okinawa,Naha,,902-0064,26.2065694,127.6938886
+47201580,Matsuo,Roadside,Okinawa,Naha,Kokusai-dori Street,900-0013,26.2156651,127.6856935
+47206020,Taira,General,Okinawa,Miyakojima,Higashinakasone,906-0007,24.8035718,125.2880947
+47207020,Ishigaki,General,Okinawa,Ishigaki,National Highway Route 390,907-8501,24.3403406,124.187133
+47208510,Maki Minato,Roadside,Okinawa,Urasoe,National Highway Route 58,901-2501,26.2669106,127.7239785
+47209080,Nago,General,Okinawa,Nago,Motobu-junkan Line,905-8540,26.593427,127.9876849
+47210060,Itoman,General,Okinawa,Itoman,Nishizakicho 3-chome,901-0306,26.1457121,127.6655494
+47211050,Okinawa,General,Okinawa,Okinawa,Gushikawa Loop Road,904-2153,26.34776,127.8198015
+47301950,Kokusetsu Hedo Misaki Sanseiu,General,Okinawa,Kunigami,,905-1422,26.8438318,128.2585797
+47322010,Yonagusuku,General,Okinawa,Uruma,Prefectural Highway Route 10 Ikei-Tairagawa Line,904-2292,26.3565451,127.9723965
+47329010,Nishihara,General,Okinawa,Nishihara,,903-0220,26.2220248,127.7579288

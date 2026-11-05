@@ -1,0 +1,8 @@
+work/
+out/
+graph/
+external/
+__pycache__/
+*.duckdb
+*.duckdb.wal
+.DS_Store
