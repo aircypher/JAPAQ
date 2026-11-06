@@ -7,10 +7,10 @@ import json, sys
 import duckdb
 
 ART = sys.argv[1]
-F = f"{ART}/japaq_feature_obs_v1.0.0.parquet"
+F = f"{ART}/japaq_fe_v1.0.0.parquet"
 LOG = f"{ART}/japaq_corrections_log_v1.0.0.csv"
-RAW = f"{ART}/japaq_hourly_obs_v1.0.0.csv"
-STN = f"{ART}/japaq_station_en_v1.0.0.csv"
+RAW = f"{ART}/japaq_raw_hourly_obs_v1.0.0.csv"
+STN = f"{ART}/japaq_station_metadata_v1.0.0.csv"
 c = duckdb.connect(); c.execute("SET threads=16; SET memory_limit='40GB'")
 c.execute(f"CREATE VIEW f AS SELECT * FROM '{F}'")
 q = lambda s: c.execute(s).fetchall()

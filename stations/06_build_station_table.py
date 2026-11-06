@@ -6,7 +6,7 @@ Combines
   * its romanised copy (05_romanise_addresses.py), and
   * the recovered stations (04_recover_missing.py),
 into
-  <out_dir>/japaq_station_en_v1.0.0.csv   release file: every station described by the same columns
+  <out_dir>/japaq_station_metadata_v1.0.0.csv   release file: every station described by the same columns
                                           (recovered and romanised values written into them), with
                                           metadata_source, metadata_note and source;
   <work_dir>/station_resolved.csv         for pipeline/01_build_tables.py: the original columns of the
@@ -47,6 +47,6 @@ c.execute(f"COPY (SELECT *, {SRC} AS source FROM st ORDER BY sid) TO '{WORK}/sta
 c.execute(f"""COPY (SELECT sid, stationname_resolved AS stationname_en, stationtype_resolved AS stationtype_en,
     prefecture_resolved AS prefecture_en, city_resolved AS city_en, street_resolved AS street_en, pincode,
     lat_resolved AS lat, lon_resolved AS lon, admin_source AS metadata_source, admin_note AS metadata_note,
-    {SRC} AS source FROM st ORDER BY sid) TO '{OUT}/japaq_station_en_v1.0.0.csv' (HEADER)""")
+    {SRC} AS source FROM st ORDER BY sid) TO '{OUT}/japaq_station_metadata_v1.0.0.csv' (HEADER)""")
 print('stations:', c.execute("SELECT count(*), count(prefecture_resolved), count(lat_resolved) FROM st").fetchone())
 print(c.execute("SELECT admin_source, count(*) FROM st GROUP BY 1 ORDER BY 1").fetchall())

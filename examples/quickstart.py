@@ -1,7 +1,7 @@
 """
 quickstart.py — first steps with the JAPAQ feature table (no database needed).
 
-Usage: python examples/quickstart.py <path/to/japaq_feature_obs_v1.0.0.parquet>
+Usage: python examples/quickstart.py <path/to/japaq_fe_v1.0.0.parquet>
 Needs: pip install duckdb pandas
 """
 import sys

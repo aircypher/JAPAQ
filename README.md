@@ -6,10 +6,12 @@
 [![Neo4j 2026.02](https://img.shields.io/badge/neo4j-2026.02-008cc1.svg)](docs/KNOWLEDGE_GRAPH.md)
 [![GitHub issues](https://img.shields.io/github/issues/aircypher/JAPAQ)](https://github.com/aircypher/JAPAQ/issues)
 
-This repository holds the **code** that builds and validates JAPAQ, an analysis-ready record of
-Japan's national air quality monitoring network: **110,328,514 hourly records from 1,806 stations,
-January 2018 – December 2025**, for the five pollutants regulated by Japan's Environmental Quality
-Standards (PM2.5, SO2, NO, SPM, Ox) and three meteorological variables, with documented quality control
+This repository holds the **code** that builds and validates JAPAQ, a dataset of Japan's national air
+quality monitoring network. Its two products are built from the same records: **JAPAQ-FE**, the
+feature-enriched hourly table (**110,328,514 records from 1,806 stations, January 2018 – December
+2025**), and **JAPAQ-KG**, the same records as a Neo4j knowledge graph. They cover five pollutants
+(PM2.5, SO2, SPM, and Ox, which have Japanese Environmental Quality Standards, and NO) and three
+meteorological variables, with documented quality control
 and a Neo4j knowledge graph (JAPAQ-KG) of the same records.
 
 The **data** are on Zenodo: https://doi.org/10.5281/zenodo.21458239 (one zip, ~17 GB).
@@ -41,7 +43,7 @@ uses them for nationwide, multi-year research has to merge, clean, and enrich th
 
 JAPAQ does this once, documents every step, and releases the result with the evidence to check it:
 
-- ✅ **Scope** — all five regulated pollutants and three meteorological variables, eight years, one
+- ✅ **Scope** — five pollutants (four with Japanese standards, plus NO) and three meteorological variables, eight years, one
   record per station and hour.
 - 🔍 **Auditable quality control** — 2,235,358 non-physical values removed by three documented rules;
   implausible values flagged, not deleted; every change listed with its original value in a log; the raw
@@ -69,12 +71,12 @@ The Zenodo zip unpacks to a folder `japaq_v1.0.0/`:
 
 | File | What it is | Size |
 |---|---|---|
-| `japaq_feature_obs_v1.0.0.parquet` / `.csv` | **Start here.** The analysis-ready table: 110,328,514 rows × 48 columns | 0.5 GB / 35 GB |
-| `japaq_hourly_obs_v1.0.0.csv` | Raw hourly values exactly as downloaded (station, time, 5 pollutants, 3 weather variables) | 6 GB |
+| `japaq_fe_v1.0.0.parquet` / `.csv` | **Start here.** The analysis-ready table: 110,328,514 rows × 48 columns | 0.5 GB / 35 GB |
+| `japaq_raw_hourly_obs_v1.0.0.csv` | Raw hourly values exactly as downloaded (station, time, 5 pollutants, 3 weather variables) | 6 GB |
 | `japaq_corrections_log_v1.0.0.csv` | Every value set to null or flagged, with original value, stage, and rule | 0.2 GB |
-| `japaq_station_en_v1.0.0.csv` | English metadata for 1,825 stations, with the source of each station's metadata | 0.4 MB |
-| `japaq_station_info_v1.0.0.csv` | Original Soramame station list (Japanese) | 0.3 MB |
-| `japaq_knowledge_graph_v1.0.0.dump` | Neo4j database dump of the same records | 14 GB |
+| `japaq_station_metadata_v1.0.0.csv` | English metadata for 1,825 stations, with the source of each station's metadata | 0.4 MB |
+| `japaq_raw_station_list_v1.0.0.csv` | Original Soramame station list (Japanese) | 0.3 MB |
+| `japaq_kg_v1.0.0.dump` | Neo4j database dump of the same records | 14 GB |
 | `japaq_romanisation_log_v1.0.0.csv`, `sources.csv`, `STATION_METADATA_METHOD.md` | Romanised addresses, citations of all sources, method for recovered stations | small |
 | `README.md`, `DATA_SOURCES_AND_TERMS.md`, licences, `CHECKSUMS_SHA256.txt` | Documentation | small |
 
@@ -84,7 +86,7 @@ One row of the feature table = one station and one hour. Every column is explain
 # How the dataset is built
 
 ```
- Soramame hourly files ──► japaq_hourly_obs (raw, as downloaded)
+ Soramame hourly files ──► japaq_raw_hourly_obs (raw, as downloaded)
                                    │
  Soramame station list ─┐          ▼
  NIES station files     ├─► stations/  recover 143 closed stations, romanise addresses
@@ -97,7 +99,7 @@ One row of the feature table = one station and one hour. Every column is explain
                                     enrichment: station (SSR), calendar (TSR), severity (PSR), Beaufort
                        pipeline/02  Stage 4 for meteorology: stuck sensors, disagreement with neighbours
                                    │
-                                   ├─► japaq_feature_obs (table) + japaq_corrections_log
+                                   ├─► JAPAQ-FE (table) + japaq_corrections_log
                                    ▼
                        pipeline/03–04  Neo4j bulk import ─► JAPAQ-KG (graph)
                                    │
@@ -116,7 +118,7 @@ pip install duckdb pandas
 Download and unpack the Zenodo zip, then:
 
 ```bash
-python examples/quickstart.py japaq_v1.0.0/japaq_feature_obs_v1.0.0.parquet
+python examples/quickstart.py japaq_v1.0.0/4_JAPAQ-FE/japaq_fe_v1.0.0.parquet
 ```
 
 It prints the size of the table, the monthly mean PM2.5 in Tokyo in 2023, the share of hours per
@@ -127,7 +129,7 @@ change the prefecture, year, or pollutant and run it again.
 
 ```python
 import duckdb
-f = "japaq_v1.0.0/japaq_feature_obs_v1.0.0.parquet"
+f = "japaq_v1.0.0/4_JAPAQ-FE/japaq_fe_v1.0.0.parquet"
 df = duckdb.sql(f"""
     SELECT obsdate, pm25, pm25_level FROM '{f}'
     WHERE prefecture_resolved = 'Osaka' AND year = 2024 AND month = 1 AND pm25_flag IS NULL
@@ -138,7 +140,7 @@ df = duckdb.sql(f"""
 
 ```r
 library(arrow); library(dplyr)
-d <- open_dataset("japaq_v1.0.0/japaq_feature_obs_v1.0.0.parquet")
+d <- open_dataset("japaq_v1.0.0/4_JAPAQ-FE/japaq_fe_v1.0.0.parquet")
 d |> filter(prefecture_resolved == "Osaka", year == 2024, is.na(pm25_flag)) |>
      group_by(month) |> summarise(pm25 = mean(pm25, na.rm = TRUE)) |> collect()
 ```
@@ -164,7 +166,7 @@ and indexes are in [`docs/KNOWLEDGE_GRAPH.md`](docs/KNOWLEDGE_GRAPH.md).
 
 ```bash
 mkdir -p japaq-neo4j/backups
-cp japaq_v1.0.0/japaq_knowledge_graph_v1.0.0.dump japaq-neo4j/backups/neo4j.dump
+cp japaq_v1.0.0/5_JAPAQ-KG/japaq_kg_v1.0.0.dump japaq-neo4j/backups/neo4j.dump
 docker run --rm -v "$PWD/japaq-neo4j/data:/data" -v "$PWD/japaq-neo4j/backups:/backups" \
   neo4j:2026.02.2 neo4j-admin database load neo4j --from-path=/backups --overwrite-destination=true
 docker run -d --name japaq-kg -p 7474:7474 -p 7687:7687 \
@@ -202,7 +204,7 @@ bash run_all.sh ./japaq_v1.0.0 ./work ./out ./graph
 
 | Step | Time on a 32-core server | Output |
 |---|---|---|
-| Station metadata (`stations/`; downloads NIES and MIC files and checks their SHA-256) | ~1 min | `japaq_station_en_v1.0.0.csv` |
+| Station metadata (`stations/`; downloads NIES and MIC files and checks their SHA-256) | ~1 min | `japaq_station_metadata_v1.0.0.csv` |
 | Tables (`pipeline/01–02`) | ~16 min | feature table, corrections log, `sources.csv` |
 | Graph (`pipeline/03–04`, Docker) | ~50 min | Neo4j database in `./graph` |
 
@@ -265,7 +267,7 @@ inputs/           geocoded station list (January 2026) and checksums of third-pa
 **Which file should I use?** The Parquet feature table, for almost everything. Use the graph for graph
 tools or Cypher, and the raw file to check or redo the cleaning.
 
-**How do I get one station's data?** Find its code (`sid`) in `japaq_station_en_v1.0.0.csv` and filter
+**How do I get one station's data?** Find its code (`sid`) in `japaq_station_metadata_v1.0.0.csv` and filter
 `WHERE sid = '…'`.
 
 **Why are some values empty?** Either the station did not measure that variable at that hour, or quality

@@ -24,7 +24,7 @@ import time
 import duckdb
 
 ART = sys.argv[1]
-FEAT = f'{ART}/japaq_feature_obs_v1.0.0'
+FEAT = f'{ART}/japaq_fe_v1.0.0'
 LOG = f'{ART}/japaq_corrections_log_v1.0.0.csv'
 REPORT = f'{ART}/BUILD_REPORT_meteorology_flags.txt'
 RUN, RUN_SAT, RADIUS_KM, TEMP_DEV, WS_EXCESS, MIN_NB = 24, 72, 50, 15, 25, 3

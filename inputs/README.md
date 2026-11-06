@@ -6,4 +6,4 @@
 | `external_sha256.txt` | SHA-256 checksums of the third-party files used for JAPAQ (NIES station files FY2016–2024, MIC code lists), downloaded by `stations/01_download_sources.sh`. | — |
 
 The hourly observations and the Japanese station list are taken from the Zenodo record of the dataset
-(`japaq_hourly_obs_v1.0.0.csv`, `japaq_station_info_v1.0.0.csv`).
+(`japaq_raw_hourly_obs_v1.0.0.csv`, `japaq_raw_station_list_v1.0.0.csv`).

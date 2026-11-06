@@ -4,7 +4,7 @@ make_figures.py — regenerate the two data figures of the manuscript (Figures 3
   fig3: spatial coverage — (A) station map, (B) top-15 prefectures by station count
   fig4: (A) annual and (B) seasonal mean concentrations of the five pollutants
 
-Inputs : japaq_station_en_v1.0.0.csv, japaq_feature_obs_v1.0.0.parquet, japan_prefectures.geojson
+Inputs : japaq_station_metadata_v1.0.0.csv, japaq_fe_v1.0.0.parquet, japan_prefectures.geojson
 Outputs: <out_dir>/pdf/fig3.pdf, fig4.pdf and <out_dir>/jpeg/fig3.jpeg, fig4.jpeg (300 dpi)
 Usage  : python validation/make_figures.py <release_dir> <geojson> <out_dir>
 """
@@ -17,8 +17,8 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 ART, GEOJSON, OUT = sys.argv[1:4]
-FEAT = f"{ART}/japaq_feature_obs_v1.0.0.parquet"
-STN = f"{ART}/japaq_station_en_v1.0.0.csv"
+FEAT = f"{ART}/japaq_fe_v1.0.0.parquet"
+STN = f"{ART}/japaq_station_metadata_v1.0.0.csv"
 for d in ("pdf", "jpeg"):
     os.makedirs(f"{OUT}/{d}", exist_ok=True)
 

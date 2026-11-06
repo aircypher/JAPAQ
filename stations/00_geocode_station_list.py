@@ -1,7 +1,7 @@
 """
 00_geocode_station_list.py
 ==========================
-Reads the Soramame station list (japaq_station_info_v1.0.0.csv), romanizes station names with
+Reads the Soramame station list (japaq_raw_station_list_v1.0.0.csv), romanizes station names with
 pykakasi, reverse-geocodes each station's lat/lon via OpenStreetMap Nominatim, and writes the
 English station list. The output used for JAPAQ (January 2026) is provided as
 inputs/station_en_snapshot_2026-01.csv; because OpenStreetMap changes over time, a new run can
@@ -16,7 +16,7 @@ Output:
     city_en, street_en, pincode, lat, lon
 
 Usage:
-  python stations/00_geocode_station_list.py <japaq_station_info_v1.0.0.csv> <out.csv>
+  python stations/00_geocode_station_list.py <japaq_raw_station_list_v1.0.0.csv> <out.csv>
 
 Note: Nominatim ToS requires max 1 request/second. With 1,682 stations
       this takes ~30 minutes. Output is saved to disk so it only needs

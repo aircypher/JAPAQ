@@ -7,7 +7,7 @@
    are not in the January 2026 station list (missing_stations.csv), and their NIES record if any
    (recovered_nies.csv).
 
-Usage: python stations/02_nies_station_files.py <external_dir> <station_snapshot.csv> <japaq_hourly_obs.csv> <work_dir>
+Usage: python stations/02_nies_station_files.py <external_dir> <station_snapshot.csv> <japaq_raw_hourly_obs.csv> <work_dir>
 """
 import glob
 import io

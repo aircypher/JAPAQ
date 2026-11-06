@@ -1,6 +1,6 @@
 # Data dictionary
 
-## Feature table — `japaq_feature_obs_v1.0.0` (CSV and Parquet, 110,328,514 rows, 48 columns)
+## Feature table — `japaq_fe_v1.0.0` (CSV and Parquet, 110,328,514 rows, 48 columns)
 
 One row per station and hour with at least one valid value of the five pollutants. Empty = missing in
 the source, or set to null by quality control (the corrections log says which).
@@ -25,7 +25,7 @@ the source, or set to null by quality control (the corrections log says which).
 
 | Column | Meaning |
 |---|---|
-| `stationname_resolved`, `stationtype_resolved`, `prefecture_resolved`, `city_resolved`, `street_resolved`, `lat_resolved`, `lon_resolved` | Same fields for all stations: the station list where available, otherwise recovered from NIES station files or from the station code; Japanese-script addresses romanised. Equal to the columns of `japaq_station_en_v1.0.0.csv`. 59 stations have no coordinates, street, or name (no official source) |
+| `stationname_resolved`, `stationtype_resolved`, `prefecture_resolved`, `city_resolved`, `street_resolved`, `lat_resolved`, `lon_resolved` | Same fields for all stations: the station list where available, otherwise recovered from NIES station files or from the station code; Japanese-script addresses romanised. Equal to the columns of `japaq_station_metadata_v1.0.0.csv`. 59 stations have no coordinates, street, or name (no official source) |
 | `source` | Key into `sources.csv` (`AEROS`: the measurements come from the Soramame system) |
 
 ### Time (Japan Standard Time; the timestamp marks the end of the hour)
@@ -83,13 +83,13 @@ hourly values, and NO has no standard. The basis of each boundary is given in th
 | `rule` | Rule name |
 | `action` | `nulled` (value removed in the feature table and graph) or `flagged` (value kept, `*_flag` set) |
 
-## Raw file — `japaq_hourly_obs_v1.0.0.csv` (114,237,726 rows)
+## Raw file — `japaq_raw_hourly_obs_v1.0.0.csv` (114,237,726 rows)
 
 `stationid, obsdate, so2, no, spm, ox, pm25, ws, temp, hum`, exactly as downloaded, including negative
 values and fill codes. It contains every downloaded row, also rows without any valid pollutant value
 (not in the feature table).
 
-## Station table — `japaq_station_en_v1.0.0.csv` (1,825 stations)
+## Station table — `japaq_station_metadata_v1.0.0.csv` (1,825 stations)
 
 `sid, stationname_en, stationtype_en, prefecture_en, city_en, street_en, pincode, lat, lon` (complete
 values, as the `*_resolved` columns of the feature table), `metadata_source`
@@ -98,7 +98,7 @@ values, as the `*_resolved` columns of the feature table), `metadata_source`
 
 ## Other files
 
-- `japaq_station_info_v1.0.0.csv` — the Soramame station list (Japanese), with the variables measured at
+- `japaq_raw_station_list_v1.0.0.csv` — the Soramame station list (Japanese), with the variables measured at
   each station.
 - `japaq_romanisation_log_v1.0.0.csv` — `sid, field, original, new, method` for every romanised address.
 - `sources.csv` — `source_id, citation, url, version, licence, covers` for AEROS, OSM, NIES, MIC.

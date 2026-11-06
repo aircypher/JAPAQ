@@ -19,7 +19,7 @@ import duckdb
 
 ART, STN, IMP = sys.argv[1], sys.argv[2], sys.argv[3]
 os.makedirs(IMP, exist_ok=True)
-FEAT = f'{ART}/japaq_feature_obs_v1.0.0.parquet'
+FEAT = f'{ART}/japaq_fe_v1.0.0.parquet'
 
 c = duckdb.connect()
 c.execute("SET threads=16; SET memory_limit='40GB'")

@@ -2,7 +2,7 @@
 01_build_tables.py — JAPAQ feature table and corrections log from the hourly observations.
 
 Input
-  japaq_hourly_obs_v1.0.0.csv   raw hourly observations (station, timestamp, five pollutants, three
+  japaq_raw_hourly_obs_v1.0.0.csv   raw hourly observations (station, timestamp, five pollutants, three
                                 meteorological variables), values exactly as downloaded from Soramame
   station_resolved.csv          station metadata from stations/06_build_station_table.py
 Steps
@@ -18,7 +18,7 @@ Steps
      Beaufort class, quality flags, source.
 The meteorological Stage 4 flags are added by 02_flag_meteorology.py.
 
-Usage: python pipeline/01_build_tables.py <japaq_hourly_obs_v1.0.0.csv> <station_resolved.csv> <out_dir>
+Usage: python pipeline/01_build_tables.py <japaq_raw_hourly_obs_v1.0.0.csv> <station_resolved.csv> <out_dir>
 Memory: DuckDB is limited to JAPAQ_MEMORY (default 40GB) and spills to <out_dir>/_tmp.
 """
 import csv
@@ -29,7 +29,7 @@ import duckdb
 import holidays
 
 RAW_SRC, STATION_RESOLVED, OUT = sys.argv[1:4]
-TABLE_OUT = f'{OUT}/japaq_feature_obs_v1.0.0'
+TABLE_OUT = f'{OUT}/japaq_fe_v1.0.0'
 LOG_OUT = f'{OUT}/japaq_corrections_log_v1.0.0.csv'
 SOURCES_OUT = f'{OUT}/sources.csv'
 REPORT = f'{OUT}/BUILD_REPORT.txt'

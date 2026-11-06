@@ -1,7 +1,7 @@
 # JAPAQ-KG — the knowledge graph
 
 JAPAQ-KG holds the records of the feature table as a Neo4j property graph. Each row of
-`japaq_feature_obs_v1.0.0` is one `ObservedPollutant` node and one `ObservationTime` node with the same
+`japaq_fe_v1.0.0` is one `ObservedPollutant` node and one `ObservationTime` node with the same
 `tid`; each station is one `Station` node and one `Location` node.
 
 ## Schema
@@ -39,7 +39,7 @@ Install Docker from https://docs.docker.com/get-docker/ first.
 ```bash
 # 1. put the dump where the loader can see it (the file must be called neo4j.dump)
 mkdir -p japaq-neo4j/backups japaq-neo4j/data
-cp japaq_v1.0.0/japaq_knowledge_graph_v1.0.0.dump japaq-neo4j/backups/neo4j.dump
+cp japaq_v1.0.0/5_JAPAQ-KG/japaq_kg_v1.0.0.dump japaq-neo4j/backups/neo4j.dump
 
 # 2. load it into an empty database folder (takes about 10 minutes)
 docker run --rm \
@@ -79,7 +79,7 @@ the database size) or on the Parquet table instead.
 3. **Load the dump** (from the Neo4j folder):
 
    ```bash
-   mkdir -p backups && cp /path/to/japaq_v1.0.0/japaq_knowledge_graph_v1.0.0.dump backups/neo4j.dump
+   mkdir -p backups && cp /path/to/japaq_v1.0.0/5_JAPAQ-KG/japaq_kg_v1.0.0.dump backups/neo4j.dump
    bin/neo4j-admin database load neo4j --from-path=backups --overwrite-destination=true
    ```
 
@@ -121,7 +121,7 @@ WHERE p.pm25_flag IS NULL
 RETURN l.prefecture_resolved AS prefecture, count(*) AS hours ORDER BY hours DESC LIMIT 5;
 ```
 
-More: `examples/example_queries.cypher`. Stations and their codes: `japaq_station_en_v1.0.0.csv`.
+More: `examples/example_queries.cypher`. Stations and their codes: `japaq_station_metadata_v1.0.0.csv`.
 
 ## From Python
 

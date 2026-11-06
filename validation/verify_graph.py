@@ -13,7 +13,7 @@ import duckdb
 from neo4j import GraphDatabase
 
 ART, STN = sys.argv[1], sys.argv[2]
-FEAT = f'{ART}/japaq_feature_obs_v1.0.0.parquet'
+FEAT = f'{ART}/japaq_fe_v1.0.0.parquet'
 LOG = f'{ART}/japaq_corrections_log_v1.0.0.csv'
 drv = GraphDatabase.driver(os.environ['NEO4J_URI'], auth=(os.environ['NEO4J_USER'], os.environ['NEO4J_PASS']))
 c = duckdb.connect()

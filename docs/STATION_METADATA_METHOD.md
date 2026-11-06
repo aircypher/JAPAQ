@@ -61,5 +61,5 @@ These 59 stations have no coordinates; no official source for them was found.
 | NIES station files | 84 | yes | yes | yes | yes |
 | Station code + MIC / e-Stat | 59 | yes | yes | yes (98% rule) | no |
 
-The values are in `japaq_station_en_v1.0.0.csv` (`metadata_source`, `metadata_note`). The scripts that produce them
+The values are in `japaq_station_metadata_v1.0.0.csv` (`metadata_source`, `metadata_note`). The scripts that produce them
 (`nies_match.py`, `admin_codes.py`, `admin_final.py`) are in the code repository.

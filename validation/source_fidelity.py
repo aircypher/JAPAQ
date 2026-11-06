@@ -9,7 +9,7 @@ B: 1,000 random nulled values per pollutant from the corrections log: must be nu
 Values flagged by Stage 4 are kept and therefore count as unchanged.
 
 Usage (with NEO4J_URI, NEO4J_USER, NEO4J_PASS):
-  python validation/source_fidelity.py <japaq_hourly_obs_v1.0.0.csv> <japaq_corrections_log_v1.0.0.csv> <result_dir>
+  python validation/source_fidelity.py <japaq_raw_hourly_obs_v1.0.0.csv> <japaq_corrections_log_v1.0.0.csv> <result_dir>
 """
 import os, random, json, sys, duckdb, pandas as pd
 from neo4j import GraphDatabase
